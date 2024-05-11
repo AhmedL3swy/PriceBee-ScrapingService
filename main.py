@@ -4,6 +4,7 @@ from fastapi.responses import RedirectResponse
 # region import local Scrapers
 from controllers.aliexpressController import scrape_aliexpress_full, scrape_aliexpress_images, scrape_aliexpress_price
 from controllers.amazonController import scrape_amazon_full, scrape_amazon_images, scrape_amazon_price
+from controllers.amazonSaController import scrape_amazonSa_full, scrape_amazonSa_images, scrape_amazonSa_price
 from controllers.noonController import  scrape_noon_full, scrape_noon_images, scrape_noon_price
 # endregion
 
@@ -44,6 +45,17 @@ async def get_amazon_price(url: str):
 @app.get("/images/amazon/")
 async def get_amazon_images(url: str):
     return await scrape_amazon_images(url)
+#endregion
+#region amazonSa
+@app.get("/details/amazonSa/")
+async def get_amazonSa_details(url: str):
+    return await scrape_amazonSa_full(url)
+@app.get("/price/amazonSa/")
+async def get_amazonSa_price(url: str):
+    return await scrape_amazonSa_price(url)
+@app.get("/images/amazonSa/")
+async def get_amazonSa_images(url: str):
+    return await scrape_amazonSa_images(url)
 if __name__ == "__main__":
     import uvicorn
     uvicorn.run(app, host="0.0.0.0", port=8000)
