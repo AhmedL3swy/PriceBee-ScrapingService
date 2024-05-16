@@ -6,7 +6,7 @@ from models.Product import ItemData, ItemImages, ItemPrice
 async def scrape_noon_full(url: str) -> dict:
     start_time = time.time()
     asession = AsyncHTMLSession()
-    response = await asession.get(url)
+    #response = await asession.get(url)
     # soup = BeautifulSoup(response.content, 'html.parser')
     # title = soup.find('h1').get_text().strip()
     # price = soup.find('div', class_='priceNow').get_text().split('.')[0].strip()
@@ -19,7 +19,7 @@ async def scrape_noon_full(url: str) -> dict:
     #         img.append(i['src'])
     # end_time = time.time()
     # item_data = ItemData(title=title, price=price, rating=rating, description=description, images=img)
-    return {"response": response}
+    return {"response": 1}
 
 async def scrape_noon_price(url: str) -> dict:
     start_time = time.time()
