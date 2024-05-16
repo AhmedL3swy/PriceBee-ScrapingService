@@ -3,3 +3,5 @@ bs4
 requests_html
 lxml[html_clean]
 gunicorn
+uvicorn
+fake_headers
