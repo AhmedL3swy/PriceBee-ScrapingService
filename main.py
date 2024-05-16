@@ -5,6 +5,8 @@ from fastapi.responses import RedirectResponse
 from controllers.aliexpressController import scrape_aliexpress_full, scrape_aliexpress_images, scrape_aliexpress_price
 from controllers.amazonController import scrape_amazon_full, scrape_amazon_images, scrape_amazon_price
 from controllers.amazonSaController import scrape_amazonSa_full, scrape_amazonSa_images, scrape_amazonSa_price
+from controllers.extraController import scrape_extra_full, scrape_extra_images, scrape_extra_price
+from controllers.jarirController import scrape_Jarir_full, scrape_Jarir_images, scrape_Jarir_price
 from controllers.noonController import  scrape_noon_full, scrape_noon_images, scrape_noon_price
 # endregion
 
@@ -56,6 +58,29 @@ async def get_amazonSa_price(url: str):
 @app.get("/images/amazonSa/")
 async def get_amazonSa_images(url: str):
     return await scrape_amazonSa_images(url)
+#region Jarir
+@app.get("/details/jarir/")
+async def get_jarir_details(url: str):
+    return await scrape_Jarir_full(url)
+@app.get("/price/jarir/")
+async def get_jarir_price(url: str):
+    return await scrape_Jarir_price(url)
+@app.get("/images/jarir/")
+async def get_jarir_images(url: str):
+    return await scrape_Jarir_images(url)
+#endregion
+#region Extra
+@app.get("/details/extra/")
+async def get_extra_details(url: str):
+    return await scrape_extra_full(url)
+@app.get("/price/extra/")
+async def get_extra_price(url: str):
+    return await scrape_extra_price(url)
+@app.get("/images/extra/")
+async def get_extra_images(url: str):
+    return await scrape_extra_images(url)
+
+#region Run the app
 if __name__ == "__main__":
     import uvicorn
-    uvicorn.run(app, host="0.0.0.0", port=8000)
+    uvicorn.run(app, port=8000)
