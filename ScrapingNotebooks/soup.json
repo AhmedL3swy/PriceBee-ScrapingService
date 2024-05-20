@@ -1,0 +1,1834 @@
+{
+  "code": "100343500",
+  "name": "”«Â”ËÊÃ Ã«‰„”Í “œ ·Ë‰œ 5¨ ¨ 5 ÃÍ ¨ 512 ÃÍÃ«¨ «“—‚",
+  "url": "/mobiles-tablets/mobiles/smartphone/samsung-galaxy-z-fold-5-5g-512gb-icy-blue/p/100343500",
+  "description": "”«Â”ËÊÃ Ã«‰„”Í “œ ·Ë‰œ 5¨ ¨ 5 ÃÍ ¨ 512 ÃÍÃ«¨ «“—‚",
+  "purchasable": true,
+  "stock": {
+    "stockLevelStatus": { "code": "lowStock", "type": "StockLevelStatus" },
+    "stockLevel": 10,
+    "stockThreshold": null
+  },
+  "futureStocks": null,
+  "availableForPickup": false,
+  "averageRating": null,
+  "numberOfReviews": 244,
+  "summary": "”«Â”ËÊÃ Ã«‰„”Í “œ ·Ë‰œ 5¨ ¨ 5 ÃÍ ¨ 512 ÃÍÃ«¨ «“—‚",
+  "manufacturer": null,
+  "variantType": null,
+  "price": {
+    "currencyIso": "SAR",
+    "value": 7399,
+    "priceType": "BUY",
+    "formattedValue": "7399",
+    "minQuantity": null,
+    "maxQuantity": null
+  },
+  "baseProduct": "Base_Product-100343500",
+  "images": null,
+  "categories": [
+    {
+      "code": "SAMSNG",
+      "name": "”«Â”ËÊÃ",
+      "url": "/samsung/c/SAMSNG",
+      "description": null,
+      "image": null,
+      "parentCategoryName": null,
+      "sequence": 0,
+      "categoryRank": null,
+      "isCatLandingPage": false
+    },
+    {
+      "code": "2-212-3",
+      "name": "«‰Á« · «‰–„Í",
+      "url": "/mobiles-tablets/mobiles/smartphone/c/2-212-3",
+      "description": null,
+      "image": null,
+      "parentCategoryName": null,
+      "sequence": 0,
+      "categoryRank": null,
+      "isCatLandingPage": false
+    }
+  ],
+  "reviews": [],
+  "classifications": [
+    {
+      "code": "000020021200003",
+      "name": null,
+      "features": [
+        {
+          "code": "extra_sa_Classification/1.0/000020021200003.2090",
+          "name": "Êÿ«Â «‰ ‘⁄Í‰",
+          "description": null,
+          "type": null,
+          "range": false,
+          "comparable": true,
+          "featureUnit": null,
+          "featureValues": [
+            { "value": "«Êœ—ËÍœ 13" }
+          ]
+        },
+        {
+          "code": "extra_sa_Classification/1.0/000020021200003.2106",
+          "name": "ÂœŒ‰ »◊«‚… «‰–«„—…",
+          "description": null,
+          "type": null,
+          "range": false,
+          "comparable": true,
+          "featureUnit": null,
+          "featureValues": [{ "value": "‰«" }]
+        },
+        {
+          "code": "extra_sa_Classification/1.0/000020021200003.2124",
+          "name": "Â”«Õ… «‰–«„—… «‰Ÿ‘Ë«∆Í… (—«Â)",
+          "description": null,
+          "type": null,
+          "range": false,
+          "comparable": true,
+          "featureUnit": null,
+          "featureValues": [
+            { "value": "12 ÃÍÃ«»«Í " }
+          ]
+        },
+        {
+          "code": "extra_sa_Classification/1.0/000020021200003.2173",
+          "name": "«‰‰ËÊ",
+          "description": null,
+          "type": null,
+          "range": false,
+          "comparable": true,
+          "featureUnit": null,
+          "featureValues": [{ "value": "«“—‚" }]
+        },
+        {
+          "code": "extra_sa_Classification/1.0/000020021200003.2178",
+          "name": "‘»„… «‰« ’«‰",
+          "description": null,
+          "type": null,
+          "range": false,
+          "comparable": true,
+          "featureUnit": null,
+          "featureValues": [
+            {
+              "value": "«‰ÃÍ‰ «‰Œ«Â”"
+            }
+          ]
+        },
+        {
+          "code": "extra_sa_Classification/1.0/000020021200003.2181",
+          "name": "ÕÃÂ «‰‘«‘…(»«‰»Ë’…)",
+          "description": null,
+          "type": null,
+          "range": false,
+          "comparable": true,
+          "featureUnit": null,
+          "featureValues": [{ "value": "7.6 »Ë’…" }]
+        },
+        {
+          "code": "extra_sa_Classification/1.0/000020021200003.2193",
+          "name": "„«ÂÍ—« Œ‰·Í…",
+          "description": null,
+          "type": null,
+          "range": false,
+          "comparable": true,
+          "featureUnit": null,
+          "featureValues": [
+            {
+              "value": "50ÂŸ12ÂŸ10 ÂÍÃ« »Í„”‰"
+            }
+          ]
+        },
+        {
+          "code": "extra_sa_Classification/1.0/000020021200003.2197",
+          "name": "–«„—… / œ«Œ‰Í…",
+          "description": null,
+          "type": null,
+          "range": false,
+          "comparable": true,
+          "featureUnit": null,
+          "featureValues": [
+            { "value": "512 ÃÍÃ«»«Í " }
+          ]
+        },
+        {
+          "code": "extra_sa_Classification/1.0/000020021200003.2257",
+          "name": "«‰◊Ë‰",
+          "description": null,
+          "type": null,
+          "range": false,
+          "comparable": true,
+          "featureUnit": null,
+          "featureValues": [{ "value": "0.61 ”Â" }]
+        },
+        {
+          "code": "extra_sa_Classification/1.0/000020021200003.2264",
+          "name": "«‰Ë“Ê",
+          "description": null,
+          "type": null,
+          "range": false,
+          "comparable": true,
+          "featureUnit": null,
+          "featureValues": [{ "value": "0.25 „⁄" }]
+        },
+        {
+          "code": "extra_sa_Classification/1.0/000020021200003.2365",
+          "name": "’ÊŸ ·È",
+          "description": null,
+          "type": null,
+          "range": false,
+          "comparable": true,
+          "featureUnit": null,
+          "featureValues": [{ "value": "Â ÊËŸ" }]
+        },
+        {
+          "code": "extra_sa_Classification/1.0/000020021200003.2409",
+          "name": "ÕÃÂ «‰»◊«—Í… (Â‰‰Í √Â»Í—)",
+          "description": null,
+          "type": null,
+          "range": false,
+          "comparable": true,
+          "featureUnit": null,
+          "featureValues": [{ "value": "4400mAh" }]
+        },
+        {
+          "code": "extra_sa_Classification/1.0/000020021200003.2410",
+          "name": "œ‚… «‰„«ÂÍ—« «‰√Â«ÂÍ…",
+          "description": null,
+          "type": null,
+          "range": false,
+          "comparable": true,
+          "featureUnit": null,
+          "featureValues": [
+            {
+              "value": "10ÂŸ 4 ÂÍÃ«»Í„”‰"
+            }
+          ]
+        },
+        {
+          "code": "extra_sa_Classification/1.0/000020021200003.2411",
+          "name": "Â‚«ËÂ ‰‰Â«¡",
+          "description": null,
+          "type": null,
+          "range": false,
+          "comparable": true,
+          "featureUnit": null,
+          "featureValues": [{ "value": "ÊŸÂ" }]
+        },
+        {
+          "code": "extra_sa_Classification/1.0/000020021200003.2412",
+          "name": "Â«”Õ «‰»’Â…(ÊŸÂ/‰«)",
+          "description": null,
+          "type": null,
+          "range": false,
+          "comparable": true,
+          "featureUnit": null,
+          "featureValues": [{ "value": "ÊŸÂ" }]
+        },
+        {
+          "code": "extra_sa_Classification/1.0/000020021200003.2415",
+          "name": "«”Â «‰”‰”‰…",
+          "description": null,
+          "type": null,
+          "range": false,
+          "comparable": true,
+          "featureUnit": null,
+          "featureValues": [{ "value": "F Series" }]
+        },
+        {
+          "code": "extra_sa_Classification/1.0/000020021200003.2446",
+          "name": "«‰Ÿ—÷",
+          "description": null,
+          "type": null,
+          "range": false,
+          "comparable": true,
+          "featureUnit": null,
+          "featureValues": [{ "value": "12.96 cm" }]
+        },
+        {
+          "code": "extra_sa_Classification/1.0/000020021200003.2450",
+          "name": "«‰«— ·«Ÿ",
+          "description": null,
+          "type": null,
+          "range": false,
+          "comparable": true,
+          "featureUnit": null,
+          "featureValues": [{ "value": "15.48 ”Â" }]
+        },
+        {
+          "code": "extra_sa_Classification/1.0/000020021200003.2975",
+          "name": "ÊËŸ «‰‘«‘…",
+          "description": null,
+          "type": null,
+          "range": false,
+          "comparable": true,
+          "featureUnit": null,
+          "featureValues": [
+            {
+              "value": "œ«ÍÊ«ÂÍ„ √ÂË‰œ"
+            }
+          ]
+        },
+        {
+          "code": "extra_sa_Classification/1.0/000020021200003.3949",
+          "name": "ÂŸ—· «‰ËÃÁ",
+          "description": null,
+          "type": null,
+          "range": false,
+          "comparable": true,
+          "featureUnit": null,
+          "featureValues": [{ "value": "ÊŸÂ" }]
+        },
+        {
+          "code": "extra_sa_Classification/1.0/000020021200003.6856",
+          "name": "«”Â «‰Â«—„…",
+          "description": null,
+          "type": null,
+          "range": false,
+          "comparable": true,
+          "featureUnit": null,
+          "featureValues": [
+            { "value": "”«Â”ËÊÃ" }
+          ]
+        },
+        {
+          "code": "extra_sa_Classification/1.0/000020021200003.3051",
+          "name": "ÊËŸ «‰ÃÁ«“",
+          "description": null,
+          "type": null,
+          "range": false,
+          "comparable": true,
+          "featureUnit": null,
+          "featureValues": [{ "value": "GALAXY Z FOLD 5" }]
+        },
+        {
+          "code": "extra_sa_Classification/1.0/000020021200003.8261",
+          "name": "œ‚… «‰‘«‘…",
+          "description": null,
+          "type": null,
+          "range": false,
+          "comparable": true,
+          "featureUnit": null,
+          "featureValues": [{ "value": "2176 x 1812 (QXGA+)" }]
+        },
+        {
+          "code": "extra_sa_Classification/1.0/000020021200003.8262",
+          "name": "Œ«’Í… «‰« ’«‰ ≈Ê ≈· ”Í",
+          "description": null,
+          "type": null,
+          "range": false,
+          "comparable": true,
+          "featureUnit": null,
+          "featureValues": [{ "value": "ÊŸÂ" }]
+        },
+        {
+          "code": "extra_sa_Classification/1.0/000020021200003.8263",
+          "name": "‘«‘… Â—Ê…",
+          "description": null,
+          "type": null,
+          "range": false,
+          "comparable": true,
+          "featureUnit": null,
+          "featureValues": [{ "value": "ÊŸÂ" }]
+        },
+        {
+          "code": "extra_sa_Classification/1.0/000020021200003.8264",
+          "name": "ÊËŸ «‰‘—ÍÕ…",
+          "description": null,
+          "type": null,
+          "range": false,
+          "comparable": true,
+          "featureUnit": null,
+          "featureValues": [
+            {
+              "value": "ÀÊ«∆Í «‰‘—ÍÕ… Ê«ËÊË"
+            }
+          ]
+        },
+        {
+          "code": "extra_sa_Classification/1.0/000020021200003.8265",
+          "name": " Ë«·‚ «‰‘ÕÊ",
+          "description": null,
+          "type": null,
+          "range": false,
+          "comparable": true,
+          "featureUnit": null,
+          "featureValues": [{ "value": "ÊËŸ ”Í" }]
+        },
+        {
+          "code": "extra_sa_Classification/1.0/000020021200003.8266",
+          "name": "«‰‘ÕÊ «‰‰«”‰„Í",
+          "description": null,
+          "type": null,
+          "range": false,
+          "comparable": true,
+          "featureUnit": null,
+          "featureValues": [{ "value": "ÊŸÂ" }]
+        },
+        {
+          "code": "extra_sa_Classification/1.0/000020021200003.8267",
+          "name": "Â‘«—„… «‰◊«‚…",
+          "description": null,
+          "type": null,
+          "range": false,
+          "comparable": true,
+          "featureUnit": null,
+          "featureValues": [{ "value": "ÊŸÂ" }]
+        }
+      ],
+      "value": null,
+      "pcpRank": null
+    }
+  ],
+  "potentialPromotions": [],
+  "variantOptions": null,
+  "baseOptions": [
+    {
+      "variantType": "GenericVariantProduct",
+      "options": [
+        {
+          "code": "100343500",
+          "stock": {
+            "stockLevelStatus": {
+              "code": "outOfStock",
+              "type": "StockLevelStatus"
+            },
+            "stockLevel": 0,
+            "stockThreshold": null
+          },
+          "url": "/mobiles-tablets/mobiles/smartphone/samsung-galaxy-z-fold-5-5g-512gb-icy-blue/p/100343500",
+          "priceData": {
+            "currencyIso": "SAR",
+            "value": 7399,
+            "priceType": "BUY",
+            "formattedValue": "7399",
+            "minQuantity": null,
+            "maxQuantity": null
+          },
+          "variantOptionQualifiers": [],
+          "amplienceProductBaseUrl": null,
+          "swappableCategory": null,
+          "swappableValue": null,
+          "compatibleVariant": false
+        }
+      ],
+      "selected": {
+        "code": "100343500",
+        "stock": {
+          "stockLevelStatus": {
+            "code": "outOfStock",
+            "type": "StockLevelStatus"
+          },
+          "stockLevel": 0,
+          "stockThreshold": null
+        },
+        "url": "/mobiles-tablets/mobiles/smartphone/samsung-galaxy-z-fold-5-5g-512gb-icy-blue/p/100343500",
+        "priceData": {
+          "currencyIso": "SAR",
+          "value": 7399,
+          "priceType": "BUY",
+          "formattedValue": "7399",
+          "minQuantity": null,
+          "maxQuantity": null
+        },
+        "variantOptionQualifiers": [],
+        "amplienceProductBaseUrl": null,
+        "swappableCategory": null,
+        "swappableValue": null,
+        "compatibleVariant": false
+      }
+    }
+  ],
+  "volumePricesFlag": null,
+  "volumePrices": [],
+  "productReferences": null,
+  "variantMatrix": [],
+  "priceRange": {
+    "minPrice": {
+      "currencyIso": "SAR",
+      "value": 7399,
+      "priceType": "FROM",
+      "formattedValue": "7399",
+      "minQuantity": null,
+      "maxQuantity": null
+    },
+    "maxPrice": {
+      "currencyIso": "SAR",
+      "value": 7399,
+      "priceType": "FROM",
+      "formattedValue": "7399",
+      "minQuantity": null,
+      "maxQuantity": null
+    }
+  },
+  "firstCategoryNameList": null,
+  "multidimensional": true,
+  "configurable": false,
+  "configuratorType": null,
+  "addToCartDisabled": null,
+  "addToCartDisabledMessage": null,
+  "tags": null,
+  "keywords": null,
+  "amplienceMediaSet": "100343500_800",
+  "discountPrice": {
+    "currencyIso": "SAR",
+    "value": 5999,
+    "priceType": "BUY",
+    "formattedValue": "5999",
+    "minQuantity": null,
+    "maxQuantity": null
+  },
+  "percentageDiscount": {
+    "currencyIso": "SAR",
+    "value": 18.92,
+    "priceType": "BUY",
+    "formattedValue": "18.92",
+    "minQuantity": null,
+    "maxQuantity": null
+  },
+  "variantCategories": [],
+  "variantValueCategories": [],
+  "imgBrandCategory": "//media.extra.com/i/aurora/SAMSNG_700",
+  "rating": 4.3,
+  "tasheelInstallmentMonths": 36,
+  "tasheelImageUrl": "https://exprdstrgcdn.blob.core.windows.net/exprdeccdn01/ImagesSections/hybris/apps/CategoryIcons/newuiuxicons/Baseeta-arabic-logo.png",
+  "tasheelIconUrl": "https://exprdstrgcdn.blob.core.windows.net/exprdeccdn01/ImagesSections/hybris/apps/CategoryIcons/newuiuxicons/tasheelnew_small_icon.png",
+  "tasheelContentUrl": "/tasheel",
+  "priceValueTasheel": {
+    "currencyIso": "SAR",
+    "value": 257,
+    "priceType": "BUY",
+    "formattedValue": "257",
+    "minQuantity": null,
+    "maxQuantity": null
+  },
+  "productStatus": "GalaxyAI",
+  "productStatusHtml": null,
+  "firstCategory": "2",
+  "classificationAttributes": null,
+  "availableForPickUpInStore": true,
+  "stockAvailableForHD": false,
+  "isChecked": null,
+  "inWhishList": null,
+  "shippingClassification": "SMALL",
+  "productPackSummary": null,
+  "modelNumber": "SM-F946BLBGMEA",
+  "mpn": "SM-F946BLBGMEA",
+  "extendedWarrantyComponent": null,
+  "savingAmount": {
+    "currencyIso": "SAR",
+    "value": 1400,
+    "priceType": "BUY",
+    "formattedValue": "1400",
+    "minQuantity": null,
+    "maxQuantity": null
+  },
+  "variants": null,
+  "yearOfWarranty": "2",
+  "warranty": "2",
+  "warrantyDuration": "Y",
+  "pcpClassificationAttributes": null,
+  "top3ClassicationAttributes": ["//media.extra.com/i/aurora/2090_5341_600"],
+  "topXClassicationAttributes": null,
+  "endDateDiscount": 1716325199000,
+  "endDatePromotion": [1798750740000, 1798750740000, 1716325199000],
+  "endDateDeal": 1716325199000,
+  "endDateDealInMills": 123100475,
+  "serverTime": 1716202098525,
+  "isCashOnDelivery": null,
+  "specialOffer": null,
+  "isPackProduct": null,
+  "packProducts": null,
+  "hasClassAttributeGroup": true,
+  "groupedfeatures": {
+    "«‰‘«‘…": [
+      "ÕÃÂ «‰‘«‘…(»«‰»Ë’…): 7.6 »Ë’…",
+      "ÊËŸ «‰‘«‘…: œ«ÍÊ«ÂÍ„ √ÂË‰œ",
+      "œ‚… «‰‘«‘…: 2176 x 1812 (QXGA+)",
+      "‘«‘… Â—Ê…: ÊŸÂ"
+    ],
+    "«‰»—«ÂÃ": [
+      "Êÿ«Â «‰ ‘⁄Í‰: «Êœ—ËÍœ 13"
+    ],
+    "«‰‘»„… Ë«‰≈ ’«‰": [
+      "‘»„… «‰« ’«‰: «‰ÃÍ‰ «‰Œ«Â”"
+    ],
+    "«‰Œ’«∆’ «‰ ‚ÊÍ…": [
+      "«‰‰ËÊ: «“—‚",
+      "Â‚«ËÂ ‰‰Â«¡: ÊŸÂ",
+      "Â«”Õ «‰»’Â…(ÊŸÂ/‰«): ÊŸÂ",
+      "ÂŸ—· «‰ËÃÁ: ÊŸÂ"
+    ],
+    "ÂŸ‰ËÂ«  «‰»◊«—Í…": [
+      "ÕÃÂ «‰»◊«—Í… (Â‰‰Í √Â»Í—): 4400mAh"
+    ],
+    "«‰√»Ÿ«œ": [
+      "«‰◊Ë‰: 0.61 ”Â",
+      "«‰Ë“Ê: 0.25 „⁄",
+      "«‰Ÿ—÷: 12.96 cm",
+      "«‰«— ·«Ÿ: 15.48 ”Â"
+    ],
+    "«‰–«„—…": [
+      "Â”«Õ… «‰–«„—… «‰Ÿ‘Ë«∆Í… (—«Â): 12 ÃÍÃ«»«Í ",
+      "–«„—… / œ«Œ‰Í…: 512 ÃÍÃ«»«Í "
+    ],
+    "«‰„«ÂÍ—«": [
+      "„«ÂÍ—« Œ‰·Í…: 50ÂŸ12ÂŸ10 ÂÍÃ« »Í„”‰",
+      "œ‚… «‰„«ÂÍ—« «‰√Â«ÂÍ…: 10ÂŸ 4 ÂÍÃ«»Í„”‰"
+    ],
+    "Other": [
+      "ÂœŒ‰ »◊«‚… «‰–«„—…: ‰«",
+      "’ÊŸ ·È: Â ÊËŸ",
+      "«”Â «‰”‰”‰…: F Series",
+      "«”Â «‰Â«—„…: ”«Â”ËÊÃ",
+      "Œ«’Í… «‰« ’«‰ ≈Ê ≈· ”Í: ÊŸÂ",
+      " Ë«·‚ «‰‘ÕÊ: ÊËŸ ”Í",
+      "ÊËŸ «‰‘—ÍÕ…: ÀÊ«∆Í «‰‘—ÍÕ… Ê«ËÊË",
+      "Â‘«—„… «‰◊«‚…: ÊŸÂ",
+      "«‰‘ÕÊ «‰‰«”‰„Í: ÊŸÂ",
+      "ÊËŸ «‰ÃÁ«“: GALAXY Z FOLD 5"
+    ]
+  },
+  "highlights": "<div id=\"overview\">\n<div class=\"c_keyfeatures-content-container-details\">\n<div><!--- *** Banner*** --->\n<div class=\"c_wrapper c_wrapper--content\"><img height=\"250PX\" src=\"https://aurora.a.bigcontent.io/v1/static/100343500_01\" width=\"100%\" /></div>\n\n\n<!--- *** End Banner *** ---></div>\n</div>\n<!-- start here-->\n\n<div id=\"highlightcont\"><!--Side by side with image-->\n\n\t\n\t\n\t\n\t\n\t\n\t<div>\n<div><!--image--><img class=\"fr-fic fr-dii\" src=\"https://aurora.a.bigcontent.io/v1/static/100343500_02\" /> <!--Seperator, don't change-->\n<div class=\"cellspacer\">&nbsp;</div>\n<!--Text-->\n\n<div><!--title-->\n<div>\n<h2>√Œ· Ë√’⁄— Á« · Galaxy Z Fold Õ È «‰¬Ê</h2>\n</div>\n<!--paragraph-->\n\n<div>\n  <p> ’ÂÍÂ Â ◊ËÒ— Ë·—Íœ »Â·ÁËÂÌ ‰Í” ‰Á ÂÀÍ‰. ÕÍÀ Í»—“ «”Â Galaxy Z Fold5 »‚œ— Á Ÿ‰È «‰≈⁄‰«‚ ŸÊ ◊—Í‚ «‰◊Í ‰Í ÕËÒ‰ ≈‰È ‘«‘… „»Í—… ‚«»‰… ‰‰Ë÷Ÿ ·Í «‰ÃÍ» »ÂÊ ÁÈ «‰”ÁË‰…. ‚Â »· ÕÁ ‰‰√Ÿ‰È¨ √Ë ≈⁄‰«‚Á »«‰◊Í¨ √Ë Õ È ÷»◊Á ≈‰È «‰“«ËÍ… «‰ÂÀ«‰Í…. ÍÂÊÕ„ «‰Â·’‰ «‰Â—Ê «‰ÂŸ«œ  ’ÂÍÂÁ Ë«‰–Í ÍŸ »— √ŸÃË»…  ‚ÊÍ…¨ «‰‚œ—… Ÿ‰È ◊Í «‰Á« · „Â«  ‘«¡.</p>\n  \n</div>\n</div>\n</div>\n</div>\t\n<div>\n<div><!--image--><img class=\"fr-fic fr-dii\" src=\"https://aurora.a.bigcontent.io/v1/static/100343500_03\" /> <!--Seperator, don't change-->\n<div class=\"cellspacer\">&nbsp;</div>\n<!--Text-->\n\n<div><!--title-->\n<div>\n<h2>«‰‘«‘… «‰—∆Í”Í… Â‚«” 7.6 »Ë’…</h2>\n</div>\n<!--paragraph-->\n\n<div>\n  <p>«„ ‘· «‰‘«‘… «‰Â–Á‰… –«  «‰ÕÃÂ «‰„»Í— - Ë«‰ÂŸ«œ  ’ÂÍÂÁ« ‰ ” Â Ÿ »‡ÂÂ«—”… «‰√‰Ÿ«» »√”‰Ë» ‰« ÂÀÍ‰ ‰Á Ÿ‰È «‰≈◊‰«‚¨ Ë» Ã—»… Â‘«Áœ… «” ÀÊ«∆Í… Ÿ‰È ‘«‘… ”ÍÊÂ«∆Í… √ÍÊÂ«  „ËÊ¨ Ë»√œ«¡ Í÷«ÁÍ √œ«¡ «‰„Â»ÍË — - „‰ Á–« ·Í ÃÁ«“ »ÕÃÂ «‰ÃÁ«“ «‰‰ËÕÍ?.?</p>\n  \n</div>\n</div>\n</div>\n</div>\n\n\n\n\t\n\t<div>\n<div><!--image--><img class=\"fr-fic fr-dii\" src=\"https://aurora.a.bigcontent.io/v1/static/100343500_04\" /> <!--Seperator, don't change-->\n<div class=\"cellspacer\">&nbsp;</div>\n<!--Text-->\n\n<div><!--title-->\n<div>\n<h2>«” Â Ÿ ◊Ë«‰ «‰ÍËÂ</h2>\n</div>\n<!--paragraph-->\n\n<div>\n  <p>ÂŸ Êÿ«Â «‰»◊«—Í… «‰Â“œËÃ… ”Ÿ… 4400mAh (ÊÂË–ÃÍ…)¨ »≈Â„«Ê„ ”Â«Ÿ «‰ÂË”Í‚È ‰⁄«Í… 73 ”«Ÿ… Â Ë«’‰…¨ ¬Ë Â‘«Áœ… «‰·ÍœÍËÁ«  ‰⁄«Í… 21 ”«Ÿ…. Ë»«‰ “«ÂÊ ÂŸ «‰ÂŸ«‰Ã «‰Â ◊ËÒ—¨ ”Í Â  ŸœÍ‰ «” Á‰«„ «‰◊«‚… »‘„‰ ·ŸÒ«‰ Ë·‚«Î ‰Ÿ«œ« „ Ë«Õ Í«Ã« „¨ Â« ÍÃŸ‰ ‘ÕÊ «‰Á« · ‰Â—… Ë«Õœ… ÍœËÂ √„À— ÂÊ √Í Ë‚  Â÷È.</p>\n  \n</div>\n</div>\n</div>\n</div>\n\t\n\t\n\n\t\n\n\t\n\t\n\t<div>\n<div><!--image--><img class=\"fr-fic fr-dii\" src=\"https://aurora.a.bigcontent.io/v1/static/100343500_05\" /> <!--Seperator, don't change-->\n<div class=\"cellspacer\">&nbsp;</div>\n<!--Text-->\n\n<div><!--title-->\n<div>\n<h2>«Œ »— «‰Â” ËÈ «‰√„À— ‚ËÒ… Ë„·«¡… ‰‰√‰Ÿ«» ÂŸ √”—Ÿ ÂŸ«‰Ã Snapdragon Ÿ‰È Á« · Galaxy Z Fold Õ È «‰¬Ê</h2>\n</div>\n<!--paragraph-->\n\n<div>\n  <p>√À»  „·«¡ „ Ë—Í«œ „ ·Í Ÿ«‰Â «‰√‰Ÿ«» ÂŸ «‰ÃÁ«“ Ë«‰»—Ê«ÂÃ «‰Â◊ËÒ—ÍÊ ‰ÂŸ«‰Ã Snapdragon? 8 Gen 2 Mobile Platform for Galaxy. ÕÍÀ ”Í÷ÂÊ ‰„ Á–« «‰ÂŸ«‰Ã Ÿ«‰Í «‰√œ«¡ ÂÂ«—”… «‰√‰Ÿ«» »Â” ËÈ ÂÊ «‰◊—«“ «‰—·ÍŸ Ÿ»—  Õ”ÍÊ √œ«¡ ËÕœ… «‰ÂŸ«‰Ã… «‰Â—„“Í… »Ê”»… 18? ËËÕœ… ÂŸ«‰Ã… «‰—”ËÂ«  »Ê”»… 32? ËËÕœ… «‰ÂŸ«‰Ã… «‰Ÿ’»Í… »Ê”»… 25?.</p>\n  \n</div>\n</div>\n</div>\n</div>\n\t\n\t\n<div>\n<div><!--image--><img class=\"fr-fic fr-dii\" src=\"https://aurora.a.bigcontent.io/v1/static/100343500_06\" /> <!--Seperator, don't change-->\n<div class=\"cellspacer\">&nbsp;</div>\n<!--Text-->\n\n<div><!--title-->\n<div>\n<h2>‰ÂÁ«Â «‰Â ŸœÒœ… √”Á‰ ÂŸ «‰ÊË«·– «‰Â ŸœÒœ…</h2>\n</div>\n<!--paragraph-->\n\n<div>\n  <p>  ÍÕ ‰„  Ã—»… «‰ÂÁ«Â «‰Â Ÿœœ… «‰√„À—  ◊Ë—«Î Ÿ‰È Á« · Samsung Galaxy Õ È «‰¬Ê¨ · Õ À‰«À ÊË«·– Ÿ‰È ‘«‘… Ë«Õœ…¨ »ÕÍÀ ÍÂ„Ê„ «‰»À Ë«‰ ”Ë‚ Ë ’·Õ «‰«Ê —Ê  Ë«‰‰Ÿ» Ë⁄Í— –‰„ «‰„ÀÍ—. „Â« ÍÂ„Ê„ ≈÷«·… Â« Í’‰ ≈‰È 12  ◊»Í‚ ≈‰È ‘—Í◊ «‰ÂÁ«Â¨ Ë ‘⁄Í‰ 4 ÂÊ «‰ ◊»Í‚«  «‰Â” ŸÂ‰… ÂƒŒ—«Î ‰ ” Â Ÿ »«‰ Ê‚‰ »ÍÊÁ« »⁄«Í… «‰”‰«”….ËÂŸ ≈÷«·… ‚‰Â S Pen ≈‰È √œË«  «‰Ëÿ«∆· Ë«‰ÂÁ«Â ” ” Â Ÿ »«‰Â“Íœ ÂÊ «‰„·«¡….</p>\n  \n</div>\n</div>\n</div>\n</div>\n\t\n\t\n\t\n\t<div>\n<div><!--image--><img class=\"fr-fic fr-dii\" src=\"https://aurora.a.bigcontent.io/v1/static/100343500_07\" /> <!--Seperator, don't change-->\n<div class=\"cellspacer\">&nbsp;</div>\n<!--Text-->\n\n<div><!--title-->\n<div>\n<h2>„«ÂÍ—«  ÂÂÍÒ“…</h2>\n</div>\n<!--paragraph-->\n\n<div>\n  <p>ÍŸ »— «‰ ’ÂÍÂ «‰·—Íœ ‰‰Á« · √„À— ÂÊ ÂÃ—œ Êÿ«Â „«ÂÍ—« Â ◊ËÒ—. ·ÁË Â“ËÒœ »‘«‘ ÍÊ Ë«”Ÿ ÍÊ ‰Í ÍÕ ‰„ ≈Ÿœ«œ Á« ·„ Ÿ‰È ‘„‰ «” œÍË Â Ê‚Ò‰¨ ËÂœŸÒÂ »Œ«’Í… «‰ ‚—Í» 30x Space Zoom. ËÂŸ Œ«’ÍÒ… «‰ÂŸ«ÍÊ… «‰Â“œËÃ…¨ ÍÂ„Ê ‰‰√‘Œ«’ «‰Â—«œ  ’ËÍ—ÁÂ Â‘«Áœ… √Ê·”ÁÂ  Â«Â«Î „Â«  —«ÁÂ ·Í ≈◊«— «‰ ’ËÍ—. ·»–‰„¨ ÍÂ„ÊÁÂ ÷»◊ Ë÷ŸÍ ÁÂ Ë«‰«” Ÿœ«œ ‰ÍÿÁ—Ë« »√·÷‰ ÂÿÁ— ·Í «‰’Ë—…. <br>\n  </p>\n  \n</div>\n</div>\n</div>\n</div>\n\t\n\t<div>\n<div><!--image--><img class=\"fr-fic fr-dii\" src=\"https://aurora.a.bigcontent.io/v1/static/100343500_08\" /> <!--Seperator, don't change-->\n<div class=\"cellspacer\">&nbsp;</div>\n<!--Text-->\n\n<div><!--title-->\n<div>\n<h2>«‰·Œ«Â… Ë«‰Â «Ê… ‚‰»«Î Ë‚«‰»«Î</h2>\n</div>\n<!--paragraph-->\n\n<div>\n  <p>ÍÕÂÍ ≈◊«— Armor Aluminium ÁÍ„‰ «‰Á« · ÂÊ «‰ ‰·¨ »ÍÊÂ« ÍË·— «‰Â·’‰ «‰ÃœÍœ «‰Â“œËÃ Flex Hinge ◊Í… √‚ËÈ Ë√„À— Â «Ê…. Ê«ÁÍ„ ŸÊ Œ«’Í… Â‚«ËÂ… «‰Â«¡ «‰√Ÿ‰È Â” ËÈ ·Í ·∆ Á«.</p>\n  \n</div>\n</div>\n</div>\n</div>\n\t\n\t\n\t<div>\n<div><!--image--><img class=\"fr-fic fr-dii\" src=\"https://aurora.a.bigcontent.io/v1/static/100343500_09\" /> <!--Seperator, don't change-->\n<div class=\"cellspacer\">&nbsp;</div>\n<!--Text-->\n\n<div><!--title-->\n<div>\n<h2> Õ„Â »«‰Â“Íœ ÂÊ «‰‘«‘«  ÂŸ Œ«’Í… «‰ Õ„Â «‰Â Ÿœœ</h2>\n</div>\n<!--paragraph-->\n\n<div>\n  <p>«” Â Ÿ »«Ê”Í«»Í… «‰ Ê”Í‚ »ÍÊ «‰√ÃÁ“…¨ ÂŸ Œ«’Í… «‰ Õ„Â «‰Â Ÿœœ «‰ Í   ÍÕ ‰„ «” ŸÂ«‰ ‰ËÕ… «‰Â·« ÍÕ Ë«‰Â«Ë” ÂŸ ÂŒ ‰· «‰√ÃÁ“…¨ ÂÀ‰ Á« · Galaxy Z Fold5 ËÃÁ«“ Galaxy Tab S9¨ ÂÂ« ÍÃŸ‰ ÂÊ ŸÂ‰Í… «‰Ê”Œ Ë«‰‰’‚ √Ë Õ È «‰”Õ» Ë«‰≈”‚«◊ √„À— ”ÁË‰…. ÍÂ„Ê„ «” ŸÂ«‰ ÃÁ«“„ «‰‰ËÕÍ „‘«‘… ≈÷«·Í… ‰ÃŸ‰ Â”«Õ… «‰ŸÂ‰ «‰Â Ê‚‰… √„À— „·«¡… Ë·Ÿ«‰Í….</p>\n  \n</div>\n</div>\n</div>\n</div>\n\t\n\t<div>\n<div><!--image--><img class=\"fr-fic fr-dii\" src=\"https://aurora.a.bigcontent.io/v1/static/100343500_10\" /> <!--Seperator, don't change-->\n<div class=\"cellspacer\">&nbsp;</div>\n<!--Text-->\n\n<div><!--title-->\n<div>\n<h2>Smart Switch</h2>\n</div>\n<!--paragraph-->\n\n<div>\n  <p>‚Â »Ê‚‰ ’Ë—„ Ë ◊»Í‚« „ Ë—”«∆‰„ ≈‰È Á« ·„ «‰ÃœÍœ Galaxy »ÂÊ ÁÈ «‰”ÁË‰… Ë«‰√Â«Ê.</p>\n  \n</div>\n</div>\n</div>\n</div>\n\t\n\t\n\n\n\t\n\t\n\t\n\t\n\t\n\n\t\n</div>\n<!-- End here--></div>",
+  "keyFeatures": null,
+  "brandName": "”«Â”ËÊÃ",
+  "cfsPosPickUpInStoreData": {
+    "defaultPos": {
+      "name": "R20",
+      "displayName": "«‰—Í«÷  - «‰œ«∆—Í «‰‘Â«‰",
+      "url": null,
+      "description": null,
+      "openingHours": {
+        "name": null,
+        "code": "R20Hours",
+        "weekDayOpeningList": [
+          {
+            "openingTime": {
+              "hour": 9,
+              "minute": 0,
+              "formattedHour": "09:00 ’"
+            },
+            "closingTime": {
+              "hour": 11,
+              "minute": 59,
+              "formattedHour": "11:59 Â"
+            },
+            "weekDay": "Sun",
+            "closed": false
+          },
+          {
+            "openingTime": {
+              "hour": 9,
+              "minute": 0,
+              "formattedHour": "09:00 ’"
+            },
+            "closingTime": {
+              "hour": 11,
+              "minute": 59,
+              "formattedHour": "11:59 Â"
+            },
+            "weekDay": "Mon",
+            "closed": false
+          },
+          {
+            "openingTime": {
+              "hour": 9,
+              "minute": 0,
+              "formattedHour": "09:00 ’"
+            },
+            "closingTime": {
+              "hour": 11,
+              "minute": 59,
+              "formattedHour": "11:59 Â"
+            },
+            "weekDay": "Tue",
+            "closed": false
+          },
+          {
+            "openingTime": {
+              "hour": 9,
+              "minute": 0,
+              "formattedHour": "09:00 ’"
+            },
+            "closingTime": {
+              "hour": 11,
+              "minute": 59,
+              "formattedHour": "11:59 Â"
+            },
+            "weekDay": "Wed",
+            "closed": false
+          },
+          {
+            "openingTime": {
+              "hour": 9,
+              "minute": 0,
+              "formattedHour": "09:00 ’"
+            },
+            "closingTime": {
+              "hour": 11,
+              "minute": 59,
+              "formattedHour": "11:59 Â"
+            },
+            "weekDay": "Thu",
+            "closed": false
+          },
+          {
+            "openingTime": {
+              "hour": 4,
+              "minute": 0,
+              "formattedHour": "04:00 Â"
+            },
+            "closingTime": {
+              "hour": 11,
+              "minute": 59,
+              "formattedHour": "11:59 Â"
+            },
+            "weekDay": "Fri",
+            "closed": false
+          },
+          {
+            "openingTime": {
+              "hour": 9,
+              "minute": 0,
+              "formattedHour": "09:00 ’"
+            },
+            "closingTime": {
+              "hour": 11,
+              "minute": 59,
+              "formattedHour": "11:59 Â"
+            },
+            "weekDay": "Sat",
+            "closed": false
+          }
+        ],
+        "specialDayOpeningList": []
+      },
+      "storeContent": null,
+      "features": { "buyOnlinePickupInStore": "Collect From Store" },
+      "geoPoint": {
+        "latitude": 24.7668,
+        "longitude": 46.6591,
+        "userLocationDisabled": false
+      },
+      "formattedDistance": null,
+      "distanceKm": null,
+      "mapIcon": null,
+      "address": {
+        "id": "9922854092823",
+        "title": null,
+        "titleCode": null,
+        "firstName": null,
+        "lastName": null,
+        "companyName": null,
+        "line1": null,
+        "line2": "«‰◊—Í‚ «‰œ«∆—Í «‰‘Â«‰Í¨ «‰⁄œÍ—¨ «‰—Í«÷",
+        "town": null,
+        "region": null,
+        "district": null,
+        "postalCode": null,
+        "phone": null,
+        "cellphone": null,
+        "email": null,
+        "country": {
+          "isocode": "SA",
+          "name": "«‰”ŸËœÍ…",
+          "nameEn": null,
+          "nameAr": null
+        },
+        "shippingAddress": false,
+        "billingAddress": false,
+        "defaultAddress": false,
+        "visibleInAddressBook": true,
+        "formattedAddress": "«‰◊—Í‚ «‰œ«∆—Í «‰‘Â«‰Í¨ «‰⁄œÍ—¨ «‰—Í«÷",
+        "addressType": null,
+        "street": null,
+        "area": null,
+        "city": {
+          "code": "SA-riyadh",
+          "name": "«‰—Í«÷",
+          "nameEn": "Riyadh",
+          "nameAr": "«‰—Í«÷",
+          "latitude": 24.7137,
+          "longitude": 46.68045,
+          "areas": null,
+          "largeAreas": null,
+          "commonAreas": null,
+          "country": {
+            "isocode": "SA",
+            "name": "«‰”ŸËœÍ…",
+            "nameEn": "Saudi Arabia",
+            "nameAr": "«‰”ŸËœÍ…"
+          },
+          "governorate": null,
+          "governorateName": null
+        },
+        "districtForEg": null,
+        "building": null,
+        "appartment": null,
+        "nationalAddress": null,
+        "landmark": null,
+        "latitude": null,
+        "longitude": null,
+        "phone2": null,
+        "someoneElseToReceive": false,
+        "someOneElseFirstName": null,
+        "someOneElseMobNumber": null,
+        "collectorFirstName": null,
+        "collectorLastName": null,
+        "buyingForCompany": false,
+        "vatRegistrationNumber": null,
+        "crNumber": null
+      },
+      "storeImages": [],
+      "pickUpInStoreInstructions": null,
+      "beforeClosure": 0,
+      "storeCollectHours": 1,
+      "closingHours": 11,
+      "closingTime": "11:59",
+      "collectNbHours": 10,
+      "closingHoursInAm": false,
+      "isCollectInHours": true,
+      "workingHours": [
+        {
+          "fromDay": "«‰”» ",
+          "toDay": "«‰ŒÂÍ”",
+          "openingHours": "09:00 ’",
+          "closingHours": "11:59 Â",
+          "openingHoursAm": true,
+          "closingHoursAm": false,
+          "closingInHours": "11:59",
+          "openingInHours": "09:00"
+        },
+        {
+          "fromDay": "«‰ÃÂŸ…",
+          "toDay": null,
+          "openingHours": "04:00 Â",
+          "closingHours": "11:59 Â",
+          "openingHoursAm": false,
+          "closingHoursAm": false,
+          "closingInHours": "11:59",
+          "openingInHours": "04:00"
+        }
+      ],
+      "specialDayWorkingHours": null,
+      "specialDayWorkingHoursMap": null,
+      "closed": false,
+      "atp": 1,
+      "stockData": {
+        "stockLevelStatus": {
+          "code": "outOfStock",
+          "type": "StockLevelStatus"
+        },
+        "stockLevel": 0,
+        "stockThreshold": null
+      },
+      "ampliencePointOfServiceBaseUrl": "//media.extra.com/i/aurora/11014_950",
+      "ampliencePointOfServiceMapUrl": "//media.extra.com/i/aurora/11014_960",
+      "isPreferredStore": false,
+      "nameEn": "Riyadh - Northern Ring Road",
+      "nameAr": "«‰—Í«÷  - «‰œ«∆—Í «‰‘Â«‰",
+      "code": "11014",
+      "pk": "8800189057016"
+    },
+    "alternativePos": {
+      "name": "RS3",
+      "displayName": "«‰—Í«÷ - «‰”ËÍœÍ",
+      "url": null,
+      "description": null,
+      "openingHours": {
+        "name": null,
+        "code": "RS3Hours_SpecialDay",
+        "weekDayOpeningList": [
+          {
+            "openingTime": {
+              "hour": 9,
+              "minute": 0,
+              "formattedHour": "09:00 ’"
+            },
+            "closingTime": {
+              "hour": 11,
+              "minute": 59,
+              "formattedHour": "11:59 Â"
+            },
+            "weekDay": "Sun",
+            "closed": false
+          },
+          {
+            "openingTime": {
+              "hour": 9,
+              "minute": 0,
+              "formattedHour": "09:00 ’"
+            },
+            "closingTime": {
+              "hour": 11,
+              "minute": 59,
+              "formattedHour": "11:59 Â"
+            },
+            "weekDay": "Mon",
+            "closed": false
+          },
+          {
+            "openingTime": {
+              "hour": 9,
+              "minute": 0,
+              "formattedHour": "09:00 ’"
+            },
+            "closingTime": {
+              "hour": 11,
+              "minute": 59,
+              "formattedHour": "11:59 Â"
+            },
+            "weekDay": "Tue",
+            "closed": false
+          },
+          {
+            "openingTime": {
+              "hour": 9,
+              "minute": 0,
+              "formattedHour": "09:00 ’"
+            },
+            "closingTime": {
+              "hour": 11,
+              "minute": 59,
+              "formattedHour": "11:59 Â"
+            },
+            "weekDay": "Wed",
+            "closed": false
+          },
+          {
+            "openingTime": {
+              "hour": 9,
+              "minute": 0,
+              "formattedHour": "09:00 ’"
+            },
+            "closingTime": {
+              "hour": 11,
+              "minute": 59,
+              "formattedHour": "11:59 Â"
+            },
+            "weekDay": "Thu",
+            "closed": false
+          },
+          {
+            "openingTime": null,
+            "closingTime": null,
+            "weekDay": "Fri",
+            "closed": true
+          },
+          {
+            "openingTime": {
+              "hour": 9,
+              "minute": 0,
+              "formattedHour": "09:00 ’"
+            },
+            "closingTime": {
+              "hour": 11,
+              "minute": 59,
+              "formattedHour": "11:59 Â"
+            },
+            "weekDay": "Sat",
+            "closed": false
+          }
+        ],
+        "specialDayOpeningList": [
+          {
+            "openingTime": {
+              "hour": 4,
+              "minute": 0,
+              "formattedHour": "04:00 Â"
+            },
+            "closingTime": {
+              "hour": 11,
+              "minute": 59,
+              "formattedHour": "11:59 Â"
+            },
+            "date": -10800000,
+            "formattedDate": "01/01/1970",
+            "closed": false,
+            "name": null,
+            "comment": null,
+            "region": null,
+            "organizationCode": null,
+            "organizationName": null,
+            "weekDay": "FRIDAY"
+          }
+        ]
+      },
+      "storeContent": null,
+      "features": { "buyOnlinePickupInStore": "Collect From Store" },
+      "geoPoint": {
+        "latitude": 24.60547,
+        "longitude": 46.70536,
+        "userLocationDisabled": false
+      },
+      "formattedDistance": null,
+      "distanceKm": null,
+      "mapIcon": null,
+      "address": {
+        "id": "8796095184919",
+        "title": null,
+        "titleCode": null,
+        "firstName": null,
+        "lastName": null,
+        "companyName": null,
+        "line1": null,
+        "line2": "‘«—Ÿ «‰Â‰„ ·Áœ   »Ã«Ê» «”Ë«‚ «œ «Ã«",
+        "town": null,
+        "region": null,
+        "district": null,
+        "postalCode": "1",
+        "phone": "920004123",
+        "cellphone": null,
+        "email": null,
+        "country": {
+          "isocode": "SA",
+          "name": "«‰”ŸËœÍ…",
+          "nameEn": null,
+          "nameAr": null
+        },
+        "shippingAddress": false,
+        "billingAddress": false,
+        "defaultAddress": false,
+        "visibleInAddressBook": true,
+        "formattedAddress": "‘«—Ÿ «‰Â‰„ ·Áœ   »Ã«Ê» «”Ë«‚ «œ «Ã«, 1",
+        "addressType": null,
+        "street": null,
+        "area": null,
+        "city": {
+          "code": "SA-riyadh",
+          "name": "«‰—Í«÷",
+          "nameEn": "Riyadh",
+          "nameAr": "«‰—Í«÷",
+          "latitude": 24.7137,
+          "longitude": 46.68045,
+          "areas": null,
+          "largeAreas": null,
+          "commonAreas": null,
+          "country": {
+            "isocode": "SA",
+            "name": "«‰”ŸËœÍ…",
+            "nameEn": "Saudi Arabia",
+            "nameAr": "«‰”ŸËœÍ…"
+          },
+          "governorate": null,
+          "governorateName": null
+        },
+        "districtForEg": null,
+        "building": null,
+        "appartment": null,
+        "nationalAddress": null,
+        "landmark": null,
+        "latitude": null,
+        "longitude": null,
+        "phone2": "800-124-0900",
+        "someoneElseToReceive": false,
+        "someOneElseFirstName": null,
+        "someOneElseMobNumber": null,
+        "collectorFirstName": null,
+        "collectorLastName": null,
+        "buyingForCompany": false,
+        "vatRegistrationNumber": null,
+        "crNumber": null
+      },
+      "storeImages": [],
+      "pickUpInStoreInstructions": null,
+      "beforeClosure": 0,
+      "storeCollectHours": 1,
+      "closingHours": 11,
+      "closingTime": "11:59",
+      "collectNbHours": 10,
+      "closingHoursInAm": false,
+      "isCollectInHours": true,
+      "workingHours": [
+        {
+          "fromDay": "«‰”» ",
+          "toDay": "«‰ŒÂÍ”",
+          "openingHours": "09:00 ’",
+          "closingHours": "11:59 Â",
+          "openingHoursAm": true,
+          "closingHoursAm": false,
+          "closingInHours": "11:59",
+          "openingInHours": "09:00"
+        },
+        {
+          "fromDay": "«‰ÃÂŸ…",
+          "toDay": null,
+          "openingHours": "",
+          "closingHours": "",
+          "openingHoursAm": null,
+          "closingHoursAm": null,
+          "closingInHours": null,
+          "openingInHours": null
+        }
+      ],
+      "specialDayWorkingHours": null,
+      "specialDayWorkingHoursMap": {
+        "«‰ÃÂŸ…": [
+          {
+            "fromDay": null,
+            "toDay": null,
+            "openingHours": "04:00 Â",
+            "closingHours": "11:59 Â",
+            "openingHoursAm": false,
+            "closingHoursAm": false,
+            "closingInHours": "11:59",
+            "openingInHours": "04:00"
+          }
+        ]
+      },
+      "closed": false,
+      "atp": 1,
+      "stockData": {
+        "stockLevelStatus": { "code": "inStock", "type": "StockLevelStatus" },
+        "stockLevel": 2,
+        "stockThreshold": null
+      },
+      "ampliencePointOfServiceBaseUrl": "//media.extra.com/i/aurora/11003_950",
+      "ampliencePointOfServiceMapUrl": "//media.extra.com/i/aurora/11003_960",
+      "isPreferredStore": false,
+      "nameEn": "Riyadh - Suwaidy",
+      "nameAr": "«‰—Í«÷ - «‰”ËÍœÍ",
+      "code": "11003",
+      "pk": "8796093810680"
+    },
+    "closed": false,
+    "collectNbHours": 0,
+    "storeCollectHours": 0
+  },
+  "defaultGlobalAtp": 10,
+  "numberStoreAtp": null,
+  "homeDeliveryData": {
+    "currentCityStockData": {
+      "stockLevelStatus": { "code": "outOfStock", "type": "StockLevelStatus" },
+      "stockLevel": 0,
+      "stockThreshold": null
+    },
+    "ableToChangeCity": true,
+    "city": null,
+    "displayFreeDelivery": null,
+    "deliveryLeadTimeNow": null,
+    "deliveryLeadTimeBefore": null,
+    "deliveryLeadTimeBeforeBy": null,
+    "altCityStockData": null
+  },
+  "citiesData": null,
+  "displayFreeDelivery": true,
+  "deliveryLeadTimeNow": null,
+  "deliveryLeadTimeBefore": "2:00Â",
+  "deliveryLeadTimeBeforeBy": "Thu 23 May 2024 ",
+  "cashBackPrice": null,
+  "hasCashBack": null,
+  "hasFreeGift": true,
+  "fixedFreeGift": null,
+  "freeGiftQtuantities": null,
+  "seo_Content_Title": "",
+  "seo_Content": "",
+  "inventoryIndicator": true,
+  "globalAtp": 10,
+  "isHomeDeliveryEnabled": true,
+  "isCollectFromStoreEnabled": true,
+  "freeGiftDisplay": null,
+  "freeGiftPopup": null,
+  "isAddToCartEnabled": true,
+  "isAddToCartGrayedOut": true,
+  "altPoSStock": null,
+  "specialOfferDataList": [],
+  "deliveryPayment": null,
+  "faqs": null,
+  "contactUs": null,
+  "aftreCashBackPrice": null,
+  "amplienceProductBaseUrl": "//media.extra.com/s/aurora/100343500_800/Samsung-Galaxy-Z-Fold-5%2C-5G%2C-512GB%2C-Icy-Blue?locale=en-GB,ar-*,*",
+  "rmsCategory": null,
+  "defaultCity": null,
+  "defaultStore": null,
+  "priceValueForBundle": null,
+  "priceAfterBundleDiscout": null,
+  "pageCategory": null,
+  "pageSubCategory": "Brands",
+  "manualBundleProducts": null,
+  "color": null,
+  "capacity": null,
+  "productMediaUrls": null,
+  "topXThreshold": 5,
+  "productVariantMatrix": null,
+  "variantCategoryValues": null,
+  "productTagLabel": null,
+  "rrClickUrl": null,
+  "expressDeliveryMode": null,
+  "onDemandDeliveryMode": null,
+  "standardDeliveryCost": null,
+  "nameEn": "Samsung Galaxy Z Fold 5, 5G, 512GB, Icy Blue",
+  "displayName": "”«Â”ËÊÃ Ã«‰„”Í “œ ·Ë‰œ 5¨ ¨ 5 ÃÍ ¨ 512 ÃÍÃ«¨ «“—‚",
+  "brandNameEn": "SAMSUNG",
+  "descriptionEn": "SM-F946BLBGMEA--Samsung Galaxy Z Fold 5, 5G, 7.6-inch, Dynamic AMOLED 2X, Dual SIM, 512GB, Icy Blue, Snapdragon 8 Gen 2, Android 13, 12GB RAM, 50MP+12MP+10MP Rear Camera, 10MP+4MP Front Camera, 4400mAh Battery",
+  "attributeLabels": {
+    "hd": "«‰ Ë’Í‰ «‰ÂÊ“‰Í «‰”—ÍŸ",
+    "cfs": "«‰«” ‰«Â ÂÊ «‰ÂŸ—÷",
+    "noReviews": "‰« ÍËÃœ Â—«ÃŸ«  Õ È «‰¬Ê",
+    "specifications": "Specifications",
+    "keyFeatures": "«‰ÂÍ“«  «‰—∆Í”Í…",
+    "taqsheel": " ”ÁÍ‰ ‰‰ ÂËÍ‰¨ «‘ — »«‰ ‚”Í◊ ",
+    "services": "‰ÕÂ«Í… ÂÊ Ã« „",
+    "acInstallation": null,
+    "acMount": null,
+    "acOnFloor": null,
+    "acOnWall": null,
+    "acGroundFloor": null,
+    "acFirstFloor": null,
+    "acSecondFloor": null,
+    "acThirdFloor": null,
+    "acImportant": null,
+    "acAboveSecondFloorMount": null,
+    "acUncheckOptions": null,
+    "acManufactur": null,
+    "acOutDoorUnit": null,
+    "acReadImportantNote": null,
+    "acImportantLabels": null,
+    "extraSetupImportantLabels": null,
+    "extraSetupImportantNote": null,
+    "extraSetupServicePdpLabel": null,
+    "extraContentApplyService": null,
+    "extraTextApplyService": null,
+    "extraTextNotApplyService": null,
+    "extraGiftcardAmountSelection": null,
+    "extraGiftcardTitle": null,
+    "extraGiftcardCustomValueQuote": null,
+    "extraGiftcardReceiverEmailMessage": null,
+    "extraGiftcardCustomMessageQuote": null,
+    "emailDeliveryLable": null,
+    "estimatedDelivery": null,
+    "productSpecificationsPDPLabel": "ÂË«’·«  «‰ÂÊ Ã",
+    "digitalDeliverylabel": null,
+    "digitalDeliveryTime": null,
+    "digitalDeliveryInstruction": null,
+    "giftCardMultipleOccasionsLabel": null,
+    "giftCardMultipleOptionLabel": null,
+    "giftCardMultipleTopUpLabel": null
+  },
+  "taqsheelContent": {
+    "code": null,
+    "label": null,
+    "content": "«‰‘—„… «‰Â Õœ… ‰‰ŒœÂ«  «‰Â«‰Í… ( ”ÁÍ‰ ‰‰ ÂËÍ‰) Â’—Õ… ÂÊ «‰»Ê„ «‰”ŸËœÍ «‰Â—„“Í (”«Â«)  ‚œÂ ‰„Â »—Ê«ÂÃ «‰Â»ÍŸ«  »«‰ ‚”Í◊ («‰Â—«»Õ…) Ë«‰–Í ÍÂ„Ê„ ÂÊ ‘—«¡ ÃÂÍŸ «Õ Í«Ã« „ »«‰ ‚”Í◊ «‰Â—ÍÕ Ë»„‰ ”ÁË‰… Ë”—Ÿ… √ËÊ‰«ÍÊ œËÊ «‰Õ«Ã… ‰“Í«—… «‰·—Ÿ ‰ ‚œÍÂ «‰◊‰»",
+    "url": "/tasheel",
+    "imageUrl": "https://exprdstrgcdn.blob.core.windows.net/exprdeccdn01/ImagesSections/hybris/apps/CategoryIcons/newuiuxicons/tasheelnew_small_icon.png",
+    "title": null
+  },
+  "warrantyContent": {
+    "code": "warrantyContainer",
+    "label": null,
+    "content": "÷Â«Ê «‰Â’ÊŸ <a style=\"color:#0066a5!important;\" href='/ar-sa/maintenance'>«Ÿ—· √„À—.</a>",
+    "url": "/maintenance",
+    "imageUrl": null,
+    "title": null
+  },
+  "servicesBlocks": [
+    {
+      "code": "extraServicesSetupPDPContent",
+      "label": " ÃÁÍ“ «„” —«",
+      "content": "”Ë«¡ «‚ ’— «‰√Â— Ÿ‰È  ÃÁÍ“ Á« · √Ë ÃÁ«“ ‰ËÕÍ ÃœÍœ¨ √Ë Õ È  —„Í» Êÿ«Â ”ÍÊÂ« ÂÊ“‰Í… „«Â‰ Ë ÃœÍœ¨ ·ÊÕÊ ÁÊ« ‰Â”«Ÿœ „ Ë≈—‘«œ„ ·Í „‰ Œ◊Ë….",
+      "url": "/extrasetup",
+      "imageUrl": "https://exprdstrgcdn.blob.core.windows.net/exprdeccdn01/ImagesSections/hybris/apps/CategoryIcons/ExtraSetupArabic.png",
+      "title": null
+    },
+    {
+      "code": "servicesExtraCareCoatingPDPContent",
+      "label": "ÕÂ«Í… «„” —«",
+      "content": "ÕÂ«Í… «„” —« ?  ⁄‰Í· «‰ÕÂ«Í…",
+      "url": "/extracarecoating",
+      "imageUrl": "https://exprdstrgcdn.blob.core.windows.net/exprdeccdn01/ImagesSections/hybris/apps/CategoryIcons/extracarearabic.png",
+      "title": null
+    },
+    {
+      "code": "servicesAppleCarePDPContent",
+      "label": "+AppleCare",
+      "content": " ‚œÂ »«‚… +AppleCare ‰ÃÁ«“ iPhone œŸÂ«Î  ‚ÊÍ«Î ≈÷«·Í«Î Ë ⁄◊Í… ‰‚◊Ÿ «‰ÃÁ«“¨ »Â« ·Í –‰„  ⁄◊Í… ‰Õ«‰«  «‰√÷—«— «‰Ÿ—÷Í….",
+      "url": "/applecareiphone",
+      "imageUrl": "https://exprdstrgcdn.blob.core.windows.net/exprdeccdn01/ImagesSections/hybris/apps/CategoryIcons/extra_apple_care_ar.png",
+      "title": null
+    },
+    {
+      "code": "servicesSafeguardPDPContent",
+      "label": "÷Â«Ê «„” —«",
+      "content": "«÷· ≈ÕœÈ »«‚«  «‰÷Â«Ê . („‰ «‰»«‚«   ‘Â‰ ÷Â«Ê «‰Â’ÊŸ).",
+      "url": "/extrasafeguard2",
+      "imageUrl": "https://cdn.extrastores.com/hybris/apps/CategoryIcons/ExtraSafeguarArabic.png",
+      "title": null
+    }
+  ],
+  "isVasEligible": null,
+  "extraCareEligible": null,
+  "isAppleCareAvailable": false,
+  "extraCareCoatingEligible": null,
+  "isSiebelVasProduct": null,
+  "freeGiftworth": null,
+  "isComingSoon": null,
+  "freeGiftSet": false,
+  "freeGiftDataList": [
+    {
+      "freeGifts": ["100351795"],
+      "freeGiftQtuantities": { "targetQty": 1, "sourceQty": 1 },
+      "freeGiftRuleId": "78836_103277_3192938",
+      "freeGiftProducts": [
+        {
+          "code": "100351795",
+          "name": "”«Â”ËÊÃ Ã«‰„”Í »Ëœ“ «· «Í¨ «»Í÷",
+          "amplienceProductBaseUrl": "//media.extra.com/s/aurora/100351795_800/Samsung-Galaxy-Buds-FE%2C-White?locale=en-GB,ar-*,*",
+          "price": {
+            "currencyIso": "SAR",
+            "value": 379,
+            "priceType": "BUY",
+            "formattedValue": "379",
+            "minQuantity": null,
+            "maxQuantity": null
+          },
+          "discountPrice": null,
+          "stock": {
+            "stockLevelStatus": {
+              "code": "inStock",
+              "type": "StockLevelStatus"
+            },
+            "stockLevel": 897,
+            "stockThreshold": null
+          },
+          "url": "/mobiles-tablets/portable-audio/tws/samsung-galaxy-buds-fe-white/p/100351795",
+          "manufacturer": null,
+          "rating": null,
+          "numberOfReviews": null,
+          "freeGiftQtuantities": null,
+          "rmsCategory": null,
+          "brandName": "”«Â”ËÊÃ",
+          "variantType": null,
+          "percentageDiscount": null,
+          "savingAmount": null,
+          "purchasable": true,
+          "cashBackPrice": null,
+          "targetBundlePrice": null,
+          "priceValueForBundle": null,
+          "priceAfterBundleDiscout": null,
+          "homeDeliveryData": null,
+          "cfsPosPickUpInStoreData": null,
+          "giftSelected": false,
+          "modelNumber": "SM-R400NZWAMEA",
+          "inventoryIndicator": false,
+          "tasheelPriceValuesList": null,
+          "pageCategory": null,
+          "pageSubCategory": "Brands"
+        }
+      ],
+      "freeGiftWorth": 379,
+      "appleCarePromoEnabled": false,
+      "excludeFromStorefrontDisplay": false,
+      "discountValue": {
+        "currencyIso": "SAR",
+        "value": 100,
+        "priceType": "BUY",
+        "formattedValue": "100",
+        "minQuantity": null,
+        "maxQuantity": null
+      },
+      "acPriceDiscountValue": null,
+      "acPriceDiscountSelected": false
+    }
+  ],
+  "bankPromotionDetails": [],
+  "freeGiftNotAvailable": false,
+  "freeGiftNotAvailableMessage": null,
+  "isRSAItem": false,
+  "brands": null,
+  "extendedAisleEnabled": false,
+  "subfamilyIdName": "2-212-3_Smartphone",
+  "familyIdName": "2-212_Mobiles",
+  "categoryIdName": "2_Mobiles & Tablets",
+  "extraSetupServiceEligible": null,
+  "appleCareEligible": false,
+  "appleCareServicePrice": null,
+  "combinedExtraCareService": false,
+  "isDigitalGiftCard": false,
+  "isPromotionalGiftCard": false,
+  "giftCardPriceDenominations": null,
+  "tahsheelPaymentAttributes": null,
+  "minGiftCardAmount": 0.0,
+  "maxGiftCardAmount": 0.0,
+  "shopMoreDetails": {
+    "brand": {
+      "code": "SAMSNG",
+      "name": "”«Â”ËÊÃ",
+      "url": "/samsung/c/SAMSNG"
+    },
+    "family": {
+      "code": "2-212",
+      "name": "ÃË«‰« ",
+      "url": "/mobiles-tablets/mobiles/c/2-212"
+    },
+    "subFamily": {
+      "code": "2-212-3",
+      "name": "«‰Á« · «‰–„Í",
+      "url": "/mobiles-tablets/mobiles/smartphone/c/2-212-3"
+    },
+    "brandFamily": {
+      "code": "2-212",
+      "name": "”«Â”ËÊÃ ÃË«‰« ",
+      "url": "/mobiles-tablets/mobiles/c/2-212/facet/brandAr:”«Â”ËÊÃ"
+    },
+    "shopMoreLabel": " Õ «Ã ÂÊ Ã ¬Œ—ø "
+  },
+  "upgradeDisclaimerText": null,
+  "freeGiftForUpgradePresent": false,
+  "upgradeVasEntryPresent": false,
+  "upgradeDisclaimerTextForCart": null,
+  "tasheelPriceValuesList": [
+    {
+      "priceValueTasheel": {
+        "currencyIso": "SAR",
+        "value": 257,
+        "priceType": "BUY",
+        "formattedValue": "257",
+        "minQuantity": null,
+        "maxQuantity": null
+      },
+      "tasheelInstallmentMonths": 36,
+      "tasheelPercentage": 54.0,
+      "downPaymentAmount": null,
+      "maxDownPaymentAmount": null,
+      "processingFee": null,
+      "campaignId": null,
+      "deferredMonths": null
+    }
+  ],
+  "tasheelCashBackPriceValuesList": null,
+  "liveStreamAvailable": false,
+  "productSpecifications": [
+    {
+      "specTitle": "«‰‘«‘…",
+      "specLabel": "ÕÃÂ «‰‘«‘…(»«‰»Ë’…)",
+      "specValue": "7.6 »Ë’…",
+      "specPoints": null,
+      "displayOrder": null,
+      "productSpecImage": null
+    }
+  ],
+  "keyHighlights": [
+    {
+      "title": "«Õ ·ÿ »–„—Í« „",
+      "description": "512 ÃÍÃ«»«Í ",
+      "background": "https://aurora.a.bigcontent.io/v1/static/Mobiles_Tablets_size_memory_tile",
+      "icon": "https://aurora.a.bigcontent.io/v1/static/Mobile_storage_icon_tile",
+      "displayOrder": 1,
+      "keyDetailsImage": "https://aurora.a.bigcontent.io/v1/static/Mobiles_memory_size_512GB_Arabic",
+      "keyDetailsHtml": null,
+      "keyDetailsImageForMobile": "https://aurora.a.bigcontent.io/v1/static/Mobiles_memory_size_512GB_Arabic",
+      "titleColorCode": "#000000",
+      "descriptionColorCode": "#591953",
+      "backgroundImage": null
+    },
+    {
+      "title": "«‰ ‚◊ ‰Õÿ« „",
+      "description": "50 ÂÍÃ«»„”‰",
+      "background": "https://aurora.a.bigcontent.io/v1/static/Mobiles_Tablets_cam_tile",
+      "icon": "https://aurora.a.bigcontent.io/v1/static/mobile_camera_icon_tile",
+      "displayOrder": 2,
+      "keyDetailsImage": "https://aurora.a.bigcontent.io/v1/static/Mobile_camera_stor_50M_10F_Android_Arabic",
+      "keyDetailsHtml": null,
+      "keyDetailsImageForMobile": null,
+      "titleColorCode": "#FFFFFF",
+      "descriptionColorCode": "#FFFFFF",
+      "backgroundImage": null
+    },
+    {
+      "title": "«‰”ÍÊÂ« ·Í ÃÍ»„",
+      "description": "7.6 »Ë’…",
+      "background": "https://aurora.a.bigcontent.io/v1/static/Mobiles_Tablets_size_memory_tile",
+      "icon": "https://aurora.a.bigcontent.io/v1/static/mobile_size_icon_tile",
+      "displayOrder": 3,
+      "keyDetailsImage": "https://aurora.a.bigcontent.io/v1/static/Mobile_screen_size_7.6_Arab",
+      "keyDetailsHtml": null,
+      "keyDetailsImageForMobile": "https://aurora.a.bigcontent.io/v1/static/Mobile_screen_size_7.6_Arab",
+      "titleColorCode": "#000000",
+      "descriptionColorCode": "#000000",
+      "backgroundImage": null
+    },
+    {
+      "title": "Êÿ«Â «‰ ‘⁄Í‰",
+      "description": "√Êœ—ËÍœ",
+      "background": "https://aurora.a.bigcontent.io/v1/static/Mobiles_Tablets_OS_tile",
+      "icon": "https://aurora.a.bigcontent.io/v1/static/Mobiles_tile_icon_OS",
+      "displayOrder": 3,
+      "keyDetailsImage": "https://aurora.a.bigcontent.io/v1/static/Mobile_operating_system_Android_Arabic",
+      "keyDetailsHtml": null,
+      "keyDetailsImageForMobile": "https://aurora.a.bigcontent.io/v1/static/Mobile_operating_system_Android_Arabic",
+      "titleColorCode": "#000000",
+      "descriptionColorCode": "#000000",
+      "backgroundImage": null
+    }
+  ],
+  "productTags": [
+    {
+      "label": "Galaxy AI",
+      "iconURL": null,
+      "copyToClipBoardAllowed": false,
+      "backgroundColorCode": null,
+      "textColorCode": null,
+      "fontSize": null,
+      "htmlLabel": null,
+      "productStatus": "GalaxyAI",
+      "htmlEnabled": false,
+      "alternateLabel": null
+    }
+  ],
+  "additionalHighlights": null,
+  "iconLabelContents": null,
+  "extraProductGalleryTiles": [
+    {
+      "code": "PRODUCT_INFO",
+      "label": " ·«’Í‰ «‰ÂÊ Ã",
+      "enabled": true,
+      "imageUrl": "https://exprdstrgcdn.blob.core.windows.net/exprdeccdn01/ImagesSections/hybris/apps/CategoryIcons/newuiuxicons/info_icon_new.png",
+      "url": null,
+      "displayOrder": 1
+    },
+    {
+      "code": "AR",
+      "label": "A/R",
+      "enabled": true,
+      "imageUrl": null,
+      "url": null,
+      "displayOrder": 2
+    },
+    {
+      "code": "360_VIEW",
+      "label": "Ÿ—÷ 360 œ—Ã…",
+      "enabled": true,
+      "imageUrl": null,
+      "url": null,
+      "displayOrder": 3
+    }
+  ],
+  "productVariantGroups": null,
+  "productIconLabelContents": [
+    {
+      "iconUrl": "http://cdn.extrastores.com/hybris/new_ui_ux/icons/2x/secondary/return-policy-v1.png",
+      "label": "14 ÍËÂ ‰‰≈—Ã«Ÿ",
+      "lableUrl": "/returnexchange",
+      "displayOrder": 1,
+      "isWarranty": false
+    },
+    {
+      "iconUrl": "http://cdn.extrastores.com/hybris/new_ui_ux/icons/2x/secondary/warreanty-v1.png",
+      "label": "÷Â«Ê ”Ê ÍÊ",
+      "lableUrl": "/maintenance",
+      "displayOrder": 2,
+      "isWarranty": true
+    },
+    {
+      "iconUrl": "http://cdn.extrastores.com/hybris/new_ui_ux/icons/2x/secondary/trade-in-v1.png",
+      "label": "«” »œ«‰ «‰‚œÍÂ »«‰ÃœÍœ ",
+      "lableUrl": "/trade-in",
+      "displayOrder": 3,
+      "isWarranty": false
+    }
+  ],
+  "keyHighlightsContent": null,
+  "lmdConfigurations": [],
+  "offersLabel": null,
+  "couponData": null,
+  "isDigitalProduct": false,
+  "comingSoonDate": null,
+  "digitalGiftcardType": null,
+  "offersCount": null,
+  "freeGiftIconLabel": {
+    "iconUrl": "https://media.extra.com/i/aurora/gift-icon_1",
+    "label": "Áœ«Í« ÂÃ«ÊÍ…|",
+    "lableUrl": null,
+    "displayOrder": null,
+    "isWarranty": false
+  },
+  "learnMore": null,
+  "productBasicPrimeData": {
+    "primePrice": {
+      "currencyIso": "SAR",
+      "value": 5879,
+      "priceType": "BUY",
+      "formattedValue": "5879",
+      "minQuantity": null,
+      "maxQuantity": null
+    },
+    "primeDiscount": {
+      "currencyIso": "SAR",
+      "value": 120,
+      "priceType": "BUY",
+      "formattedValue": "120",
+      "minQuantity": null,
+      "maxQuantity": null
+    },
+    "tacticalPromo": false,
+    "primePercentageDiscount": {
+      "currencyIso": "SAR",
+      "value": 2,
+      "priceType": "BUY",
+      "formattedValue": "2",
+      "minQuantity": null,
+      "maxQuantity": null
+    },
+    "primePromoCode": "72536_93971_2829876",
+    "tacticalPrice": null,
+    "tacticalPromoDiscount": null,
+    "tacticalPercentageDiscount": null,
+    "tacticalPromoCode": null,
+    "expectedPrimeSaving": {
+      "currencyIso": "SAR",
+      "value": 1520,
+      "priceType": "BUY",
+      "formattedValue": "1520",
+      "minQuantity": null,
+      "maxQuantity": null
+    }
+  },
+  "productVipPrimeData": {
+    "primePrice": {
+      "currencyIso": "SAR",
+      "value": 5879,
+      "priceType": "BUY",
+      "formattedValue": "5879",
+      "minQuantity": null,
+      "maxQuantity": null
+    },
+    "primeDiscount": {
+      "currencyIso": "SAR",
+      "value": 120,
+      "priceType": "BUY",
+      "formattedValue": "120",
+      "minQuantity": null,
+      "maxQuantity": null
+    },
+    "tacticalPromo": false,
+    "primePercentageDiscount": {
+      "currencyIso": "SAR",
+      "value": 2,
+      "priceType": "BUY",
+      "formattedValue": "2",
+      "minQuantity": null,
+      "maxQuantity": null
+    },
+    "primePromoCode": "72542_94057_2829974",
+    "tacticalPrice": null,
+    "tacticalPromoDiscount": null,
+    "tacticalPercentageDiscount": null,
+    "tacticalPromoCode": null,
+    "expectedPrimeSaving": {
+      "currencyIso": "SAR",
+      "value": 1520,
+      "priceType": "BUY",
+      "formattedValue": "1520",
+      "minQuantity": null,
+      "maxQuantity": null
+    }
+  },
+  "serviceItemDiscountInfos": null,
+  "specialTagProduct": false,
+  "viewOurShippingFees": {
+    "code": null,
+    "label": null,
+    "content": null,
+    "url": null,
+    "imageUrl": null,
+    "title": null
+  },
+  "eligibleVasEntries": [
+    {
+      "serviceProductCode": "100049434",
+      "accidentalWarranty": true,
+      "extraCareService": false,
+      "splitAcService": false,
+      "vasPrices": [
+        {
+          "vasType": {
+            "code": "1Years",
+            "name": "1 ”Ê…",
+            "years": 1,
+            "toBeExcluded": false,
+            "label": "«‰√”«”Í…",
+            "bracketAllowed": false
+          },
+          "servicePrice": {
+            "currencyIso": "SAR",
+            "value": 490,
+            "priceType": "BUY",
+            "formattedValue": "490",
+            "minQuantity": null,
+            "maxQuantity": null
+          },
+          "priceType": "PRICE_TIER",
+          "priceTo": 10000.0,
+          "isSelected": false,
+          "defaultWarranty": false,
+          "isCartPage": false,
+          "productCodes": null,
+          "percentageDiscount": null,
+          "additionalAwsProductCode": null,
+          "additionalAwsVasGroup": null,
+          "selectionEnabled": false,
+          "discountedPrice": null,
+          "productServicePrice": 490,
+          "baseServicePrice": null,
+          "serviceFreeGiftMap": {},
+          "onWallPercentageDiscount": null,
+          "upgradedPrice": null,
+          "defaultUpgradeServiceSku": null,
+          "primeDiscount": false,
+          "basicPrimeDiscountPrice": null,
+          "vipPrimeDiscountPrice": null,
+          "acSetupAddedAsFree": false,
+          "noPlanOption": false
+        },
+        {
+          "vasType": {
+            "code": "2Years",
+            "name": "2 ”ÊË« ",
+            "years": 2,
+            "toBeExcluded": false,
+            "label": "«‰Â·÷‰…",
+            "bracketAllowed": false
+          },
+          "servicePrice": {
+            "currencyIso": "SAR",
+            "value": 800,
+            "priceType": "BUY",
+            "formattedValue": "800",
+            "minQuantity": null,
+            "maxQuantity": null
+          },
+          "priceType": "PRICE_TIER",
+          "priceTo": 10000.0,
+          "isSelected": false,
+          "defaultWarranty": false,
+          "isCartPage": false,
+          "productCodes": null,
+          "percentageDiscount": null,
+          "additionalAwsProductCode": null,
+          "additionalAwsVasGroup": null,
+          "selectionEnabled": false,
+          "discountedPrice": null,
+          "productServicePrice": 800,
+          "baseServicePrice": null,
+          "serviceFreeGiftMap": {},
+          "onWallPercentageDiscount": null,
+          "upgradedPrice": null,
+          "defaultUpgradeServiceSku": null,
+          "primeDiscount": false,
+          "basicPrimeDiscountPrice": null,
+          "vipPrimeDiscountPrice": null,
+          "acSetupAddedAsFree": false,
+          "noPlanOption": false
+        },
+        {
+          "vasType": {
+            "code": "noPlan",
+            "name": "»œËÊ »«‚…",
+            "years": 0,
+            "toBeExcluded": false,
+            "label": "»œËÊ »«‚…",
+            "bracketAllowed": false
+          },
+          "servicePrice": {
+            "currencyIso": "SAR",
+            "value": 0,
+            "priceType": "BUY",
+            "formattedValue": "0",
+            "minQuantity": null,
+            "maxQuantity": null
+          },
+          "priceType": "NO_PLAN_PRICE",
+          "priceTo": 0.0,
+          "isSelected": false,
+          "defaultWarranty": false,
+          "isCartPage": false,
+          "productCodes": null,
+          "percentageDiscount": null,
+          "additionalAwsProductCode": null,
+          "additionalAwsVasGroup": null,
+          "selectionEnabled": false,
+          "discountedPrice": null,
+          "productServicePrice": null,
+          "baseServicePrice": 0,
+          "serviceFreeGiftMap": {},
+          "onWallPercentageDiscount": null,
+          "upgradedPrice": null,
+          "defaultUpgradeServiceSku": null,
+          "primeDiscount": false,
+          "basicPrimeDiscountPrice": null,
+          "vipPrimeDiscountPrice": null,
+          "acSetupAddedAsFree": false,
+          "noPlanOption": true
+        }
+      ],
+      "bracketProduct": null,
+      "showApplyService": false,
+      "serviceProduct": {
+        "code": "100049434",
+        "name": "÷Â«Ê «„” —« - ‰‰ÃË«‰«  Ë «‰ «»‰  - —”ËÂ «‘ —«„",
+        "amplienceProductBaseUrl": "//media.extra.com/s/aurora/100049434_800/eXtra-Safeguard---Mobile-%2C-Tablet---Subscription-fees?locale=en-GB,ar-*,*",
+        "price": null,
+        "discountPrice": null,
+        "stock": null,
+        "url": "/mri/accidental-warranty-services/accidental-warranty-sales/extra-safeguard-mobile-tablet-subscription-fees/p/100049434",
+        "brandName": null,
+        "percentageDiscount": null,
+        "savingAmount": null,
+        "cashBackPrice": null,
+        "hasCashBack": null,
+        "afterCashBackPrice": null,
+        "freeGiftDataList": []
+      },
+      "extraSetupService": false,
+      "appleCareService": false,
+      "vasGroup": "AWS",
+      "combinedVas": false,
+      "extraCareCoating": false,
+      "upgradeVasEntry": false,
+      "installService": false,
+      "noPlanIncluded": true,
+      "noPlanProductCode": "00000123"
+    }
+  ],
+  "supplierName": null,
+  "wishlistEntryPk": null,
+  "tamaraDetails": {
+    "installments": 4,
+    "installmentAmount": {
+      "currencyIso": "SAR",
+      "value": 1500,
+      "priceType": "BUY",
+      "formattedValue": "1499.75",
+      "minQuantity": null,
+      "maxQuantity": null
+    },
+    "learnMoreLink": "/tamaraterms",
+    "isPopup": false,
+    "extraTamaraMsg": "(‘«Â‰ —”ËÂ «‰ŒœÂ…)"
+  },
+  "tabbyDetails": {
+    "installments": 4,
+    "installmentAmount": {
+      "currencyIso": "SAR",
+      "value": 1500,
+      "priceType": "BUY",
+      "formattedValue": "1499.75",
+      "minQuantity": null,
+      "maxQuantity": null
+    },
+    "learnMoreLink": "/tabbyterms"
+  },
+  "wasTasheelPrice": 0.0,
+  "deliveryLeadMessage": null,
+  "deliveryLeadMessageForCart": null,
+  "pageCategoryNameEn": "DIGITAL",
+  "pageSubCategoryNameEn": "MOBILES",
+  "rmsCategoryNameEn": "SMRTPHN",
+  "eligibleForTabby": true,
+  "onDemandDeliveryEnabled": false,
+  "sponsoredType": null,
+  "isJoodMegaSaleProduct": false,
+  "plpEligibleForTamara": false,
+  "plpEligibleForTamaraGold": false,
+  "plpEligibleForTamaraBlue": false,
+  "plpEligibleForTabby": false
+}

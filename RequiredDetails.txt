@@ -1,0 +1,10 @@
+From Url
+
+Name_global
+Name_local
+Brand
+Price
+Descrition_l
+Description_global
+rating
+isAvailable
