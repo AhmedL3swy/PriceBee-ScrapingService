@@ -1,0 +1,1453 @@
+ {
+          "sku": "N50863791A",
+          "breadcrumbs": [
+            { "code": "", "name": "الرئيسية" },
+            {
+              "code": "electronics-and-mobiles",
+              "name": "الإلكترونيات والموبايلات"
+            },
+            {
+              "code": "electronics-and-mobiles/computers-and-accessories",
+              "name": "الكمبيوتر وملحقاته"
+            },
+            {
+              "code": "electronics-and-mobiles/computers-and-accessories/tablets",
+              "name": "أجهزة التابلت"
+            }
+          ],
+          "product_title": "آي باد 2021 (الجيل التاسع) مقاس 10.2 بوصة بذاكرة داخلية 256 جيجابايت وتقنية واي فاي مع تطبيق فيس تايم، بلون رمادي فلكي - إصدار عالمي",
+          "brand": "أبل",
+          "brand_code": "apple",
+          "long_description": "Powerful. Easy to use. Versatile. The new ipad is designed for all the things you love to do. Work, play, create, learn, stay connected and more. All at an incredible value.the a13 bionic chip makes everything more responsive, from messaging to web browsing to using multiple apps at once.up to 20% faster gpu gives you the graphics performance you need. Perfect for playing immersive games and more.a more powerful neural engine drives machine learning–based features like live text in ipados 15.the a13 bionic chip effortlessly powers advanced apps like adobe fresco and procreate.with all-day battery life, ipad is ready to work or play for as long as you need it.with incredible detail and vivid colours, the 25.91-centimetre (10.2‑inch).retina display is perfect for watching movies, working on a project or drawing your next masterpiece.true tone adjusts the display to the colour temperature of the room to make viewing comfortable in any light.centre stage makes video calls more engaging by automatically adjusting to keep you centred in the frame. And it lets you create fun videos for posting to popular social apps.in addition to centre stage, the 12mp ultra wide front camera brings a huge boost in image quality for even better selfies and group shots.the 8mp wide camera on the back of ipad captures sharp, vivid images and video.the versatile back camera also lets you scan documents and experience immersive ar apps.download files, stream movies, collaborate with colleagues and upload content from just about anywhere.fast wi‑fi lets you stay connected at home, work, school or wherever you go with ipad.with 4g lte advanced, you can connect even when you can’t access wi‑fi.designed for the large multi‑touch display, ipados is powerful and easy to use.ipados 15 pushes the capabilities of ipad further with more discoverable multitasking, new ways to find and organise information, and enhanced note‑taking.ipad comes with powerful apple‑designed apps like photos, maps, messages, mail and safari. And with over a million apps on the app store designed just for ipad, you’ll find the right app for anything you want to do. Make a beat, get a workout in or join a battle royale with friends.",
+          "feature_bullets": [
+            "شريحة A13 بيونيك توفر المزيد من الاستجابة لكل شيء، من إرسال الرسائل إلى تصفح الويب واستخدام تطبيقات متعددة في وقت واحد",
+            "وحدة معالجة رسومات أسرع بنسبة تصل إلى 20% توفر لك أداء الرسومات الذي تحتاجه. مثالية للألعاب الغامرة وغير ذلك المزيد",
+            "مميزات أقوى من خلال محرك المعالجة العصبونية للتعلم الآلي مثل لايف تكست في نظام تشغيل  iPadOS 15",
+            "تشغل شريحة A13 بيونيك بسهولة التطبيقات المتقدمة مثل أدوبي فريسكو وبروكرييت",
+            "جهاز الآي باد جاهز لاستخدامه في العمل أو اللعب طوال الفترة التي تحتاجها، بفضل عمر البطارية التي تدوم طوال اليوم"
+          ],
+          "specifications": [
+            {
+              "code": "expandable_memory_type",
+              "name": "نوع الذاكرة القابلة للزيادة",
+              "value": "بدون ذاكرة قابلة للزيادة",
+              "value_code": "no_expandable_memory"
+            },
+            {
+              "code": "operating_system_version",
+              "name": "إصدار نظام التشغيل",
+              "value": "نظام تشغيل iOS 15",
+              "value_code": "ios_15"
+            },
+            {
+              "code": "secondary_camera_resolution",
+              "name": "دقة الكاميرا الثانوية",
+              "value": "12 MP",
+              "value_code": 12
+            },
+            {
+              "code": "charging_type",
+              "name": "نوع الشحن",
+              "value": "نوع C",
+              "value_code": "type_c"
+            },
+            {
+              "code": "display_resolution_type",
+              "name": "نوع دقة العرض",
+              "value": "Full HD",
+              "value_code": "full_hd"
+            },
+            {
+              "code": "sim_type",
+              "name": "نوع الشريحة",
+              "value": "بدون بطاقة هاتف",
+              "value_code": "no_sim_card"
+            },
+            {
+              "code": "connection_type",
+              "name": "نوع التوصيل",
+              "value": "واي فاي",
+              "value_code": "wifi"
+            },
+            {
+              "code": "sim_count",
+              "name": "عدد شريحة Sim",
+              "value": "بدون بطاقة هاتف",
+              "value_code": "no_sim_card"
+            },
+            {
+              "code": "processor_speed",
+              "name": "سرعة المعالج",
+              "value": "2.65 GHz",
+              "value_code": 2.65
+            },
+            {
+              "code": "operating_system",
+              "name": "نظام التشغيل",
+              "value": "IOS",
+              "value_code": "ios"
+            },
+            {
+              "code": "secondary_camera",
+              "name": "دقة الكاميرا الثانوية ",
+              "value": "12 ميجابكسل فأكثر",
+              "value_code": "12_mp_above"
+            },
+            {
+              "code": "ram_size",
+              "name": "حجم ذاكرة الوصول العشوائي",
+              "value": "3 GB",
+              "value_code": 3
+            },
+            {
+              "code": "battery_size",
+              "name": "حجم البطارية",
+              "value": "8557 mAh",
+              "value_code": 8557
+            },
+            {
+              "code": "internal_memory",
+              "name": "الذاكرة الداخلية",
+              "value": "256 GB",
+              "value_code": 256
+            },
+            {
+              "code": "product_weight",
+              "name": "وزن المنتج",
+              "value": "487 g",
+              "value_code": 487
+            },
+            {
+              "code": "display_type",
+              "name": "نوع العرض",
+              "value": "شاشة عرض ريتينا",
+              "value_code": "retina_display"
+            },
+            {
+              "code": "version",
+              "name": "الإصدار",
+              "value": "نسخة عالمية",
+              "value_code": "international_version"
+            },
+            {
+              "code": "screen_size",
+              "name": "حجم الشاشة",
+              "value": "10.2 in",
+              "value_code": 10.2
+            },
+            {
+              "code": "display_resolution",
+              "name": "دقة الشاشة",
+              "value": "2160x1080",
+              "value_code": "2160x1080"
+            },
+            {
+              "code": "primary_camera_resolution",
+              "name": "دقة الكاميرا الأساسية",
+              "value": "8 MP",
+              "value_code": 8
+            },
+            {
+              "code": "colour_name",
+              "name": "اسم اللون",
+              "value": "رمادي فلكي",
+              "value_code": "رمادي فلكي"
+            },
+            {
+              "code": "network_frequency_band",
+              "name": "نطاق تردد الشبكة",
+              "value": "واي فاي",
+              "value_code": "wifi"
+            },
+            {
+              "code": "processor_name",
+              "name": "اسم المعالج",
+              "value": "أبل",
+              "value_code": "apple"
+            },
+            {
+              "code": "number_of_cores",
+              "name": "عدد النواة",
+              "value": "سداسي النواة (Hexa Core)",
+              "value_code": "hexa_core"
+            },
+            {
+              "code": "glass_technology",
+              "name": "تكنولوجيا الزجاج",
+              "value": "زجاج الحماية جوريلا غلاس",
+              "value_code": "gorilla_glass"
+            },
+            {
+              "code": "camera_type",
+              "name": "نوع الكاميرا",
+              "value": "كاميرا الابتدائية + كاميرا ثانوية",
+              "value_code": "primary_camera_secondary_camera"
+            },
+            {
+              "code": "primary_camera_feature",
+              "name": "ميزة الكاميرا الأساسية",
+              "value": "فردي",
+              "value_code": "single"
+            },
+            {
+              "code": "flash",
+              "name": "فلاش",
+              "value": "لا يوجد فلاش",
+              "value_code": "no_flash"
+            },
+            {
+              "code": "video_recording_resolution_type",
+              "name": "نوع دقة تسجيل الفيديو",
+              "value": "1080 بيكسل",
+              "value_code": "1080p"
+            },
+            {
+              "code": "battery_type",
+              "name": "نوع البطارية",
+              "value": "ليثيوم أيون",
+              "value_code": "lithium_ion"
+            },
+            {
+              "code": "water_dust_properties",
+              "name": "خصائص مقاومة المياه/الغبار",
+              "value": "مقاوم للماء والغبار",
+              "value_code": "water_resistant_and_dust_resistant"
+            },
+            {
+              "code": "material_finish",
+              "name": "الخارجي",
+              "value": "ألومنيوم",
+              "value_code": "aluminum"
+            },
+            {
+              "code": "tablet_screen_size",
+              "name": "حجم شاشة التابلت",
+              "value": "10.1 - 11 بوصة",
+              "value_code": "10_1_11_inches"
+            },
+            {
+              "code": "model_year",
+              "name": "سنة الصنع",
+              "value": "2021",
+              "value_code": "2021"
+            },
+            {
+              "code": "el_network_new",
+              "name": "شبكة جديدة",
+              "value": "واي فاي",
+              "value_code": "wi-fi"
+            },
+            {
+              "code": "product_length",
+              "name": "طول المنتج",
+              "value": "174.1 mm",
+              "value_code": 174.1
+            },
+            {
+              "code": "product_height",
+              "name": "ارتفاع المنتج",
+              "value": "250.6 mm",
+              "value_code": 250.6
+            },
+            {
+              "code": "product_width_depth",
+              "name": "عرض/عمق المنتج",
+              "value": "7.5 mm",
+              "value_code": 7.5
+            },
+            {
+              "code": "voice_calling_capability",
+              "name": "قدرة الطلب الصوتي",
+              "value": "no",
+              "value_code": "no"
+            },
+            {
+              "code": "operating_system_number",
+              "name": "عدد أنظمة التشغيل",
+              "value": "15",
+              "value_code": "15"
+            },
+            {
+              "code": "processor_number",
+              "name": "رقم المعالج",
+              "value": "A13 Bionic",
+              "value_code": "A13 Bionic"
+            },
+            {
+              "code": "fast_charging",
+              "name": "شحن سريع.",
+              "value": "No",
+              "value_code": "No"
+            },
+            {
+              "code": "whats_in_the_box",
+              "name": "محتويات العلبة",
+              "value": "Tablet, manual",
+              "value_code": "Tablet, manual"
+            },
+            {
+              "code": "model_number",
+              "name": "رقم الموديل",
+              "value": "Apple iPad 9th gen",
+              "value_code": "Apple iPad 9th gen"
+            },
+            {
+              "code": "model_name",
+              "name": "اسم الموديل",
+              "value": "iPad 2021 (9th Generation)",
+              "value_code": "iPad 2021 (9th Generation)"
+            },
+            {
+              "code": "pixels_per_inch",
+              "name": "بيكسل في البوصة",
+              "value": "264",
+              "value_code": "264"
+            },
+            {
+              "code": "primary_camera_mp",
+              "name": "الكاميرا الأساسية (MP)",
+              "value": "12 mp",
+              "value_code": "12 mp"
+            }
+          ],
+          "image_keys": [
+            "v1686205683/N50863791A_1",
+            "v1669218499/N50863791A_2",
+            "v1669218499/N50863791A_3",
+            "v1669218499/N50863791A_4",
+            "v1669218499/N50863791A_5",
+            "v1669218499/N50863791A_6",
+            "v1669218499/N50863791A_7",
+            "v1669218499/N50863791A_8",
+            "v1669218500/N50863791A_9",
+            "v1669218500/N50863791A_10"
+          ],
+          "sizing_guide": null,
+          "occasion_code": null,
+          "fashion_department_code": null,
+          "aug_reality_ios_ae": null,
+          "is_collection_eligible": true,
+          "collection_eligible_text": "توصيل مجاني لنقطة نون ومراكز الاستلام",
+          "product_rating": { "count": 890, "value": 4.7 },
+          "reviews": {
+            "comments": {
+              "ar": {
+                "count": 128,
+                "reviews": [
+                  {
+                    "comment": "خذوا الرخيص النسخة العالمية ولا تصدقون للي يقولون ينكسر الشاشة من لمسه صراحة جميييل وجاء معه شاحن وفيش وجدا عملي فادني بالجامعه خذوه وانتوا مغمضين بس اشتروا له كفر حتى ما يحتاج تركبون له شاشة بس اذا ودكم ليش لا!",
+                    "displayName": "نوره ا.",
+                    "helpfulCount": 48,
+                    "imageUrls": [
+                      "2590538e-1db4-4824-95d3-b9c4fedb3749-1703770166-1.png"
+                    ],
+                    "isVerifiedPurchase": true,
+                    "rating": 4,
+                    "title": "جداً روعه",
+                    "uid": "8437bf9e-6e96-43ea-8109-e70039f9c33f",
+                    "updatedAt": "2023-12-28T13:26:43Z"
+                  },
+                  {
+                    "comment": "كنت متخوفة منه بس طلع رهيب شاشته كبيرة و يفك ازمة للي بيدرس او يشتغل عليه تمنيت لو اني اخذت بشريحة لان مبتلشه بالشريحة اللي عندي بس الميزانية يا دوبك بس ترى فيه برامج ما تتحمل عليه زي واتساب بزنس بس تقدروا تسووا اختصار من قوقل و كمان مو اي قلم يمشي مع إصداره يعني انتبهوا و انتوا تقضون له ابحثوا عن منتجات تدعم ايباد إصدار ٢٠٢١ الله يرزق الجميع",
+                    "displayName": "anonymous",
+                    "helpfulCount": 6,
+                    "imageUrls": [],
+                    "isVerifiedPurchase": true,
+                    "rating": 5,
+                    "title": "الصراحة رهييب",
+                    "uid": "6b12abaf-7895-453e-8043-54dcb6bb7777",
+                    "updatedAt": "2024-02-01T15:40:47Z"
+                  },
+                  {
+                    "comment": "الايباد جدًا جميل معي له شهرين واعتقد مدة كافيه لتقييمه الايباد اصلي جدّا ولا يعلق الحمدلله والبائع كان أركان الشامل واصلي جديد جاني بتغليف المصنع ولا فيه فرق بينه وبين نسخة الشرق الاوسط بس الفيش يكون ثلاثي اذا كان نسخة شرق اوسط والعالمي في ثنائي",
+                    "displayName": "anonymous",
+                    "helpfulCount": 6,
+                    "imageUrls": [],
+                    "isVerifiedPurchase": true,
+                    "rating": 5,
+                    "title": "الايباد",
+                    "uid": "753bc454-4c91-46ce-a8dc-293036109c63",
+                    "updatedAt": "2023-11-20T09:39:05Z"
+                  },
+                  {
+                    "comment": "خيار ممتاز بالاخص انه التطبيقات اغلبها مصممه لايباد اكثر المنافسين و اذا بتاخذه دراسة يفضل يكون عندك لاب توب قبل (النسخه العالمية الراس حقها ابو ٢ النحيف ) امريكي يعني خذ ٢٥٦ افضل شي",
+                    "displayName": "Aqeel A.",
+                    "helpfulCount": 0,
+                    "imageUrls": [],
+                    "isVerifiedPurchase": true,
+                    "rating": 5,
+                    "title": "اللي حاب يشتري تابلت ",
+                    "uid": "b71fb213-3c9f-4323-b3b8-3ae0cc879a5f",
+                    "updatedAt": "2024-03-09T22:14:01Z"
+                  },
+                  {
+                    "comment": "خذيت للجامعه عشان ما عندي ميزانيه خذيته بأقساط و يجنن ما توقعت شاشة كبيره و خذيت قلم من شي ان يجنن و اصلي لا يغركم كلام ناس ترا نون اغراضه اصليه اذا خذيتي من مركات معروفه و خذيت مساحه عاليه عشان ملفات و ادعوا لي الله يوفقني و يرزقني 🥹💓💓💓",
+                    "displayName": "anonymous",
+                    "helpfulCount": 134,
+                    "imageUrls": [],
+                    "isVerifiedPurchase": true,
+                    "rating": 5,
+                    "title": "يجنن",
+                    "uid": "c5afdf28-2d96-4fca-b5e3-1d06e380a895",
+                    "updatedAt": "2023-08-08T16:35:03Z"
+                  }
+                ]
+              },
+              "en": {
+                "count": 56,
+                "reviews": [
+                  {
+                    "comment": "I was afraid to order online but this one is original , perfect for student .. thanks to seller",
+                    "displayName": "anonymous",
+                    "helpfulCount": 0,
+                    "imageUrls": [],
+                    "isVerifiedPurchase": true,
+                    "rating": 5,
+                    "title": "Nice Ipad",
+                    "uid": "f8faf702-3f77-4973-8bad-56ea307977fc",
+                    "updatedAt": "2023-11-05T19:17:45Z"
+                  },
+                  {
+                    "comment": "I have received the item as intended and brand new. no scratches and well packed. Thank you. God bless you",
+                    "displayName": "Dennis M.",
+                    "helpfulCount": 0,
+                    "imageUrls": [],
+                    "isVerifiedPurchase": true,
+                    "rating": 5,
+                    "title": "product",
+                    "uid": "67cebf20-0d76-4a57-b8e1-f952c0ce9239",
+                    "updatedAt": "2023-09-12T09:06:37Z"
+                  },
+                  {
+                    "comment": "This device will perform all your daily task without any issue.",
+                    "displayName": "Mir Hyder A.",
+                    "helpfulCount": 0,
+                    "imageUrls": [],
+                    "isVerifiedPurchase": true,
+                    "rating": 5,
+                    "title": "Perfect for daily use.",
+                    "uid": "5bc55bc4-8b21-435c-b91d-e09d173c0d32",
+                    "updatedAt": "2023-11-09T08:23:00Z"
+                  },
+                  {
+                    "comment": "Being in UAE received 2 pin charger … not suitable for UAE \nReally disappointed now have to get a adapter",
+                    "displayName": "anonymous",
+                    "helpfulCount": 1,
+                    "imageUrls": [],
+                    "isVerifiedPurchase": true,
+                    "rating": 1,
+                    "title": "Adapter not suitable for UAE points",
+                    "uid": "60af7727-f742-495f-a165-435734e96184",
+                    "updatedAt": "2022-11-13T11:05:20Z"
+                  },
+                  {
+                    "comment": "Let me give this review 5 stars. Incredible product and more than expectation. Love to shop again with similar sellers.",
+                    "displayName": "Muhammad I.",
+                    "helpfulCount": 0,
+                    "imageUrls": [],
+                    "isVerifiedPurchase": true,
+                    "rating": 5,
+                    "title": "Excellent Packaged Product",
+                    "uid": "724c2957-f391-4abf-a16e-419ae463fa36",
+                    "updatedAt": "2022-09-19T09:55:01Z"
+                  }
+                ]
+              },
+              "xx": {
+                "count": 184,
+                "reviews": [
+                  {
+                    "comment": "خذوا الرخيص النسخة العالمية ولا تصدقون للي يقولون ينكسر الشاشة من لمسه صراحة جميييل وجاء معه شاحن وفيش وجدا عملي فادني بالجامعه خذوه وانتوا مغمضين بس اشتروا له كفر حتى ما يحتاج تركبون له شاشة بس اذا ودكم ليش لا!",
+                    "displayName": "نوره ا.",
+                    "helpfulCount": 48,
+                    "imageUrls": [
+                      "2590538e-1db4-4824-95d3-b9c4fedb3749-1703770166-1.png"
+                    ],
+                    "isVerifiedPurchase": true,
+                    "rating": 4,
+                    "title": "جداً روعه",
+                    "uid": "8437bf9e-6e96-43ea-8109-e70039f9c33f",
+                    "updatedAt": "2023-12-28T13:26:43Z"
+                  },
+                  {
+                    "comment": "كنت متخوفة منه بس طلع رهيب شاشته كبيرة و يفك ازمة للي بيدرس او يشتغل عليه تمنيت لو اني اخذت بشريحة لان مبتلشه بالشريحة اللي عندي بس الميزانية يا دوبك بس ترى فيه برامج ما تتحمل عليه زي واتساب بزنس بس تقدروا تسووا اختصار من قوقل و كمان مو اي قلم يمشي مع إصداره يعني انتبهوا و انتوا تقضون له ابحثوا عن منتجات تدعم ايباد إصدار ٢٠٢١ الله يرزق الجميع",
+                    "displayName": "anonymous",
+                    "helpfulCount": 6,
+                    "imageUrls": [],
+                    "isVerifiedPurchase": true,
+                    "rating": 5,
+                    "title": "الصراحة رهييب",
+                    "uid": "6b12abaf-7895-453e-8043-54dcb6bb7777",
+                    "updatedAt": "2024-02-01T15:40:47Z"
+                  },
+                  {
+                    "comment": "الايباد جدًا جميل معي له شهرين واعتقد مدة كافيه لتقييمه الايباد اصلي جدّا ولا يعلق الحمدلله والبائع كان أركان الشامل واصلي جديد جاني بتغليف المصنع ولا فيه فرق بينه وبين نسخة الشرق الاوسط بس الفيش يكون ثلاثي اذا كان نسخة شرق اوسط والعالمي في ثنائي",
+                    "displayName": "anonymous",
+                    "helpfulCount": 6,
+                    "imageUrls": [],
+                    "isVerifiedPurchase": true,
+                    "rating": 5,
+                    "title": "الايباد",
+                    "uid": "753bc454-4c91-46ce-a8dc-293036109c63",
+                    "updatedAt": "2023-11-20T09:39:05Z"
+                  },
+                  {
+                    "comment": "خيار ممتاز بالاخص انه التطبيقات اغلبها مصممه لايباد اكثر المنافسين و اذا بتاخذه دراسة يفضل يكون عندك لاب توب قبل (النسخه العالمية الراس حقها ابو ٢ النحيف ) امريكي يعني خذ ٢٥٦ افضل شي",
+                    "displayName": "Aqeel A.",
+                    "helpfulCount": 0,
+                    "imageUrls": [],
+                    "isVerifiedPurchase": true,
+                    "rating": 5,
+                    "title": "اللي حاب يشتري تابلت ",
+                    "uid": "b71fb213-3c9f-4323-b3b8-3ae0cc879a5f",
+                    "updatedAt": "2024-03-09T22:14:01Z"
+                  },
+                  {
+                    "comment": "خذيت للجامعه عشان ما عندي ميزانيه خذيته بأقساط و يجنن ما توقعت شاشة كبيره و خذيت قلم من شي ان يجنن و اصلي لا يغركم كلام ناس ترا نون اغراضه اصليه اذا خذيتي من مركات معروفه و خذيت مساحه عاليه عشان ملفات و ادعوا لي الله يوفقني و يرزقني 🥹💓💓💓",
+                    "displayName": "anonymous",
+                    "helpfulCount": 134,
+                    "imageUrls": [],
+                    "isVerifiedPurchase": true,
+                    "rating": 5,
+                    "title": "يجنن",
+                    "uid": "c5afdf28-2d96-4fca-b5e3-1d06e380a895",
+                    "updatedAt": "2023-08-08T16:35:03Z"
+                  }
+                ]
+              }
+            },
+            "summary": {
+              "averageRating": 4.7,
+              "breakdown": [
+                {
+                  "commentCount": 0,
+                  "count": 3,
+                  "rating": 2,
+                  "weighted_rating": 0
+                },
+                {
+                  "commentCount": 164,
+                  "count": 750,
+                  "rating": 5,
+                  "weighted_rating": 84
+                },
+                {
+                  "commentCount": 4,
+                  "count": 19,
+                  "rating": 3,
+                  "weighted_rating": 2
+                },
+                {
+                  "commentCount": 13,
+                  "count": 70,
+                  "rating": 4,
+                  "weighted_rating": 8
+                },
+                {
+                  "commentCount": 3,
+                  "count": 48,
+                  "rating": 1,
+                  "weighted_rating": 5
+                }
+              ],
+              "breakdown_ar": [
+                { "commentCount": 2, "rating": 1 },
+                { "commentCount": 4, "rating": 3 },
+                { "commentCount": 0, "rating": 2 },
+                { "commentCount": 114, "rating": 5 },
+                { "commentCount": 8, "rating": 4 }
+              ],
+              "breakdown_en": [
+                { "commentCount": 1, "rating": 1 },
+                { "commentCount": 0, "rating": 3 },
+                { "commentCount": 0, "rating": 2 },
+                { "commentCount": 50, "rating": 5 },
+                { "commentCount": 5, "rating": 4 }
+              ],
+              "commentCount": 184,
+              "ratingCount": 890
+            }
+          },
+          "estimated_delivery_city": "9",
+          "offer_code": "fcb818829580d36f",
+          "variants": [
+            {
+              "sku": "N50863791A",
+              "variant": "",
+              "offers": [
+                {
+                  "offer_code": "fcb818829580d36f",
+                  "sku_config": "N50863791A",
+                  "sku": "N50863791A",
+                  "url": "ipad-2021-9th-generation-10-2-inch-256gb-wifi-space-gray-with-facetime-international-version",
+                  "id_product_fulltype": 4858,
+                  "stock": 10,
+                  "stock_minimum_quantity": 1,
+                  "price": 2599,
+                  "sale_price": 1595,
+                  "is_bestseller": false,
+                  "filter_keys": "8,138,146,912,1165,1239,1587,1848,2094,2181,2370,2456,2635,2763,3014,3581,3612,5626,5898,6647,7475,8094,8204,8206,8440,9116,9392,9654,9732,10065,10481,10482,11079,2000221,2001079,2001640,2001695,2002783,2002813,2002866,2003138,2003434,2004105,2004260,2004359,2007107,2009642,2009681,2009686,2009702,2009783,2009784,2009786,2009787,2009788,2009789,2009790,2009791,2009792,2009793,2009794,2009795,2009796,2009797,2009798,2009799,2009800,2009801,2009802,2009803,2009804,2009805,2009806,2009807,2009808,2009809,2009810,2009811,2009812,2009813,2009814,2009815,2009816,2009817,2009818,2009819,2009820,2009821,2009822,2009823,2009824,2009826,2009827,2009828,2009829,2009835,2009836,2009837,2009838,2009839,2009840,2009841,2009842,2009843,2009844,2009871,2009873,2009962,2009963,2009964,2009965,2009966,2009967,2009968,2009970,2009971,2009973,2009974,2009975,2009976,2009982,2009983,2009984,2009985,2009986,2009987,2009988,2009989,2009990,2009991,2009992,2009993,2009994,2009995,2009996,2009997,2009998,2009999,2010000,2010001,2010010,2010011,2010012,2010013,2010014,2010015,2010016,2010017,2010018,2010019,2010020,2010021,2010022,2010024,2010025,2010026,2010027,2010028,2010029,2010030,2010031,2010032,2010033,2010038,2010039,2010040,2010041,2010042,2010043,2010044,2010045,2010046,2010067,2010074,2010381,2010784,2010904,2010913,2010960,2011093,2011426,2011764,2011770,2011820,2011891,2011893,2013098,2013916,2014070,2016645,2016949,2017600,2019115,2019179,2019897,2020333,2020334,2020335,2020348,2020364,2022496,2022949,2024404,2028502,2030745",
+                  "is_returnable": true,
+                  "note": "",
+                  "is_buyable": true,
+                  "flags": ["fbn", "free_delivery_eligible", "quick_atc"],
+                  "estimated_delivery": "احصل عليه خلال \u003cb\u003e24 - 27 مايو\u003c/b\u003e",
+                  "estimated_delivery_date": "05-27-2024, 18:00:00",
+                  "estimated_delivery_expires": "2024-05-21T18:00Z",
+                  "estimated_delivery_time_slot": "",
+                  "shipping_preference": {},
+                  "shipping_preferences_vip": [],
+                  "delivery_icon": "",
+                  "shipping_fee_message": "",
+                  "warranty": "ضمان لمدة عامين",
+                  "emi_value": 266,
+                  "interest_percentage": 0,
+                  "payments": ["tabby", "tamara"],
+                  "bnplMaxInstallments": {
+                    "tabby": "قسمها على 4 دفعات ب ٣٩٨٫٧٥ ر.س. بدون فوائد أو رسوم تأخير.",
+                    "tamara": "قسمها على 4 دفعات ب ٣٩٨٫٧٥ ر.س. بدون فوائد أو رسوم تأخير."
+                  },
+                  "foupon_message": null,
+                  "store_name": "متميز",
+                  "partner_code": "p-48714",
+                  "partner_ratings_sellerlab": {
+                    "as_described_rate": 100,
+                    "positive_seller_rating": 95,
+                    "partner_rating": 4.8,
+                    "num_of_rating": 1809,
+                    "badges": [
+                      {
+                        "icon": "https://z.nooncdn.com/nr/seller_badges/great_recent_rating.png",
+                        "title": "أحدث التقييمات الإيجابية"
+                      }
+                    ],
+                    "metrics": [
+                      {
+                        "color": "#38AE04",
+                        "icon": "https://z.nooncdn.com/nr/seller_badges/product_as_described.png",
+                        "metric": "as_described_rate",
+                        "title": "المنتج كما في الوصف",
+                        "value": 100
+                      },
+                      {
+                        "color": "#2BB202",
+                        "icon": "https://z.nooncdn.com/nr/seller_badges/partner_icon.png",
+                        "metric": "partner_since",
+                        "title": "شريك لنون منذ",
+                        "value": 1
+                      }
+                    ]
+                  },
+                  "assets": {
+                    "logo": "https://p.nooncdn.com/reviews-partners/partner_assets/48714/logo_sa_1663325393.7285116.jpg"
+                  },
+                  "freebies": [],
+                  "is_freebie": false,
+                  "nudges": [
+                    {
+                      "text": "توصيل مجاني",
+                      "icon": "https://f.nooncdn.com/mpcms/EN0001/assets/77701d64-1162-4836-93f9-584b39add4fd.png"
+                    },
+                    {
+                      "text": "بتخلّص بسرعة",
+                      "icon": "https://f.nooncdn.com/mpcms/EN0001/assets/d2809d6f-556e-414a-b0f9-51cef68684bc.png"
+                    }
+                  ],
+                  "was_price_source": null,
+                  "offer_badges": [
+                    {
+                      "icon": "https://z.nooncdn.com/nr/product_badges/delivery_by_noon.png",
+                      "title": "التوصيل \nبواسطة نوون"
+                    },
+                    {
+                      "icon": "https://z.nooncdn.com/nr/product_badges/high_rated_seller.png",
+                      "title": "البائع ذو\n تقييم عالي"
+                    },
+                    {
+                      "icon": "https://z.nooncdn.com/nr/product_badges/low_return_product.png",
+                      "title": "منتج \nقليل الاسترجاع"
+                    },
+                    {
+                      "icon": "https://z.nooncdn.com/nr/product_badges/cash_on_delivery.png",
+                      "title": "الدفع \nعند الاستلام"
+                    }
+                  ],
+                  "seller_ratings": [],
+                  "partner_ratings": []
+                },
+                {
+                  "offer_code": "de4292e7932083ec",
+                  "sku_config": "N50863791A",
+                  "sku": "N50863791A",
+                  "url": "ipad-2021-9th-generation-10-2-inch-256gb-wifi-space-gray-with-facetime-international-version",
+                  "id_product_fulltype": 4858,
+                  "stock": 3,
+                  "stock_minimum_quantity": 1,
+                  "price": 2599,
+                  "sale_price": 1599,
+                  "is_bestseller": false,
+                  "filter_keys": "8,138,146,912,1165,1239,1587,1848,2094,2181,2370,2456,2635,2763,3014,3581,3612,5626,5898,6647,7475,8094,8204,8206,8440,9116,9392,9654,9732,10065,10481,10482,11079,2000221,2001079,2001640,2001695,2002783,2002813,2002866,2003138,2003434,2004105,2004260,2004359,2007107,2009642,2009681,2009686,2009702,2009783,2009784,2009786,2009787,2009788,2009789,2009790,2009791,2009792,2009793,2009794,2009795,2009796,2009797,2009798,2009799,2009800,2009801,2009802,2009803,2009804,2009805,2009806,2009807,2009808,2009809,2009810,2009811,2009812,2009813,2009814,2009815,2009816,2009817,2009818,2009819,2009820,2009821,2009822,2009823,2009824,2009826,2009827,2009828,2009829,2009835,2009836,2009837,2009838,2009839,2009840,2009841,2009842,2009843,2009844,2009871,2009873,2009962,2009963,2009964,2009965,2009966,2009967,2009968,2009970,2009971,2009973,2009974,2009975,2009976,2009982,2009983,2009984,2009985,2009986,2009987,2009988,2009989,2009990,2009991,2009992,2009993,2009994,2009995,2009996,2009997,2009998,2009999,2010000,2010001,2010010,2010011,2010012,2010013,2010014,2010015,2010016,2010017,2010018,2010019,2010020,2010021,2010022,2010024,2010025,2010026,2010027,2010028,2010029,2010030,2010031,2010032,2010033,2010038,2010039,2010040,2010041,2010042,2010043,2010044,2010045,2010046,2010067,2010074,2010381,2010784,2010904,2010913,2010960,2011093,2011426,2011764,2011770,2011820,2011891,2011893,2013098,2013916,2014070,2016645,2016949,2017600,2019115,2019179,2019897,2020333,2020334,2020335,2020348,2020364,2022496,2022949,2024404,2028502,2030745",
+                  "is_returnable": true,
+                  "note": "",
+                  "is_buyable": true,
+                  "flags": ["fbn", "free_delivery_eligible", "quick_atc"],
+                  "estimated_delivery": "احصل عليه خلال \u003cb\u003e24 - 27 مايو\u003c/b\u003e",
+                  "estimated_delivery_date": "05-27-2024, 18:00:00",
+                  "estimated_delivery_expires": "2024-05-21T18:00Z",
+                  "estimated_delivery_time_slot": "",
+                  "shipping_preference": {},
+                  "shipping_preferences_vip": [],
+                  "delivery_icon": "",
+                  "shipping_fee_message": "",
+                  "warranty": "ضمان لمدة عامين",
+                  "emi_value": 267,
+                  "interest_percentage": 0,
+                  "payments": ["tabby", "tamara"],
+                  "bnplMaxInstallments": {
+                    "tabby": "قسمها على 4 دفعات ب ٣٩٩٫٧٥ ر.س. بدون فوائد أو رسوم تأخير.",
+                    "tamara": "قسمها على 4 دفعات ب ٣٩٩٫٧٥ ر.س. بدون فوائد أو رسوم تأخير."
+                  },
+                  "foupon_message": null,
+                  "store_name": "سيتى بلاتينم",
+                  "partner_code": "p-18005",
+                  "partner_ratings_sellerlab": {
+                    "as_described_rate": 90,
+                    "positive_seller_rating": 83,
+                    "partner_rating": 4.4,
+                    "num_of_rating": 4261,
+                    "badges": [
+                      {
+                        "icon": "https://z.nooncdn.com/nr/seller_badges/low_return_seller.png",
+                        "title": "معدّلات إرجاع منخفضة"
+                      },
+                      {
+                        "icon": "https://z.nooncdn.com/nr/seller_badges/great_recent_rating.png",
+                        "title": "أحدث التقييمات الإيجابية"
+                      }
+                    ],
+                    "metrics": [
+                      {
+                        "color": "#38AE04",
+                        "icon": "https://z.nooncdn.com/nr/seller_badges/product_as_described.png",
+                        "metric": "as_described_rate",
+                        "title": "المنتج كما في الوصف",
+                        "value": 90
+                      },
+                      {
+                        "color": "#2BB202",
+                        "icon": "https://z.nooncdn.com/nr/seller_badges/partner_icon.png",
+                        "metric": "partner_since",
+                        "title": "شريك لنون منذ",
+                        "value": 4
+                      }
+                    ]
+                  },
+                  "assets": {},
+                  "freebies": [],
+                  "is_freebie": false,
+                  "nudges": [
+                    {
+                      "text": "توصيل مجاني",
+                      "icon": "https://f.nooncdn.com/mpcms/EN0001/assets/77701d64-1162-4836-93f9-584b39add4fd.png"
+                    },
+                    {
+                      "text": "بتخلّص بسرعة",
+                      "icon": "https://f.nooncdn.com/mpcms/EN0001/assets/d2809d6f-556e-414a-b0f9-51cef68684bc.png"
+                    }
+                  ],
+                  "was_price_source": null,
+                  "offer_badges": [
+                    {
+                      "icon": "https://z.nooncdn.com/nr/product_badges/delivery_by_noon.png",
+                      "title": "التوصيل \nبواسطة نوون"
+                    },
+                    {
+                      "icon": "https://z.nooncdn.com/nr/product_badges/high_rated_seller.png",
+                      "title": "البائع ذو\n تقييم عالي"
+                    },
+                    {
+                      "icon": "https://z.nooncdn.com/nr/product_badges/low_return_product.png",
+                      "title": "منتج \nقليل الاسترجاع"
+                    },
+                    {
+                      "icon": "https://z.nooncdn.com/nr/product_badges/cash_on_delivery.png",
+                      "title": "الدفع \nعند الاستلام"
+                    }
+                  ],
+                  "seller_ratings": [],
+                  "partner_ratings": []
+                },
+                {
+                  "offer_code": "c843a79d5b55bfca",
+                  "sku_config": "N50863791A",
+                  "sku": "N50863791A",
+                  "url": "ipad-2021-9th-generation-10-2-inch-256gb-wifi-space-gray-with-facetime-international-version",
+                  "id_product_fulltype": 4858,
+                  "stock": 10,
+                  "stock_minimum_quantity": 1,
+                  "price": 2599,
+                  "sale_price": 1599,
+                  "is_bestseller": false,
+                  "filter_keys": "8,138,146,912,1165,1239,1587,1848,2094,2181,2370,2456,2635,2763,3014,3581,3612,5626,5898,6647,7475,8094,8204,8206,8440,9116,9392,9654,9732,10065,10481,10482,11079,2000221,2001079,2001640,2001695,2002783,2002813,2002866,2003138,2003434,2004105,2004260,2004359,2007107,2009642,2009681,2009686,2009702,2009783,2009784,2009786,2009787,2009788,2009789,2009790,2009791,2009792,2009793,2009794,2009795,2009796,2009797,2009798,2009799,2009800,2009801,2009802,2009803,2009804,2009805,2009806,2009807,2009808,2009809,2009810,2009811,2009812,2009813,2009814,2009815,2009816,2009817,2009818,2009819,2009820,2009821,2009822,2009823,2009824,2009826,2009827,2009828,2009829,2009835,2009836,2009837,2009838,2009839,2009840,2009841,2009842,2009843,2009844,2009871,2009873,2009962,2009963,2009964,2009965,2009966,2009967,2009968,2009970,2009971,2009973,2009974,2009975,2009976,2009982,2009983,2009984,2009985,2009986,2009987,2009988,2009989,2009990,2009991,2009992,2009993,2009994,2009995,2009996,2009997,2009998,2009999,2010000,2010001,2010010,2010011,2010012,2010013,2010014,2010015,2010016,2010017,2010018,2010019,2010020,2010021,2010022,2010024,2010025,2010026,2010027,2010028,2010029,2010030,2010031,2010032,2010033,2010038,2010039,2010040,2010041,2010042,2010043,2010044,2010045,2010046,2010067,2010074,2010381,2010784,2010904,2010913,2010960,2011093,2011426,2011764,2011770,2011820,2011891,2011893,2013098,2013916,2014070,2016645,2016949,2017600,2019115,2019179,2019897,2020333,2020334,2020335,2020348,2020364,2022496,2022949,2024404,2028502,2030745",
+                  "is_returnable": true,
+                  "note": "",
+                  "is_buyable": true,
+                  "flags": ["fbn", "free_delivery_eligible", "quick_atc"],
+                  "estimated_delivery": "احصل عليه خلال \u003cb\u003e24 - 27 مايو\u003c/b\u003e",
+                  "estimated_delivery_date": "05-27-2024, 17:00:00",
+                  "estimated_delivery_expires": "2024-05-22T07:00Z",
+                  "estimated_delivery_time_slot": "",
+                  "shipping_preference": {},
+                  "shipping_preferences_vip": [],
+                  "delivery_icon": "",
+                  "shipping_fee_message": "",
+                  "warranty": "ضمان لمدة عامين",
+                  "emi_value": 267,
+                  "interest_percentage": 0,
+                  "payments": ["tabby", "tamara"],
+                  "bnplMaxInstallments": {
+                    "tabby": "قسمها على 4 دفعات ب ٣٩٩٫٧٥ ر.س. بدون فوائد أو رسوم تأخير.",
+                    "tamara": "قسمها على 4 دفعات ب ٣٩٩٫٧٥ ر.س. بدون فوائد أو رسوم تأخير."
+                  },
+                  "foupon_message": null,
+                  "store_name": "تقنية",
+                  "partner_code": "p-46524",
+                  "partner_ratings_sellerlab": {
+                    "as_described_rate": 100,
+                    "positive_seller_rating": 99,
+                    "partner_rating": 4.8,
+                    "num_of_rating": 1114,
+                    "badges": [
+                      {
+                        "icon": "https://z.nooncdn.com/nr/seller_badges/low_return_seller.png",
+                        "title": "معدّلات إرجاع منخفضة"
+                      },
+                      {
+                        "icon": "https://z.nooncdn.com/nr/seller_badges/great_recent_rating.png",
+                        "title": "أحدث التقييمات الإيجابية"
+                      }
+                    ],
+                    "metrics": [
+                      {
+                        "color": "#38AE04",
+                        "icon": "https://z.nooncdn.com/nr/seller_badges/product_as_described.png",
+                        "metric": "as_described_rate",
+                        "title": "المنتج كما في الوصف",
+                        "value": 100
+                      },
+                      {
+                        "color": "#2BB202",
+                        "icon": "https://z.nooncdn.com/nr/seller_badges/partner_icon.png",
+                        "metric": "partner_since",
+                        "title": "شريك لنون منذ",
+                        "value": 2
+                      }
+                    ]
+                  },
+                  "assets": {
+                    "logo": "https://p.nooncdn.com/reviews-partners/partner_assets/46524/logo_sa_1668179072.7246566.jpg"
+                  },
+                  "freebies": [],
+                  "is_freebie": false,
+                  "nudges": [
+                    {
+                      "text": "توصيل مجاني",
+                      "icon": "https://f.nooncdn.com/mpcms/EN0001/assets/77701d64-1162-4836-93f9-584b39add4fd.png"
+                    }
+                  ],
+                  "was_price_source": null,
+                  "offer_badges": [
+                    {
+                      "icon": "https://z.nooncdn.com/nr/product_badges/delivery_by_noon.png",
+                      "title": "التوصيل \nبواسطة نوون"
+                    },
+                    {
+                      "icon": "https://z.nooncdn.com/nr/product_badges/high_rated_seller.png",
+                      "title": "البائع ذو\n تقييم عالي"
+                    },
+                    {
+                      "icon": "https://z.nooncdn.com/nr/product_badges/low_return_product.png",
+                      "title": "منتج \nقليل الاسترجاع"
+                    },
+                    {
+                      "icon": "https://z.nooncdn.com/nr/product_badges/cash_on_delivery.png",
+                      "title": "الدفع \nعند الاستلام"
+                    }
+                  ],
+                  "seller_ratings": [],
+                  "partner_ratings": []
+                },
+                {
+                  "offer_code": "e99bc9aa27fd96ae",
+                  "sku_config": "N50863791A",
+                  "sku": "N50863791A",
+                  "url": "ipad-2021-9th-generation-10-2-inch-256gb-wifi-space-gray-with-facetime-international-version",
+                  "id_product_fulltype": 4858,
+                  "stock": 10,
+                  "stock_minimum_quantity": 1,
+                  "price": 2599,
+                  "sale_price": 1605,
+                  "is_bestseller": false,
+                  "filter_keys": "8,138,146,912,1165,1239,1587,1848,2094,2181,2370,2456,2635,2763,3014,3581,3612,5626,5898,6647,7475,8094,8204,8206,8440,9116,9392,9654,9732,10065,10481,10482,11079,2000221,2001079,2001640,2001695,2002783,2002813,2002866,2003138,2003434,2004105,2004260,2004359,2007107,2009642,2009681,2009686,2009702,2009783,2009784,2009786,2009787,2009788,2009789,2009790,2009791,2009792,2009793,2009794,2009795,2009796,2009797,2009798,2009799,2009800,2009801,2009802,2009803,2009804,2009805,2009806,2009807,2009808,2009809,2009810,2009811,2009812,2009813,2009814,2009815,2009816,2009817,2009818,2009819,2009820,2009821,2009822,2009823,2009824,2009826,2009827,2009828,2009829,2009835,2009836,2009837,2009838,2009839,2009840,2009841,2009842,2009843,2009844,2009871,2009873,2009962,2009963,2009964,2009965,2009966,2009967,2009968,2009970,2009971,2009973,2009974,2009975,2009976,2009982,2009983,2009984,2009985,2009986,2009987,2009988,2009989,2009990,2009991,2009992,2009993,2009994,2009995,2009996,2009997,2009998,2009999,2010000,2010001,2010010,2010011,2010012,2010013,2010014,2010015,2010016,2010017,2010018,2010019,2010020,2010021,2010022,2010024,2010025,2010026,2010027,2010028,2010029,2010030,2010031,2010032,2010033,2010038,2010039,2010040,2010041,2010042,2010043,2010044,2010045,2010046,2010067,2010074,2010381,2010784,2010904,2010913,2010960,2011093,2011426,2011764,2011770,2011820,2011891,2011893,2013098,2013916,2014070,2016645,2016949,2017600,2019115,2019179,2019897,2020333,2020334,2020335,2020348,2020364,2022496,2022949,2024404,2028502,2030745",
+                  "is_returnable": true,
+                  "note": "",
+                  "is_buyable": true,
+                  "flags": ["fbn", "free_delivery_eligible", "quick_atc"],
+                  "estimated_delivery": "احصل عليه خلال \u003cb\u003e24 - 27 مايو\u003c/b\u003e",
+                  "estimated_delivery_date": "05-27-2024, 18:00:00",
+                  "estimated_delivery_expires": "2024-05-21T18:00Z",
+                  "estimated_delivery_time_slot": "",
+                  "shipping_preference": {},
+                  "shipping_preferences_vip": [],
+                  "delivery_icon": "",
+                  "shipping_fee_message": "",
+                  "warranty": "ضمان لمدة عامين",
+                  "emi_value": 268,
+                  "interest_percentage": 0,
+                  "payments": ["tabby", "tamara"],
+                  "bnplMaxInstallments": {
+                    "tabby": "قسمها على 4 دفعات ب ٤٠١٫٢٥ ر.س. بدون فوائد أو رسوم تأخير.",
+                    "tamara": "قسمها على 4 دفعات ب ٤٠١٫٢٥ ر.س. بدون فوائد أو رسوم تأخير."
+                  },
+                  "foupon_message": null,
+                  "store_name": "اركان الشامل",
+                  "partner_code": "p-68440",
+                  "partner_ratings_sellerlab": {
+                    "as_described_rate": 100,
+                    "positive_seller_rating": 98,
+                    "partner_rating": 4.9,
+                    "num_of_rating": 1527,
+                    "badges": [
+                      {
+                        "icon": "https://z.nooncdn.com/nr/seller_badges/great_recent_rating.png",
+                        "title": "أحدث التقييمات الإيجابية"
+                      }
+                    ],
+                    "metrics": [
+                      {
+                        "color": "#38AE04",
+                        "icon": "https://z.nooncdn.com/nr/seller_badges/product_as_described.png",
+                        "metric": "as_described_rate",
+                        "title": "المنتج كما في الوصف",
+                        "value": 100
+                      },
+                      {
+                        "color": "#2BB202",
+                        "icon": "https://z.nooncdn.com/nr/seller_badges/partner_icon.png",
+                        "metric": "partner_since",
+                        "title": "شريك لنون منذ",
+                        "value": 1
+                      }
+                    ]
+                  },
+                  "assets": {
+                    "logo": "https://p.nooncdn.com/reviews-partners/partner_assets/68440/logo_sa_1682960062.7601712.jpg"
+                  },
+                  "freebies": [],
+                  "is_freebie": false,
+                  "nudges": [
+                    {
+                      "text": "توصيل مجاني",
+                      "icon": "https://f.nooncdn.com/mpcms/EN0001/assets/77701d64-1162-4836-93f9-584b39add4fd.png"
+                    },
+                    {
+                      "text": "بتخلّص بسرعة",
+                      "icon": "https://f.nooncdn.com/mpcms/EN0001/assets/d2809d6f-556e-414a-b0f9-51cef68684bc.png"
+                    }
+                  ],
+                  "was_price_source": null,
+                  "offer_badges": [
+                    {
+                      "icon": "https://z.nooncdn.com/nr/product_badges/delivery_by_noon.png",
+                      "title": "التوصيل \nبواسطة نوون"
+                    },
+                    {
+                      "icon": "https://z.nooncdn.com/nr/product_badges/high_rated_seller.png",
+                      "title": "البائع ذو\n تقييم عالي"
+                    },
+                    {
+                      "icon": "https://z.nooncdn.com/nr/product_badges/low_return_product.png",
+                      "title": "منتج \nقليل الاسترجاع"
+                    },
+                    {
+                      "icon": "https://z.nooncdn.com/nr/product_badges/cash_on_delivery.png",
+                      "title": "الدفع \nعند الاستلام"
+                    }
+                  ],
+                  "seller_ratings": [],
+                  "partner_ratings": []
+                },
+                {
+                  "offer_code": "d8293444a2e8cc9b",
+                  "sku_config": "N50863791A",
+                  "sku": "N50863791A",
+                  "url": "ipad-2021-9th-generation-10-2-inch-256gb-wifi-space-gray-with-facetime-international-version",
+                  "id_product_fulltype": 4858,
+                  "stock": 4,
+                  "stock_minimum_quantity": 1,
+                  "price": 2599,
+                  "sale_price": 1599,
+                  "is_bestseller": false,
+                  "filter_keys": "8,138,146,912,1165,1239,1587,1848,2094,2181,2370,2456,2635,2763,3014,3581,3612,5626,5898,6647,7475,8094,8204,8206,8440,9116,9392,9654,9732,10065,10481,10482,11079,2000221,2001079,2001640,2001695,2002783,2002813,2002866,2003138,2003434,2004105,2004260,2004359,2007107,2009642,2009681,2009686,2009702,2009783,2009784,2009786,2009787,2009788,2009789,2009790,2009791,2009792,2009793,2009794,2009795,2009796,2009797,2009798,2009799,2009800,2009801,2009802,2009803,2009804,2009805,2009806,2009807,2009808,2009809,2009810,2009811,2009812,2009813,2009814,2009815,2009816,2009817,2009818,2009819,2009820,2009821,2009822,2009823,2009824,2009826,2009827,2009828,2009829,2009835,2009836,2009837,2009838,2009839,2009840,2009841,2009842,2009843,2009844,2009871,2009873,2009962,2009963,2009964,2009965,2009966,2009967,2009968,2009970,2009971,2009973,2009974,2009975,2009976,2009982,2009983,2009984,2009985,2009986,2009987,2009988,2009989,2009990,2009991,2009992,2009993,2009994,2009995,2009996,2009997,2009998,2009999,2010000,2010001,2010010,2010011,2010012,2010013,2010014,2010015,2010016,2010017,2010018,2010019,2010020,2010021,2010022,2010024,2010025,2010026,2010027,2010028,2010029,2010030,2010031,2010032,2010033,2010038,2010039,2010040,2010041,2010042,2010043,2010044,2010045,2010046,2010067,2010074,2010381,2010784,2010904,2010913,2010960,2011093,2011426,2011764,2011770,2011820,2011891,2011893,2013098,2013916,2014070,2016645,2016949,2017600,2019115,2019179,2019897,2020333,2020334,2020335,2020348,2020364,2022496,2022949,2024404,2028502,2030745",
+                  "is_returnable": true,
+                  "note": "عرض خاص الضمان سنتين قيم المنتج وادخل على السحب",
+                  "is_buyable": true,
+                  "flags": ["fbn", "free_delivery_eligible", "quick_atc"],
+                  "estimated_delivery": "احصل عليه خلال \u003cb\u003e24 - 27 مايو\u003c/b\u003e",
+                  "estimated_delivery_date": "05-27-2024, 18:00:00",
+                  "estimated_delivery_expires": "2024-05-21T18:00Z",
+                  "estimated_delivery_time_slot": "",
+                  "shipping_preference": {},
+                  "shipping_preferences_vip": [],
+                  "delivery_icon": "",
+                  "messages": {
+                    "stockWarning": {
+                      "message": "الكمية قليل: باقي 4 فقط"
+                    }
+                  },
+                  "shipping_fee_message": "",
+                  "warranty": "ضمان لمدة عامين",
+                  "emi_value": 267,
+                  "interest_percentage": 0,
+                  "payments": ["tabby", "tamara"],
+                  "bnplMaxInstallments": {
+                    "tabby": "قسمها على 4 دفعات ب ٣٩٩٫٧٥ ر.س. بدون فوائد أو رسوم تأخير.",
+                    "tamara": "قسمها على 4 دفعات ب ٣٩٩٫٧٥ ر.س. بدون فوائد أو رسوم تأخير."
+                  },
+                  "foupon_message": null,
+                  "store_name": "الجهاز الأسود",
+                  "partner_code": "p-49650",
+                  "partner_ratings_sellerlab": {
+                    "as_described_rate": 100,
+                    "positive_seller_rating": 96,
+                    "partner_rating": 4.7,
+                    "num_of_rating": 447,
+                    "badges": [
+                      {
+                        "icon": "https://z.nooncdn.com/nr/seller_badges/great_recent_rating.png",
+                        "title": "أحدث التقييمات الإيجابية"
+                      }
+                    ],
+                    "metrics": [
+                      {
+                        "color": "#38AE04",
+                        "icon": "https://z.nooncdn.com/nr/seller_badges/product_as_described.png",
+                        "metric": "as_described_rate",
+                        "title": "المنتج كما في الوصف",
+                        "value": 100
+                      },
+                      {
+                        "color": "#2BB202",
+                        "icon": "https://z.nooncdn.com/nr/seller_badges/partner_icon.png",
+                        "metric": "partner_since",
+                        "title": "شريك لنون منذ",
+                        "value": 1
+                      }
+                    ]
+                  },
+                  "assets": {},
+                  "freebies": [],
+                  "is_freebie": false,
+                  "nudges": [
+                    {
+                      "text": "توصيل مجاني",
+                      "icon": "https://f.nooncdn.com/mpcms/EN0001/assets/77701d64-1162-4836-93f9-584b39add4fd.png"
+                    },
+                    {
+                      "text": "باقي 4 وحدات في المخزون",
+                      "icon": "https://f.nooncdn.com/mpcms/EN0001/assets/80299f90-dd89-4c69-a3d3-19c884d5fc05.png"
+                    }
+                  ],
+                  "was_price_source": null,
+                  "offer_badges": [
+                    {
+                      "icon": "https://z.nooncdn.com/nr/product_badges/delivery_by_noon.png",
+                      "title": "التوصيل \nبواسطة نوون"
+                    },
+                    {
+                      "icon": "https://z.nooncdn.com/nr/product_badges/high_rated_seller.png",
+                      "title": "البائع ذو\n تقييم عالي"
+                    },
+                    {
+                      "icon": "https://z.nooncdn.com/nr/product_badges/cash_on_delivery.png",
+                      "title": "الدفع \nعند الاستلام"
+                    },
+                    {
+                      "icon": "https://z.nooncdn.com/nr/product_badges/secure_transaction.png",
+                      "title": "عملية \nتحويل آمنة"
+                    }
+                  ],
+                  "seller_ratings": [],
+                  "partner_ratings": []
+                },
+                {
+                  "offer_code": "e0b17ac182e635cc",
+                  "sku_config": "N50863791A",
+                  "sku": "N50863791A",
+                  "url": "ipad-2021-9th-generation-10-2-inch-256gb-wifi-space-gray-with-facetime-international-version",
+                  "id_product_fulltype": 4858,
+                  "stock": 4,
+                  "stock_minimum_quantity": 1,
+                  "price": 2599,
+                  "sale_price": 1730,
+                  "is_bestseller": false,
+                  "filter_keys": "8,146,1239,2181,2635,3014,6647,8204,8206,9116,9393,10065,2000221,2001079,2001695,2003434,2004260,2008425,2011820,2011891,2011893,2014070,2016645,2019115,2019179,2020335,2022949,2024404,2028502",
+                  "is_returnable": true,
+                  "note": "",
+                  "is_buyable": true,
+                  "flags": [
+                    "marketplace",
+                    "free_delivery_eligible",
+                    "quick_atc"
+                  ],
+                  "estimated_delivery": "احصل عليه خلال \u003cb\u003e29 مايو - 1 يونيو\u003c/b\u003e",
+                  "estimated_delivery_date": "06-01-2024, 03:00:00",
+                  "estimated_delivery_expires": "2024-05-22T09:00Z",
+                  "estimated_delivery_time_slot": "",
+                  "shipping_preference": {},
+                  "shipping_preferences_vip": [],
+                  "delivery_icon": "",
+                  "messages": {
+                    "stockWarning": {
+                      "message": "الكمية قليل: باقي 4 فقط"
+                    }
+                  },
+                  "shipping_fee_message": "",
+                  "warranty": "ضمان لمدة عامين",
+                  "emi_value": 289,
+                  "interest_percentage": 0,
+                  "payments": ["tabby", "tamara"],
+                  "bnplMaxInstallments": {
+                    "tabby": "قسمها على 4 دفعات ب ٤٣٢٫٥٠ ر.س. بدون فوائد أو رسوم تأخير.",
+                    "tamara": "قسمها على 4 دفعات ب ٤٣٢٫٥٠ ر.س. بدون فوائد أو رسوم تأخير."
+                  },
+                  "foupon_message": null,
+                  "store_name": "المدينة الرقمية",
+                  "partner_code": "p-56090",
+                  "partner_ratings_sellerlab": {
+                    "as_described_rate": 70,
+                    "in_stock_rate": 98,
+                    "ready_on_time_rate": 98,
+                    "positive_seller_rating": 65,
+                    "partner_rating": 3.7,
+                    "num_of_rating": 26,
+                    "badges": [],
+                    "metrics": [
+                      {
+                        "color": "#82AE04",
+                        "icon": "https://z.nooncdn.com/nr/seller_badges/product_as_described.png",
+                        "metric": "as_described_rate",
+                        "title": "المنتج كما في الوصف",
+                        "value": 70
+                      },
+                      {
+                        "color": "#2BB202",
+                        "icon": "https://z.nooncdn.com/nr/seller_badges/partner_icon.png",
+                        "metric": "partner_since",
+                        "title": "شريك لنون منذ",
+                        "value": 1
+                      }
+                    ]
+                  },
+                  "assets": {
+                    "logo": "https://p.nooncdn.com/reviews-partners/partner_assets/56090/logo_sa_1711461473.8163066.jpg"
+                  },
+                  "freebies": [],
+                  "is_freebie": false,
+                  "nudges": [
+                    {
+                      "text": "توصيل مجاني",
+                      "icon": "https://f.nooncdn.com/mpcms/EN0001/assets/77701d64-1162-4836-93f9-584b39add4fd.png"
+                    },
+                    {
+                      "text": "باقي 4 وحدات في المخزون",
+                      "icon": "https://f.nooncdn.com/mpcms/EN0001/assets/80299f90-dd89-4c69-a3d3-19c884d5fc05.png"
+                    }
+                  ],
+                  "was_price_source": null,
+                  "offer_badges": [
+                    {
+                      "icon": "https://z.nooncdn.com/nr/product_badges/delivery_by_noon.png",
+                      "title": "التوصيل \nبواسطة نوون"
+                    },
+                    {
+                      "icon": "https://z.nooncdn.com/nr/product_badges/high_rated_seller.png",
+                      "title": "البائع ذو\n تقييم عالي"
+                    },
+                    {
+                      "icon": "https://z.nooncdn.com/nr/product_badges/low_return_product.png",
+                      "title": "منتج \nقليل الاسترجاع"
+                    },
+                    {
+                      "icon": "https://z.nooncdn.com/nr/product_badges/cash_on_delivery.png",
+                      "title": "الدفع \nعند الاستلام"
+                    }
+                  ],
+                  "seller_ratings": [],
+                  "partner_ratings": []
+                },
+                {
+                  "offer_code": "aa64b95f1593a90f",
+                  "sku_config": "N50863791A",
+                  "sku": "N50863791A",
+                  "url": "ipad-2021-9th-generation-10-2-inch-256gb-wifi-space-gray-with-facetime-international-version",
+                  "id_product_fulltype": 4858,
+                  "stock": 2,
+                  "stock_minimum_quantity": 1,
+                  "price": 2599,
+                  "sale_price": 2349,
+                  "is_bestseller": false,
+                  "filter_keys": "8,146,1239,2181,2635,3014,6647,8204,8206,9116,9393,10065,2000221,2001079,2001695,2003434,2004260,2008425,2011820,2011891,2011893,2014070,2016645,2019115,2019179,2020335,2022949,2024404,2028502",
+                  "is_returnable": true,
+                  "note": "",
+                  "is_buyable": true,
+                  "flags": [
+                    "marketplace",
+                    "free_delivery_eligible",
+                    "quick_atc"
+                  ],
+                  "estimated_delivery": "احصل عليه خلال \u003cb\u003e3 - 6 يونيو\u003c/b\u003e",
+                  "estimated_delivery_date": "06-06-2024, 03:00:00",
+                  "estimated_delivery_expires": "2024-05-22T09:00Z",
+                  "estimated_delivery_time_slot": "",
+                  "shipping_preference": {},
+                  "shipping_preferences_vip": [],
+                  "delivery_icon": "",
+                  "messages": {
+                    "stockWarning": {
+                      "message": "الكمية قليل: باقي 2 فقط"
+                    }
+                  },
+                  "shipping_fee_message": "",
+                  "warranty": "ضمان لمدة عامين",
+                  "emi_value": 392,
+                  "interest_percentage": 0,
+                  "payments": ["tabby", "tamara"],
+                  "bnplMaxInstallments": {
+                    "tabby": "قسمها على 4 دفعات ب ٥٨٧٫٢٥ ر.س. بدون فوائد أو رسوم تأخير.",
+                    "tamara": "قسمها على 4 دفعات ب ٥٨٧٫٢٥ ر.س. بدون فوائد أو رسوم تأخير."
+                  },
+                  "foupon_message": null,
+                  "store_name": "مؤسسة النظام الرقمي المتعدد لتقنية المعلومات ",
+                  "partner_code": "p-98328",
+                  "partner_ratings_sellerlab": {
+                    "badges": [],
+                    "metrics": []
+                  },
+                  "assets": {},
+                  "freebies": [],
+                  "is_freebie": false,
+                  "nudges": [
+                    {
+                      "text": "توصيل مجاني",
+                      "icon": "https://f.nooncdn.com/mpcms/EN0001/assets/77701d64-1162-4836-93f9-584b39add4fd.png"
+                    },
+                    {
+                      "text": "باقي 2 وحدات في المخزون",
+                      "icon": "https://f.nooncdn.com/mpcms/EN0001/assets/80299f90-dd89-4c69-a3d3-19c884d5fc05.png"
+                    }
+                  ],
+                  "was_price_source": null,
+                  "offer_badges": [
+                    {
+                      "icon": "https://z.nooncdn.com/nr/product_badges/delivery_by_noon.png",
+                      "title": "التوصيل \nبواسطة نوون"
+                    },
+                    {
+                      "icon": "https://z.nooncdn.com/nr/product_badges/cash_on_delivery.png",
+                      "title": "الدفع \nعند الاستلام"
+                    },
+                    {
+                      "icon": "https://z.nooncdn.com/nr/product_badges/secure_transaction.png",
+                      "title": "عملية \nتحويل آمنة"
+                    }
+                  ],
+                  "seller_ratings": [],
+                  "partner_ratings": []
+                }
+              ]
+            }
+          ],
+          "attachments": {},
+          "groups": [
+            {
+              "name": "الإصدار",
+              "code": "version",
+              "options": [
+                {
+                  "name": "نسخة الشرق الأوسط",
+                  "sku": "N50867039A",
+                  "is_available": 1,
+                  "url": "ipad-2021-9th-generation-10-2-inch-256gb-wifi-space-gray-with-facetime-middle-east-version",
+                  "offer_code": "d4d979aad579be0a"
+                },
+                {
+                  "name": "نسخة عالمية",
+                  "sku": "N50863791A",
+                  "is_available": 1,
+                  "url": "ipad-2021-9th-generation-10-2-inch-256gb-wifi-space-gray-with-facetime-international-version",
+                  "offer_code": "fcb818829580d36f"
+                }
+              ],
+              "version_guide": { "title": "", "types": null }
+            },
+            {
+              "name": "اسم اللون",
+              "code": "color",
+              "options": [
+                {
+                  "name": "رمادي فلكي",
+                  "sku": "N50863791A",
+                  "is_available": 1,
+                  "url": "ipad-2021-9th-generation-10-2-inch-256gb-wifi-space-gray-with-facetime-international-version",
+                  "offer_code": "fcb818829580d36f",
+                  "image_key": "v1686205683/N50863791A_1"
+                },
+                {
+                  "name": "فضي",
+                  "sku": "N50867037A",
+                  "is_available": 1,
+                  "url": "ipad-2021-9th-generation-10-2-inch-256gb-wifi-silver-with-facetime-international-version",
+                  "offer_code": "a4ceb599ec6ca88f",
+                  "image_key": "v1686205684/N50867037A_1"
+                }
+              ],
+              "version_guide": { "title": "", "types": null }
+            },
+            {
+              "name": "الذاكرة الداخلية",
+              "code": "internal_memory",
+              "options": [
+                {
+                  "name": "256 GB",
+                  "sku": "N50863791A",
+                  "is_available": 1,
+                  "url": "ipad-2021-9th-generation-10-2-inch-256gb-wifi-space-gray-with-facetime-international-version",
+                  "offer_code": "fcb818829580d36f"
+                },
+                {
+                  "name": "64 GB",
+                  "sku": "N50867004A",
+                  "is_available": 1,
+                  "url": "ipad-2021-9th-generation-10-2-inch-64gb-wifi-space-gray-with-facetime-international-version",
+                  "offer_code": "a7b97898f142becd"
+                }
+              ],
+              "version_guide": { "title": "", "types": null }
+            },
+            {
+              "name": "نوع التوصيل",
+              "code": "connection_type",
+              "options": [
+                {
+                  "name": "واي فاي + خلوي",
+                  "sku": "N50863792A",
+                  "is_available": 0,
+                  "url": "ipad-2021-9th-generation-10-2-inch-256gb-wifi-4g-lte-space-gray-with-facetime-international-version",
+                  "offer_code": "fe021a8c83e00a7c"
+                },
+                {
+                  "name": "واي فاي",
+                  "sku": "N50863791A",
+                  "is_available": 1,
+                  "url": "ipad-2021-9th-generation-10-2-inch-256gb-wifi-space-gray-with-facetime-international-version",
+                  "offer_code": "fcb818829580d36f"
+                }
+              ],
+              "version_guide": { "title": "", "types": null }
+            }
+          ],
+          "fbt_offers": [
+            {
+              "sku": "N32119016A",
+              "image_key": "v1583492580/N32119016A_1",
+              "url": "flip-case-cover-for-apple-ipad-10-2-inch-2019-black",
+              "title": "غطاء حماية قلاب لجهاز أبل آي باد مقاس 10.2 بوصات (2019) أسود",
+              "brand": "أميرتير",
+              "offer_code": "e6c096fb8643dcab",
+              "price": 24.8,
+              "sale_price": 21,
+              "score": 0.14168858528137207,
+              "flags": ["fbn", "free_delivery_eligible", "quick_atc"]
+            },
+            {
+              "sku": "N41193796A",
+              "image_key": "v1668090962/N41193796A_1",
+              "url": "20w-usb-c-3-pin-power-adapter-white",
+              "title": "محول طاقة بقابس ثلاثي بمنفذ USB C بقدرة 20 وات أبيض",
+              "brand": "أبل",
+              "offer_code": "dba4525f2543e6db",
+              "price": 99,
+              "sale_price": 69,
+              "score": 0.07651292532682419,
+              "flags": [
+                "fbn",
+                "free_delivery_eligible",
+                "bestseller",
+                "quick_atc"
+              ]
+            },
+            {
+              "sku": "N37815757A",
+              "image_key": "v1588936593/N37815757A_1",
+              "url": "tempered-glass-screen-protector-for-apple-ipad-2019-10-2-inch-clear",
+              "title": "لاصقة حماية للشاشة من الزجاج المقوى لجهاز أبل آيباد (2019) بشاشة قياس 10.2 بوصات شفاف",
+              "brand": "موز",
+              "offer_code": "d160a87f052f374b",
+              "price": 14.55,
+              "sale_price": null,
+              "score": 0.02703152969479561,
+              "flags": ["fbn", "free_delivery_eligible", "quick_atc"]
+            }
+          ],
+          "rich_content": [
+            {
+              "modules": [
+                {
+                  "banners": [
+                    {
+                      "imageUrl": "https://a.nooncdn.com/cms/pages/20210916/3d97f7ed6af6db28e2867d0cd35889db/N50867073A-1.jpg"
+                    },
+                    {
+                      "imageUrl": "https://a.nooncdn.com/cms/pages/20210916/3d97f7ed6af6db28e2867d0cd35889db/N50867073A-2.jpg"
+                    },
+                    {
+                      "imageUrl": "https://a.nooncdn.com/cms/pages/20210916/3d97f7ed6af6db28e2867d0cd35889db/N50867073A-3.jpg"
+                    },
+                    {
+                      "imageUrl": "https://a.nooncdn.com/cms/pages/20210916/3d97f7ed6af6db28e2867d0cd35889db/N50867073A-4.jpg"
+                    }
+                  ],
+                  "numPerRow": 1,
+                  "outerSpacing": { "bottom": 0, "top": 10 },
+                  "type": "bannerModule"
+                }
+              ]
+            }
+          ],
+          "buying_options": [],
+          "category_code": "electronics-and-mobiles",
+          "shipping_banner_details": {
+            "fbn": [],
+            "global": [
+              "الرسوم المعروضة هنا هي تقديرات، وسيتم حساب الرسوم النهائية للشحن أثناء عملية الدفع.",
+              "تخضع رسوم الشحن للتغيير بناءً على البائع و المنتجات الموجودة في عربة التسوق الخاصة بك."
+            ],
+            "marketplace": [
+              "يطبق الشحن المجاني على طلبات نون اكسبريس التي تزيد عن 100 ريال سعودي. سيتم تطبيق رسوم شحن بقيمة 12 ريال سعودي عند التأكيد عندما تكون قيمة الطلب أقل من 100 ريال سعودي.",
+              "سيتم تطبيق رسوم شحن تصل إلى 12 ريال سعودي لكل بائع على جميع منتجات الماركت. ستعتمد هذه الرسوم لكل بائع على الإجمالي الفرعي للطلب من كل بائع على النحو التالي: 12 ريال سعودي إذا كان الإجمالي الفرعي للبائع أقل من 100 ريال سعودي ؛ 6 ريال سعودي إذا كان المجموع الفرعي للبائع يتراوح بين 100 ريال سعودي و 500 ريال سعودي؛ و 0 ريال سعودي إذا كان الإجمالي الفرعي للبائع أكبر من 500 ريال سعودي. يتم تطبيق هذه الرسوم حتى إذا كان طلبك يتضمن منتجات  نون إكسبريس و منتجات ماركت.",
+              "سيتم تطبيق رسوم الشحن على العناصر الضخمة."
+            ]
+          },
+          "context": {
+            "brandCode": "apple",
+            "categories": [
+              "electronics-and-mobiles/computers-and-accessories/tablets"
+            ],
+            "skuConfig": "N50863791A",
+            "sku": "N50863791A",
+            "price": 1595,
+            "offerCode": "fcb818829580d36f"
+          },
+          "variants_text": null
+        }
