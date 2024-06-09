@@ -2,7 +2,7 @@
 from bs4 import BeautifulSoup
 import requests
 import json
-from models.Product import ItemData, ItemImages, ItemPrice
+from models.Product import ItemData, ItemImages, ItemPrice ,ProductDetailDTO
 
 async def scrape_extra_full(url):
     response = requests.get(url)
@@ -37,7 +37,7 @@ async def scrape_extra_full(url):
             soup = BeautifulSoup(image, 'html.parser')
             image = soup.find_all('img')
             images= [ img['src'] for img in image]
-        item_data = ItemData(title=title, price=PriceAfterDiscount, rating=rating, description=description,images=images)
+        item_data = ProductDetailDTO(name_global=title, price=PriceAfterDiscount, rating=rating, description_global=description,images=images)
         return item_data
 async def scrape_extra_price(url):
     response = requests.get(url)

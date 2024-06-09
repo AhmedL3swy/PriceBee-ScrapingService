@@ -1,7 +1,7 @@
 #Dependencies
 from bs4 import BeautifulSoup
 from requests_html import AsyncHTMLSession
-from models.Product import ItemData, ItemImages, ItemPrice
+from models.Product import ItemData, ItemImages, ItemPrice,ProductDetailDTO
 
 
 async def scrape_amazonSa_full(url: str) -> dict:
@@ -22,7 +22,7 @@ async def scrape_amazonSa_full(url: str) -> dict:
             images = eval(i['data-a-dynamic-image'])
             images = list(images.keys())
     
-    item_data = ItemData(title=title, price=price, rating=rating, description=discription, images=images)
+    item_data = ProductDetailDTO(name_global=title, price=price, rating=rating, description_global=discription,images=images)
     return item_data
 
 async def scrape_amazonSa_price(url: str) -> dict:

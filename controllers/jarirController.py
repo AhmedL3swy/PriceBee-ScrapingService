@@ -4,7 +4,7 @@ from requests_html import AsyncHTMLSession
 from lxml import etree
 from requests_html import HTML
 from utils import getStringBetweenTwoWords
-from models.Product import ItemData, ItemImages, ItemPrice
+from models.Product import ItemData, ItemImages, ItemPrice , ProductDetailDTO
 
 async def scrape_Jarir_full(url):  
     session = AsyncHTMLSession()
@@ -19,7 +19,7 @@ async def scrape_Jarir_full(url):
     images=[]
     for i in range(len(images_string)):
         images.append(getStringBetweenTwoWords(images_string[i], 'image:"','",lab'))
-    item_data = ItemData(title=Title, price=price, images=images)
+    item_data = ProductDetailDTO(name_global=Title, price=price,images=images)
     return item_data
 async def scrape_Jarir_price(url):
     session = AsyncHTMLSession()
@@ -41,6 +41,6 @@ async def scrape_Jarir_images(url):
     images_string = getStringBetweenTwoWords(script_target_object, 'media_gallery','tsk').split("},{")
     images=[]
     for i in range(len(images_string)):
-        images.append(getStringBetweenTwoWords(images_string[i], 'image:"','",lab'))
+        images.append("https://ak-asset.jarir.com/akeneo-prod/asset/"+getStringBetweenTwoWords(images_string[i], 'image:"','",lab'))
     item_data = ItemImages(images=images)
     return item_data

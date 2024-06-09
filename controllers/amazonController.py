@@ -2,7 +2,7 @@
 from bs4 import BeautifulSoup
 import requests
 
-from models.Product import ItemData, ItemImages, ItemPrice
+from models.Product import ItemData, ItemImages, ItemPrice ,ProductDetailDTO
 
 async def scrape_amazon_full(url: str) -> dict:
     response = requests.get(url, headers={'Accept-Language': 'en-US,en;q=0.5'})
@@ -17,7 +17,7 @@ async def scrape_amazon_full(url: str) -> dict:
         if 'data-a-dynamic-image' in i.attrs:
             images = eval(i['data-a-dynamic-image'])
             images = list(images.keys())
-    item_data = ItemData(title=title, price=price, rating=rating, description=discription, images=images)
+    item_data = ProductDetailDTO(name_global=title, price=price, rating=rating, description_global=discription,images=images)
     return item_data
 
 async def scrape_amazon_price(url: str) -> dict:

@@ -2,7 +2,7 @@ import time
 from bs4 import BeautifulSoup
 import requests
 from requests_html import AsyncHTMLSession
-from models.Product import ItemData, ItemImages, ItemPrice
+from models.Product import ItemData, ItemImages, ItemPrice ,ProductDetailDTO
 from fake_headers import Headers
 
 async def scrape_noon_full(url: str) -> dict:
@@ -23,7 +23,7 @@ async def scrape_noon_full(url: str) -> dict:
     for i in image_soup:
         if "&width" in i['src']:
             img.append(i['src'])
-    item_data = ItemData(title=title, price=price, rating=rating, description=description, images=img)
+    item_data = ProductDetailDTO(name_global=title, price=price, rating=rating, description_global=description,images=img)
     return item_data
 
 async def scrape_noon_price(url: str) -> dict:
