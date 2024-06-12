@@ -18,7 +18,7 @@ async def scrape_aliexpress_full(url: str) -> dict:
         title = script_target_object['data']['metaDataComponent']['title'].split('|')[0].strip()
         ImageList = script_target_object['data']['imageComponent']['imagePathList']
 
-    item_data = ProductDetailDTO(name_global=title, price=price,images=ImageList)
+    item_data = ProductDetailDTO(name_Global=title, price=price,images=ImageList)
     return item_data
 
 async def scrape_aliexpress_price(url: str) -> dict:

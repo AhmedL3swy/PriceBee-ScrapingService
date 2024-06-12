@@ -18,8 +18,8 @@ async def scrape_Jarir_full(url):
     images_string = getStringBetweenTwoWords(script_target_object, 'media_gallery','tsk').split("},{")
     images=[]
     for i in range(len(images_string)):
-        images.append(getStringBetweenTwoWords(images_string[i], 'image:"','",lab'))
-    item_data = ProductDetailDTO(name_global=Title, price=price,images=images)
+        images.append("https://ak-asset.jarir.com/akeneo-prod/asset/"+getStringBetweenTwoWords(images_string[i], 'image:"','",lab'))
+    item_data = ProductDetailDTO(name_Global=Title, price=price,images=images)
     return item_data
 async def scrape_Jarir_price(url):
     session = AsyncHTMLSession()

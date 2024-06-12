@@ -19,3 +19,85 @@ https://www.extra.com/ar-sa/mobiles-tablets/mobiles/smartphone/samsung-galaxy-z-
 "https://ar.aliexpress.com/item/1005006860843367.html?spm=a2g0o.productlist.main.1.4cbdDLvvDLvvt5&algo_pvid=7246bb87-519c-45f0-9096-37d5a5e6b81c&utparam-url=scene%3Asearch%7Cquery_from%3A",
 "https://www.noon.com/saudi-ar/iphone-15-pro-max-256gb-natural-titanium-5g-with-facetime-middle-east-version/N53432547A/p/?o=b693a3ec8486f04bn.com/es"]
 }
+
+
+{
+  "productPostDTO": {
+    "name_Local": "Apple iPhone 14",
+    "name_Global": "Apple iPhone 14",
+    "description_Local": "Latest model of Apple's iPhone series, featuring a new design, improved camera, and better performance.",
+    "description_Global": "The newest addition to the iPhone series, with cutting-edge technology and superior user experience.",
+    "subCategoryId": 1,
+    "brandId": 1
+  },
+  "productDetailDTO": [
+    {
+      "prodId": 1,
+      "domainId": 1,
+      "productLink1": "https://www.example.com/product/apple-iphone-14",
+      "status": "Available",
+      "lastUpdated": "2024-06-07T14:07:16.158Z",
+      "lastScraped": "2024-06-07T14:07:16.158Z",
+      "id": 0,
+      "name_Local": "Apple iPhone 14",
+      "name_Global": "Apple iPhone 14",
+      "description_Local": "Latest model of Apple's iPhone series, featuring a new design, improved camera, and better performance.",
+      "description_Global": "The newest addition to the iPhone series, with cutting-edge technology and superior user experience.",
+      "price": 999.99,
+      "rating": 4.7,
+      "isAvailable": true,
+      "brand": "Apple"
+    },
+    {
+      "prodId": 1,
+      "domainId": 1,
+      "productLink1": "https://www.otherexample.com/product/apple-iphone-14",
+      "status": "Out of Stock",
+      "lastUpdated": "2024-06-07T14:07:16.158Z",
+      "lastScraped": "2024-06-07T14:07:16.158Z",
+      "id": 0,
+      "name_Local": "Apple iPhone 14",
+      "name_Global": "Apple iPhone 14",
+      "description_Local": "Latest model of Apple's iPhone series, featuring a new design, improved camera, and better performance.",
+      "description_Global": "The newest addition to the iPhone series, with cutting-edge technology and superior user experience.",
+      "price": 999.99,
+      "rating": 4.5,
+      "isAvailable": false,
+      "brand": "Apple"
+    },
+    {
+      "prodId": 1,
+      "domainId": 1,
+      "productLink1": "https://www.thirdexample.com/product/apple-iphone-14",
+      "status": "Available",
+      "lastUpdated": "2024-06-07T14:07:16.158Z",
+      "lastScraped": "2024-06-07T14:07:16.158Z",
+      "id": 0,
+      "name_Local": "Apple iPhone 14",
+      "name_Global": "Apple iPhone 14",
+      "description_Local": "Latest model of Apple's iPhone series, featuring a new design, improved camera, and better performance.",
+      "description_Global": "The newest addition to the iPhone series, with cutting-edge technology and superior user experience.",
+      "price": 999.99,
+      "rating": 4.8,
+      "isAvailable": true,
+      "brand": "Apple"
+    }
+  ],
+  "productImageDTO": [
+    {
+      "id": 0,
+      "prodId": 1,
+      "image": "https://www.example.com/images/iphone-14-front.jpg"
+    },
+    {
+      "id": 0,
+      "prodId": 1,
+      "image": "https://www.example.com/images/iphone-14-back.jpg"
+    },
+    {
+      "id": 0,
+      "prodId": 1,
+      "image": "https://www.example.com/images/iphone-14-side.jpg"
+    }
+  ]
+}
