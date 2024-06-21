@@ -4,4 +4,5 @@ requests_html
 lxml[html_clean]
 gunicorn
 uvicorn
+json5
 fake_headers
