@@ -4,7 +4,6 @@ import requests
 import json
 from utils import getStringBetweenTwoWords
 from models.Product import ProductDetailDTO
-
 async def scrape_aliexpress_full(url: str) -> dict:
     response = requests.get(url)
     soup = BeautifulSoup(response.content, 'html.parser')
@@ -17,8 +16,20 @@ async def scrape_aliexpress_full(url: str) -> dict:
         price = script_target_object['data']['metaDataComponent']['ogTitle'].split('|')[0].strip()
         title = script_target_object['data']['metaDataComponent']['title'].split('|')[0].strip()
         ImageList = script_target_object['data']['imageComponent']['imagePathList']
+        description = script_target_object['data']['productPropComponent']['propGroups']
+        is_available = script_target_object['data']['priceComponent']['skuPriceList'][0]['skuVal']['availQuantity'] > 0
+        attr_values = []
+    
+        for group in description:
+            for prop in group.get("props", []):
+                attr_key = prop.get("attrName", "").strip()
+                attr_value = prop.get("attrValue", "").strip()
+                if attr_value:
+                    attr_values.append(attr_key+":"+attr_value)
+        
+        concatenated_description = ', '.join(attr_values)
 
-    item_data = ProductDetailDTO(name_Global=title, price=price,images=ImageList,productlink1=url)
+    item_data = ProductDetailDTO(name_Global=title, price=price,images=ImageList,productlink1=url,description_Global=concatenated_description,is_available=is_available)
     return item_data
 
 

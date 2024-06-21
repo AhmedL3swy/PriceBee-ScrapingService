@@ -883,7 +883,7 @@
             "storeCollectHours": 1,
             "closingHours": 0,
             "closingTime": "0",
-            "collectNbHours": 4,
+            "collectNbHours": 0,
             "closingHoursInAm": false,
             "isCollectInHours": false,
             "workingHours": [
@@ -910,7 +910,7 @@
             ],
             "specialDayWorkingHours": null,
             "specialDayWorkingHoursMap": null,
-            "closed": false,
+            "closed": true,
             "atp": 1,
             "stockData": {
                 "stockLevelStatus": {
@@ -989,9 +989,9 @@
     },
     "citiesData": null,
     "displayFreeDelivery": true,
-    "deliveryLeadTimeNow": "Wed 26 Jun 2024 ",
-    "deliveryLeadTimeBefore": null,
-    "deliveryLeadTimeBeforeBy": null,
+    "deliveryLeadTimeNow": null,
+    "deliveryLeadTimeBefore": "2:00\u0645",
+    "deliveryLeadTimeBeforeBy": "Tue 25 Jun 2024 ",
     "cashBackPrice": null,
     "hasCashBack": null,
     "hasFreeGift": true,
