@@ -33,7 +33,7 @@ async def scrape_extra_full(url):
             total_price = product_details.get('price', {}).get('formattedValue', 'N/A')
             discount = product_details.get('percentageDiscount', {}).get('value', 'N/A')
             PriceAfterDiscount = float(total_price) - (float(total_price) * discount / 100)
-            description = product_details.get('description', 'N/A')
+            description = product_details.get('descriptionEn', 'N/A')
             rating = product_details.get('averageRating', 'N/A')
             image= product_details.get('highlights')
             soup = BeautifulSoup(image, 'html.parser')
