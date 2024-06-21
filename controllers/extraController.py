@@ -19,16 +19,13 @@ async def scrape_extra_full(url):
         # Locate and extract the ACC.config.productDetails object
         start_index = script_content.find('ACC.config.productDetails')
         stop_index = script_content.find('ACC.config.currentCity')
-
+        
         
         if start_index != -1 and stop_index != -1:
             product_details = script_content[start_index:stop_index]
             product_details = product_details.replace('ACC.config.productDetails = ', '').strip()
             product_details = product_details[:-1]
             product_details = json.loads(product_details)
-
-            product_details = json.loads(open('extra.json').read())
-
             name_global = product_details.get('nameEn', 'N/A')
             name_local = product_details.get('name', 'N/A')
             isAvailable = product_details.get('stock', {}).get('stockLevel', 'N/A')>0
