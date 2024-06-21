@@ -25,9 +25,11 @@ async def scrape_extra_full(url):
             product_details = product_details.replace('ACC.config.productDetails = ', '').strip()
             product_details = product_details[:-1]
             product_details = json.loads(product_details)
-            #printSoupToJson(product_details)
-            print(product_details)
-            title = product_details.get('name', 'N/A')
+            
+
+            name_global = product_details.get('nameEn', 'N/A')
+            name_local = product_details.get('name', 'N/A')
+            isAvailable = product_details.get('stock', {}).get('stockLevel', 'N/A')>0
             total_price = product_details.get('price', {}).get('formattedValue', 'N/A')
             discount = product_details.get('percentageDiscount', {}).get('value', 'N/A')
             PriceAfterDiscount = float(total_price) - (float(total_price) * discount / 100)
@@ -37,7 +39,7 @@ async def scrape_extra_full(url):
             soup = BeautifulSoup(image, 'html.parser')
             image = soup.find_all('img')
             images= [ img['src'] for img in image]
-        item_data = ProductDetailDTO(name_Global=title, price=PriceAfterDiscount, rating=rating, description_Global=description,images=images)
+        item_data = ProductDetailDTO(name_Global=name_global,name_Local=name_local,is_available=isAvailable, price=PriceAfterDiscount, rating=rating, description_Global=description,images=images)
         return item_data
 async def scrape_extra_price(url):
     response = requests.get(url)
