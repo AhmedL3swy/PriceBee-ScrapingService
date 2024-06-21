@@ -1,8 +1,6 @@
-import time
 from bs4 import BeautifulSoup
-import requests
 from requests_html import AsyncHTMLSession
-from models.Product import ItemData, ItemImages, ItemPrice ,ProductDetailDTO
+from models.Product import ProductDetailDTO
 from fake_headers import Headers
 
 async def scrape_noon_full(url: str) -> dict:
@@ -26,33 +24,66 @@ async def scrape_noon_full(url: str) -> dict:
     item_data = ProductDetailDTO(name_Global=title, price=price, rating=rating, description_Global=description,images=img)
     return item_data
 
-async def scrape_noon_price(url: str) -> dict:
-    headers = Headers(headers=True).generate()
-    asession = AsyncHTMLSession()
-    try:
-     response = await asession.get(url, headers=headers,timeout=10)
-    except:
-        return {"error": "timeout"}
-    soup = BeautifulSoup(response.content, 'html.parser')
-
-    price = soup.find('div', class_='priceNow').get_text().split('.')[0].strip()
 
 
-    item_data = ItemPrice(price=price)
-    return item_data
 
-async def scrape_noon_images(url: str) -> dict:
-    headers = Headers(headers=True).generate()
-    asession = AsyncHTMLSession()
-    try:
-     response = await asession.get(url, headers=headers,timeout=10)
-    except:
-        return {"error": "timeout"}   
-    soup = BeautifulSoup(response.content, 'html.parser')
-    result= soup.select('img')
-    img=[]
-    for i in result:
-        if "&width" in i['src']:
-            img.append(i['src'])
-    item_data = ItemImages(images=img)
-    return item_data
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# async def scrape_noon_price(url: str) -> dict:
+#     headers = Headers(headers=True).generate()
+#     asession = AsyncHTMLSession()
+#     try:
+#      response = await asession.get(url, headers=headers,timeout=10)
+#     except:
+#         return {"error": "timeout"}
+#     soup = BeautifulSoup(response.content, 'html.parser')
+
+#     price = soup.find('div', class_='priceNow').get_text().split('.')[0].strip()
+
+
+#     item_data = ItemPrice(price=price)
+#     return item_data
+
+# async def scrape_noon_images(url: str) -> dict:
+#     headers = Headers(headers=True).generate()
+#     asession = AsyncHTMLSession()
+#     try:
+#      response = await asession.get(url, headers=headers,timeout=10)
+#     except:
+#         return {"error": "timeout"}   
+#     soup = BeautifulSoup(response.content, 'html.parser')
+#     result= soup.select('img')
+#     img=[]
+#     for i in result:
+#         if "&width" in i['src']:
+#             img.append(i['src'])
+#     item_data = ItemImages(images=img)
+#     return item_data

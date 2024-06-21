@@ -4,7 +4,6 @@ from .amazonSaController import scrape_amazonSa_full
 from .extraController import scrape_extra_full
 from .jarirController import scrape_Jarir_full
 from .noonController import scrape_noon_full
-from models.Product  import ProductDetailDTO
 # Make api that take Array of Urls and return Array of ProductDetailDTO
 async def Scrape(urls):
     result = []

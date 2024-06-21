@@ -1,8 +1,7 @@
 #Dependencies
 from bs4 import BeautifulSoup
 import requests
-
-from models.Product import ItemData, ItemImages, ItemPrice ,ProductDetailDTO
+from models.Product import ProductDetailDTO
 
 async def scrape_amazon_full(url: str) -> dict:
     response = requests.get(url, headers={'Accept-Language': 'en-US,en;q=0.5'})
@@ -20,24 +19,45 @@ async def scrape_amazon_full(url: str) -> dict:
     item_data = ProductDetailDTO(name_Global=title, price=price, rating=rating, description_Global=discription,images=images)
     return item_data
 
-async def scrape_amazon_price(url: str) -> dict:
-    # configure the request to be from Saudi Arabia
-    response = requests.get(url, headers={'Accept-Language': 'en-US,en;q=0.5'})
-    soup = BeautifulSoup(response.content, 'html.parser')
-    #Data
-    price = soup.select_one('span.a-offscreen').get_text().strip()
 
-    item_data = ItemPrice(price=price)
-    return item_data
 
-async def scrape_amazon_images(url: str) -> dict:
-     # configure the request to be from Saudi Arabia
-    response = requests.get(url, headers={'Accept-Language': 'en-US,en;q=0.5'})
-    soup = BeautifulSoup(response.content, 'html.parser')
-    result=soup.select("#imageBlock img")
-    for i in result:
-        if 'data-a-dynamic-image' in i.attrs:
-            images= eval(i['data-a-dynamic-image'])
-            images = list(images.keys())
-    item_data= ItemImages(images=images)
-    return item_data
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# async def scrape_amazon_price(url: str) -> dict:
+#     # configure the request to be from Saudi Arabia
+#     response = requests.get(url, headers={'Accept-Language': 'en-US,en;q=0.5'})
+#     soup = BeautifulSoup(response.content, 'html.parser')
+#     #Data
+#     price = soup.select_one('span.a-offscreen').get_text().strip()
+
+#     item_data = ItemPrice(price=price)
+#     return item_data
+
+# async def scrape_amazon_images(url: str) -> dict:
+#      # configure the request to be from Saudi Arabia
+#     response = requests.get(url, headers={'Accept-Language': 'en-US,en;q=0.5'})
+#     soup = BeautifulSoup(response.content, 'html.parser')
+#     result=soup.select("#imageBlock img")
+#     for i in result:
+#         if 'data-a-dynamic-image' in i.attrs:
+#             images= eval(i['data-a-dynamic-image'])
+#             images = list(images.keys())
+#     item_data= ItemImages(images=images)
+#     return item_data
