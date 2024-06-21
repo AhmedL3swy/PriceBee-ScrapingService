@@ -11,7 +11,7 @@ async def scrape_amazonSa_full(url: str) -> dict:
     response = await asession.get(url)
     soup = BeautifulSoup(response.content, 'html.parser')
     #Data
-    price = soup.select_one('.aok-align-center span.a-price-whole').get_text().split(".")[0]
+    price = float(soup.select_one('.aok-align-center span.a-price-whole').get_text().split(".")[0])
     title = soup.select_one('span.product-title-word-break').get_text().strip()
     rating = soup.select_one('#averageCustomerReviews_feature_div span.a-color-base').get_text().strip()
     discription = soup.select_one('ul.a-spacing-mini').get_text().strip()
