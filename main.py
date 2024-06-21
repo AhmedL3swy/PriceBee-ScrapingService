@@ -26,7 +26,8 @@ async def get_details(urls: URLList):
     return await Scrape(urls.urls)
 @app.get("/SingleScrape/")
 async def get_details(url: str):
-    return await Scrape([url])
+    result= await Scrape([url])
+    return result[0]
 #region Run the app
 if __name__ == "__main__":
     import uvicorn
