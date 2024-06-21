@@ -4,6 +4,7 @@ import requests
 import json
 from models.Product import ProductDetailDTO
 
+
 async def scrape_extra_full(url):
     response = requests.get(url)
     soup = BeautifulSoup(response.content, 'html.parser')
@@ -25,7 +26,8 @@ async def scrape_extra_full(url):
             product_details = product_details.replace('ACC.config.productDetails = ', '').strip()
             product_details = product_details[:-1]
             product_details = json.loads(product_details)
-            
+
+            product_details = json.loads(open('extra.json').read())
 
             name_global = product_details.get('nameEn', 'N/A')
             name_local = product_details.get('name', 'N/A')
@@ -34,13 +36,13 @@ async def scrape_extra_full(url):
             discount = product_details.get('percentageDiscount', {}).get('value', 'N/A')
             PriceAfterDiscount = float(total_price) - (float(total_price) * discount / 100)
             description = product_details.get('descriptionEn', 'N/A')
-            rating = product_details.get('averageRating', 'N/A')
+            rating = product_details.get('rating', 'N/A')
             image= product_details.get('highlights')
             soup = BeautifulSoup(image, 'html.parser')
             image = soup.find_all('img')
             images= [ img['src'] for img in image]
-        item_data = ProductDetailDTO(name_Global=name_global,name_Local=name_local,is_available=isAvailable, price=PriceAfterDiscount, rating=rating, description_Global=description,images=images,productlink1=url)
-        return item_data
+            item_data = ProductDetailDTO(name_Global=name_global,name_Local=name_local,is_available=isAvailable, price=PriceAfterDiscount, rating=rating, description_Global=description,images=images,productlink1=url)
+            return item_data
     
 
 
