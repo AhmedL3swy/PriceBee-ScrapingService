@@ -16,7 +16,7 @@ async def scrape_amazon_full(url: str) -> dict:
         if 'data-a-dynamic-image' in i.attrs:
             images = eval(i['data-a-dynamic-image'])
             images = list(images.keys())
-    item_data = ProductDetailDTO(name_Global=title, price=price, rating=rating, description_Global=discription,images=images)
+    item_data = ProductDetailDTO(name_Global=title, price=price, rating=rating, description_Global=discription,images=images,productlink1=url)
     return item_data
 
 

@@ -16,7 +16,7 @@ async def scrape_Jarir_full(url):
     images=[]
     for i in range(len(images_string)):
         images.append("https://ak-asset.jarir.com/akeneo-prod/asset/"+getStringBetweenTwoWords(images_string[i], 'image:"','",lab'))
-    item_data = ProductDetailDTO(name_Global=Title, price=price,images=images)
+    item_data = ProductDetailDTO(name_Global=Title, price=price,images=images,productlink1=url)
     return item_data
 
 

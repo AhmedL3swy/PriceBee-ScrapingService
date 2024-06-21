@@ -39,7 +39,7 @@ async def scrape_extra_full(url):
             soup = BeautifulSoup(image, 'html.parser')
             image = soup.find_all('img')
             images= [ img['src'] for img in image]
-        item_data = ProductDetailDTO(name_Global=name_global,name_Local=name_local,is_available=isAvailable, price=PriceAfterDiscount, rating=rating, description_Global=description,images=images)
+        item_data = ProductDetailDTO(name_Global=name_global,name_Local=name_local,is_available=isAvailable, price=PriceAfterDiscount, rating=rating, description_Global=description,images=images,productlink1=url)
         return item_data
     
 
