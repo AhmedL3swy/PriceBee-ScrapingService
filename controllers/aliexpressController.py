@@ -13,7 +13,7 @@ async def scrape_aliexpress_full(url: str) -> dict:
         script_target_object= getStringBetweenTwoWords(script_content, 'window.runParams =', 'window.runParams.is23').replace(';', '')
         script_target_object = script_target_object.replace('data', '"data"')
         script_target_object = json.loads(script_target_object)
-        price = script_target_object['data']['metaDataComponent']['ogTitle'].split('|')[0].strip()
+        price = float(script_target_object['data']['metaDataComponent']['ogTitle'].split('|')[0].strip().replace('EGP', ''))
         title = script_target_object['data']['metaDataComponent']['title'].split('|')[0].strip()
         ImageList = script_target_object['data']['imageComponent']['imagePathList']
         description = script_target_object['data']['productPropComponent']['propGroups']
