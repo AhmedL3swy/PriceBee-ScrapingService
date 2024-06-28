@@ -20,7 +20,7 @@ async def scrape_noon_full(url: str) -> dict:
     for i in image_soup:
         if "&width" in i['src']:
             img.append(i['src'])
-    item_data = ProductDetailDTO(name_Global=title, price=price, rating=rating, description_Global=description,images=img,productlink1=url)
+    item_data = ProductDetailDTO(name_Global=title, price=price, rating=rating, description_Global=description,images=img,productLink1=url)
     return item_data
 
 

@@ -4,13 +4,13 @@ from typing import List
 
 
 class ProductDetailDTO:
-    def __init__(self, prod_id: int = 0, domainId: int = 1, productlink1: str = "", status: str = "", 
+    def __init__(self, prod_id: int = 0, domainId: int = 1, productLink1: str = "", status: str = "", 
                  lastUpdated: datetime = datetime.utcnow(), lastScraped: datetime = datetime.utcnow(), id: int = 0, 
                  name_Local: str = "", name_Global: str = "", description_Local: str = "", description_Global: str = "", 
                  price: float = 0.0, rating: float = 0.0, is_available: bool = True, brand: str = "", images: List[str] = []):
         self.prod_id = prod_id
         self.domainId  = domainId
-        self.productlink1 = productlink1
+        self.productLink1 = productLink1
         self.status = status
         self.lastUpdated = lastUpdated
         self.lastScraped = lastScraped

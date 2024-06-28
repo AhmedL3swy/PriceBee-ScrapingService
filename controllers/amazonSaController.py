@@ -22,7 +22,7 @@ async def scrape_amazonSa_full(url: str) -> dict:
             images = eval(i['data-a-dynamic-image'])
             images = list(images.keys())
     
-    item_data = ProductDetailDTO(name_Global=title, price=price, rating=rating, description_Global=discription,images=images,productlink1=url)
+    item_data = ProductDetailDTO(name_Global=title, price=price, rating=rating, description_Global=discription,images=images,productLink1=url)
     return item_data
 
 

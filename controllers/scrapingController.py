@@ -13,7 +13,7 @@ async def Scrape(urls):
                 result.append(await scrape_noon_full(url))
             elif "aliexpress" in url:
                 result.append(await scrape_aliexpress_full(url))
-            elif "amazon.sa" in url:
+            elif "amazon.sa" in url or "amazon.eg" in url:
                 result.append(await scrape_amazonSa_full(url))
             elif "amazon" in url:
                 result.append(await scrape_amazon_full(url))
