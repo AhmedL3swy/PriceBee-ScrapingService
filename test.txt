@@ -34,7 +34,7 @@ https://www.extra.com/ar-sa/mobiles-tablets/mobiles/smartphone/samsung-galaxy-z-
     {
       "prodId": 1,
       "domainId": 1,
-      "productLink1": "https://www.example.com/product/apple-iphone-14",
+      "productlink1": "https://www.example.com/product/apple-iphone-14",
       "status": "Available",
       "lastUpdated": "2024-06-07T14:07:16.158Z",
       "lastScraped": "2024-06-07T14:07:16.158Z",
@@ -51,7 +51,7 @@ https://www.extra.com/ar-sa/mobiles-tablets/mobiles/smartphone/samsung-galaxy-z-
     {
       "prodId": 1,
       "domainId": 1,
-      "productLink1": "https://www.otherexample.com/product/apple-iphone-14",
+      "productlink1": "https://www.otherexample.com/product/apple-iphone-14",
       "status": "Out of Stock",
       "lastUpdated": "2024-06-07T14:07:16.158Z",
       "lastScraped": "2024-06-07T14:07:16.158Z",
@@ -68,7 +68,7 @@ https://www.extra.com/ar-sa/mobiles-tablets/mobiles/smartphone/samsung-galaxy-z-
     {
       "prodId": 1,
       "domainId": 1,
-      "productLink1": "https://www.thirdexample.com/product/apple-iphone-14",
+      "productlink1": "https://www.thirdexample.com/product/apple-iphone-14",
       "status": "Available",
       "lastUpdated": "2024-06-07T14:07:16.158Z",
       "lastScraped": "2024-06-07T14:07:16.158Z",

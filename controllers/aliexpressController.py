@@ -29,7 +29,7 @@ async def scrape_aliexpress_full(url: str) -> dict:
         
         concatenated_description = ', '.join(attr_values)
 
-    item_data = ProductDetailDTO(name_Global=title, price=price,images=ImageList,productLink1=url,description_Global=concatenated_description,is_available=is_available)
+    item_data = ProductDetailDTO(name_Global=title, price=price,images=ImageList,productlink1=url,description_Global=concatenated_description,is_available=is_available)
     return item_data
 
 
