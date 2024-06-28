@@ -5,13 +5,23 @@ from models.Product import  ProductDetailDTO
 
 
 async def scrape_amazonSa_full(url: str) -> dict:
+    attemps=10
     asession=AsyncHTMLSession(
         mock_browser=True,
     )
     response = await asession.get(url)
     soup = BeautifulSoup(response.content, 'html.parser')
     #Data
-    price = float(soup.select_one('.aok-align-center span.a-price-whole').get_text().split(".")[0])
+    while attemps > 0:
+        try:
+            price = float(soup.select_one('.aok-align-center span.a-price-whole').get_text().split(".")[0])
+            break
+        except:
+            attemps -= 1
+            asession = AsyncHTMLSession(mock_browser=True)
+            response = await asession.get(url)
+            soup = BeautifulSoup(response.content, 'html.parser')
+    price = float(soup.select_one('.aok-align-center span.a-price-whole').get_text().split(".")[0].replace(",",""))
     title = soup.select_one('span.product-title-word-break').get_text().strip()
     rating = soup.select_one('#averageCustomerReviews_feature_div span.a-color-base').get_text().strip()
     discription = soup.select_one('ul.a-spacing-mini').get_text().strip()
