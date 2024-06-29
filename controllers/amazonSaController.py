@@ -44,7 +44,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 #Dependencies
 from bs4 import BeautifulSoup
-async def scrapeAmazonSa(url: str) -> dict:
+async def scrape_amazonSa_full(url: str) -> dict:
     options = Options()
     options.add_argument("--headless")  # Run Chrome in headless mode
     options.add_argument("--no-sandbox")
