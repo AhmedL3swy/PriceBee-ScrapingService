@@ -36,8 +36,8 @@ async def scrape_extra_full(url):
             rating = product_details.get('rating', 'N/A')
             image= product_details.get('highlights')
             soup = BeautifulSoup(image, 'html.parser')
-            image = soup.find_all('img')
-            images= [ img['src'] for img in image]
+            p=url.split("/p/")[1].split("/")[0]
+            images = [f"https://media.extra.com/i/aurora/{p}_100_0{i}" for i in range(1,6)]
             item_data = ProductDetailDTO(name_Global=name_global,name_Local=name_local,is_available=isAvailable, price=PriceAfterDiscount, rating=rating, description_Global=description,images=images,productlink1=url)
             return item_data
     
