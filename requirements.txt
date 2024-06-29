@@ -6,3 +6,4 @@ gunicorn
 uvicorn
 json5
 fake_headers
+selenium

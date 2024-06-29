@@ -2,12 +2,12 @@
 import os
 import json
 import json5
-def printSoupToHtml(soup):
+def printSoupToHtml(soup, filename='soup.html'):
     #Creating a file if not exist
-    if not os.path.exists('soup.html'):
-        with open('soup.html', 'w', encoding='utf-8') as file:
+    if not os.path.exists(filename):
+        with open(filename, 'w', encoding='utf-8') as file:
             file.write('')
-    with open('soup.html', 'w', encoding='utf-8') as file:
+    with open(filename, 'w', encoding='utf-8') as file:
         file.write(str(soup))
     return True
 def printSoupToJson(soup):
