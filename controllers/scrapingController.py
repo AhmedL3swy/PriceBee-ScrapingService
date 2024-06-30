@@ -22,5 +22,7 @@ async def Scrape(urls):
             elif "extra" in url:
                 result.append(await scrape_extra_full(url))
         except Exception as e:
+            #append Null
+            result.append(None)
             print(f"Error scraping URL: {url}. Error message: {str(e)}")
     return result
