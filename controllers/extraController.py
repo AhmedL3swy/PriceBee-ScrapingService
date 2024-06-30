@@ -52,7 +52,7 @@ async def scrape_extra_full(url):
                         result.append(f"{name}:{value}")
             #convert list to string
             result = ','.join(result)
-            item_data = ProductDetailDTO(name_Global=name_global,name_Local=name_local,is_available=isAvailable,description_Local=result, price=PriceAfterDiscount, rating=rating, description_Global=description,images=images,productlink1=url)
+            item_data = ProductDetailDTO(name_Global=name_global,name_Local=name_local,is_available=isAvailable,description_Local=result, price=PriceAfterDiscount, rating=rating, description_Global=description,images=images,productlink1=url,domainId=2)
             return item_data
     
 

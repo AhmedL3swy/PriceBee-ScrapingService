@@ -87,9 +87,12 @@ async def scrape_amazonSa_full(url: str) -> dict:
                 key = tr.select_one('td.a-span3 span.a-size-base.a-text-bold').get_text().strip()
                 value = tr.select_one('td.a-span9 span.a-size-base.po-break-word').get_text().strip()
                 table_data[key] = value
+        domainId=4
+        if (url.find("eg")!=-1):
+            domainId=3
         ## Concat table data into string
         table_data = "|".join([f"{key} : {value}" for key, value in table_data.items()])
-        return ProductDetailDTO(name_Global=title,name_Local=title,is_available=1, price=price, rating=rating, description_Global=table_data,images=images,productlink1=url)
+        return ProductDetailDTO(domainId=domainId,name_Global=title,name_Local=title,is_available=1, price=price, rating=rating, description_Global=table_data,images=images,productlink1=url)
 
 
 

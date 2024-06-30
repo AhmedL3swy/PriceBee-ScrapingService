@@ -1,7 +1,7 @@
 {
     "attribute_set_id": 433,
     "created_at": "2024-03-20 04:28:18",
-    "updated_at": "2024-06-21 14:04:41",
+    "updated_at": "2024-06-29 06:42:35",
     "type_id": "simple",
     "sku": "632865",
     "id": 700571,
@@ -25,11 +25,164 @@
             "pos": 2
         }
     ],
-    "tsk": 1718978702,
+    "tsk": 1719642062,
+    "name": "Samsung 55\" Smart TV, 4K OLED, OLED, Graphite Black, QA55S90DAUXSA",
+    "meta_title": "Samsung QA55S90DAUXSA 55\" 4K OLED OLED Smart TV - Jarir Bookstore KSA",
+    "meta_description": "Buy Samsung QA55S90DAUXSA 55\" 4K OLED OLED Smart TV at Jarir Bookstore for best offers and price in Saudi Arabia KSA.",
+    "url_key": "samsung-qa55s90dauxsa-smart-tv-632865",
+    "msrp_display_actual_price_type": "0",
+    "gift_message_available": true,
+    "is_returnable": false,
+    "protection_service_sku": "614716,614712,598167,600960,631321",
+    "fulfilment_type": "LIVE",
+    "fulfilment_method": "NORMAL",
+    "is_cashback": false,
+    "arabicname_field1": "‎‎سامسونج‎‎",
+    "arabicname_field2": "‎55 بوصة‎",
+    "arabicname_field3": "‎تلفزيون ذكي‎",
+    "arabicname_field4": "‎4‎K اوليد‎",
+    "arabicname_field5": "‎او ال اي دي‎",
+    "arabicname_field6": "‎أسود الجرافيت‎",
+    "arabicname_field7": "‎‎دي أيه يو اكس أس أيه ‎90‎‎ اس ‎55‎‎ كيو ايه‎‎",
+    "asra": "4 Bezel-Less",
+    "auvi": "HDMI/RF In/Optical Audio Out/RJ-45",
+    "bar_code1": "8806095460598",
+    "bar_code2": null,
+    "box_height": "15.50",
+    "box_length": "82.40",
+    "box_width": "138.50",
+    "brand": "Samsung",
+    "dept": "3.99 cm ( 1.57 in )",
+    "dim_uom": "CM",
+    "feat": "Motion Xcelerator 144 Hz, 4K AI Upscaling, Ultra Viewing Angle",
+    "gl_class": "IN15",
+    "heig": "70.86 cm ( 2.32 ft )",
+    "hs_code": "852849000000",
+    "item_classification": "TVA",
+    "item_number": "16-QA55S90DAUXSA",
+    "item_prefix": "16-",
+    "model": "QA55S90DAUXSA",
+    "mpn": "QA55S90DAUXSA",
+    "origin_country": "ZZ",
+    "prap": "YouTube, Netflix, SmartThings",
+    "productcode_description": "Smart TV",
+    "addtocart": "1",
+    "discountable": "0",
+    "jarir_master_tag": "99",
+    "jarir_tag_one": "55",
+    "jarir_tag_three": null,
+    "jarir_tag_two": "56",
+    "jb_tax_class_code": "KSAVAT5",
+    "priority_qty": null,
+    "priority_val": null,
+    "serial_required": "Y",
+    "uom": "Each",
+    "uom_code": "EA",
+    "uom_desc": "Each",
+    "video_url": null,
+    "weig": "16.00 kg ( 35.27 lb )",
+    "weight_uom": "KG",
+    "widt": "122.54 cm ( 4.02 ft )",
+    "naming_formula": "arabicname_field1*arabicname_field2*arabicname_field3#,*arabicname_field4#,*arabicname_field5#,*arabicname_field6#,*arabicname_field7",
+    "item_warranty_code": "16-3P12Y2",
+    "family_code": "TVSMRT",
+    "below_pdp_image_block": null,
+    "incomplete_status_changed_kuwait": null,
+    "incomplete_status_changed_saudi": null,
+    "tamara_category": "Category 2",
+    "shipping_name": "Samsung Smart TV Smart TV",
+    "short_description": "SMART TV 55\" UHD OLED HDR+ 144 HZ BLACK",
+    "meta_keyword": "Samsung,QA55S90DAUXSA,55\",4K OLED,OLED,Smart TV,Graphite Black,QA55S90DAUXSA,jarir bookstore saudi arabia KSA, shop online at Jarir KSA",
+    "additional_information": null,
+    "suggested_accessories": [
+        {
+            "title": {
+                "en_US": "Smart TV Accessories",
+                "ar_SA": "ملحقات التلفزيونات الذكية"
+            },
+            "skus": "516911,516913,520723,528058,528061,535070,535071,535072,547234,547235"
+        },
+        {
+            "title": {
+                "en_US": "Audio/Video Cables",
+                "ar_SA": "أسلاك صوت وصورة"
+            },
+            "skus": "380857,381413,461749,467719,467720,485433,485435,498587,507960,527939"
+        },
+        {
+            "title": {
+                "en_US": "Speaker",
+                "ar_SA": "مكبر صوت"
+            },
+            "skus": "538481,545801,551352,551956,553062,560473,563741,579399,600752,606261"
+        },
+        {
+            "title": {
+                "en_US": "Keyboard/Mouse Combo",
+                "ar_SA": "طقم لوحة مفاتيح وفأرة"
+            },
+            "skus": "416446,426775,447765,550578,555548,557960,566191,577053,590594,590616"
+        },
+        {
+            "title": {
+                "en_US": "Cleaning Supplies",
+                "ar_SA": "مستلزمات طقم"
+            },
+            "skus": "365403,445178,445179,507657,507663,507667,507672"
+        }
+    ],
+    "producttag_data": [
+        {
+            "label": "Default Tag",
+            "as400tagcode": "99",
+            "showonmobile": "no",
+            "showondesktop": "no",
+            "priority": "0",
+            "id": "99",
+            "show_in_product_status": "0"
+        },
+        {
+            "label": "Offers",
+            "as400tagcode": "55",
+            "showonmobile": "no",
+            "showondesktop": "no",
+            "priority": "55",
+            "id": "55",
+            "show_in_product_status": "1"
+        },
+        {
+            "label": "Exclude Out of Stock",
+            "as400tagcode": "56",
+            "showonmobile": "yes",
+            "showondesktop": "yes",
+            "priority": "56",
+            "id": "56",
+            "show_in_product_status": "1"
+        }
+    ],
+    "alternative_item": null,
+    "klevu_search_keywords": "تلفزيون ذكي, QA55S90DAUXSA ,Graphite Black ,او ال اي دي ,4K OLED ,55 بوصة تلفزيون ذكي سامسونج",
+    "price": 8999,
+    "special_price": 7399,
+    "weight": 44.22,
+    "max_sale_qty": 2,
+    "min_sale_qty": 1,
+    "qty_increments": 1,
+    "price_ex_tax": 7825.2174,
+    "final_price_ex_tax": 6433.913,
+    "jb_discount_percentage": 17,
+    "promotion_value": 1600,
+    "product_save": 1600,
+    "special_price_ex_vat": 6433.92,
+    "base_price_ex_vat": 7825.21,
+    "jarir_final_price": 7399,
+    "special_from_date": "2024-06-29 00:00:00",
+    "special_to_date": "2024-06-30 00:00:00",
+    "jb_product_update_at": "2024-06-29 00:40:01",
     "status": 1,
     "visibility": 4,
     "tax_class_id": 0,
-    "priority": 100620,
+    "priority": 100685,
     "is_protection_service": true,
     "cashoncollection_enable": 0,
     "cod_enable": 0,
@@ -68,158 +221,6 @@
     "override_name_update": 0,
     "tabby_enable": 1,
     "installment_enable": 1,
-    "name": "Samsung 55\" Smart TV, 4K OLED, OLED, Graphite Black, QA55S90DAUXSA",
-    "meta_title": "Samsung QA55S90DAUXSA 55\" 4K OLED OLED Smart TV - Jarir Bookstore KSA",
-    "meta_description": "Buy Samsung QA55S90DAUXSA 55\" 4K OLED OLED Smart TV at Jarir Bookstore for best offers and price in Saudi Arabia KSA.",
-    "url_key": "samsung-qa55s90dauxsa-smart-tv-632865",
-    "msrp_display_actual_price_type": "0",
-    "gift_message_available": true,
-    "is_returnable": false,
-    "protection_service_sku": "614716,614712,598167,600960,631321",
-    "fulfilment_type": "LIVE",
-    "fulfilment_method": "NORMAL",
-    "is_cashback": false,
-    "arabicname_field1": "\u200e\u200e\u0633\u0627\u0645\u0633\u0648\u0646\u062c\u200e\u200e",
-    "arabicname_field2": "\u200e55 \u0628\u0648\u0635\u0629\u200e",
-    "arabicname_field3": "\u200e\u062a\u0644\u0641\u0632\u064a\u0648\u0646 \u0630\u0643\u064a\u200e",
-    "arabicname_field4": "\u200e4\u200eK \u0627\u0648\u0644\u064a\u062f\u200e",
-    "arabicname_field5": "\u200e\u0627\u0648 \u0627\u0644 \u0627\u064a \u062f\u064a\u200e",
-    "arabicname_field6": "\u200e\u0623\u0633\u0648\u062f \u0627\u0644\u062c\u0631\u0627\u0641\u064a\u062a\u200e",
-    "arabicname_field7": "\u200e\u200e\u062f\u064a \u0623\u064a\u0647 \u064a\u0648 \u0627\u0643\u0633 \u0623\u0633 \u0623\u064a\u0647 \u200e90\u200e\u200e \u0627\u0633 \u200e55\u200e\u200e \u0643\u064a\u0648 \u0627\u064a\u0647\u200e\u200e",
-    "asra": "4 Bezel-Less",
-    "auvi": "HDMI/RF In/Optical Audio Out/RJ-45",
-    "bar_code1": "8806095460598",
-    "bar_code2": null,
-    "box_height": "15.50",
-    "box_length": "82.40",
-    "box_width": "138.50",
-    "brand": "Samsung",
-    "dept": "3.99 cm ( 1.57 in )",
-    "dim_uom": "CM",
-    "feat": "Motion Xcelerator 144 Hz, 4K AI Upscaling, Ultra Viewing Angle",
-    "gl_class": "IN15",
-    "heig": "70.86 cm ( 2.32 ft )",
-    "hs_code": "852849000000",
-    "item_classification": "TVA",
-    "item_number": "16-QA55S90DAUXSA",
-    "item_prefix": "16-",
-    "model": "QA55S90DAUXSA",
-    "mpn": "QA55S90DAUXSA",
-    "origin_country": "ZZ",
-    "prap": "YouTube, Netflix, SmartThings",
-    "productcode_description": "Smart TV",
-    "addtocart": "1",
-    "discountable": "0",
-    "jarir_master_tag": "99",
-    "jarir_tag_one": "38",
-    "jarir_tag_three": null,
-    "jarir_tag_two": "56",
-    "jb_tax_class_code": "KSAVAT5",
-    "priority_qty": null,
-    "priority_val": null,
-    "serial_required": "Y",
-    "uom": "Each",
-    "uom_code": "EA",
-    "uom_desc": "Each",
-    "video_url": null,
-    "weig": "16.00 kg ( 35.27 lb )",
-    "weight_uom": "KG",
-    "widt": "122.54 cm ( 4.02 ft )",
-    "naming_formula": "arabicname_field1*arabicname_field2*arabicname_field3#,*arabicname_field4#,*arabicname_field5#,*arabicname_field6#,*arabicname_field7",
-    "item_warranty_code": "16-3P12Y2",
-    "family_code": "TVSMRT",
-    "below_pdp_image_block": null,
-    "incomplete_status_changed_kuwait": null,
-    "incomplete_status_changed_saudi": null,
-    "tamara_category": "Category 2",
-    "shipping_name": "Samsung Smart TV Smart TV",
-    "short_description": "SMART TV 55\" UHD OLED HDR+ 144 HZ BLACK",
-    "meta_keyword": "Samsung,QA55S90DAUXSA,55\",4K OLED,OLED,Smart TV,Graphite Black,QA55S90DAUXSA,jarir bookstore saudi arabia KSA, shop online at Jarir KSA",
-    "additional_information": null,
-    "suggested_accessories": [
-        {
-            "title": {
-                "en_US": "Smart TV Accessories",
-                "ar_SA": "\u0645\u0644\u062d\u0642\u0627\u062a \u0627\u0644\u062a\u0644\u0641\u0632\u064a\u0648\u0646\u0627\u062a \u0627\u0644\u0630\u0643\u064a\u0629"
-            },
-            "skus": "516911,516913,520723,528058,528061,535070,535071,535072,547234,547235"
-        },
-        {
-            "title": {
-                "en_US": "Audio/Video Cables",
-                "ar_SA": "\u0623\u0633\u0644\u0627\u0643 \u0635\u0648\u062a \u0648\u0635\u0648\u0631\u0629"
-            },
-            "skus": "380857,381413,461749,467719,467720,485433,485435,498587,507960,527939"
-        },
-        {
-            "title": {
-                "en_US": "Speaker",
-                "ar_SA": "\u0645\u0643\u0628\u0631 \u0635\u0648\u062a"
-            },
-            "skus": "538481,545801,551352,551956,553062,560473,563741,579399,600752,606261"
-        },
-        {
-            "title": {
-                "en_US": "Keyboard/Mouse Combo",
-                "ar_SA": "\u0637\u0642\u0645 \u0644\u0648\u062d\u0629 \u0645\u0641\u0627\u062a\u064a\u062d \u0648\u0641\u0623\u0631\u0629"
-            },
-            "skus": "416446,426775,447765,550578,555548,557960,566191,577053,590594,590616"
-        },
-        {
-            "title": {
-                "en_US": "Cleaning Supplies",
-                "ar_SA": "\u0645\u0633\u062a\u0644\u0632\u0645\u0627\u062a \u0637\u0642\u0645"
-            },
-            "skus": "365403,445178,445179,507657,507663,507667,507672"
-        }
-    ],
-    "producttag_data": [
-        {
-            "label": "Default Tag",
-            "as400tagcode": "99",
-            "showonmobile": "no",
-            "showondesktop": "no",
-            "priority": "0",
-            "id": "99",
-            "show_in_product_status": "0"
-        },
-        {
-            "label": "Best Deals",
-            "showonmobile": "no",
-            "showondesktop": "no",
-            "priority": "38",
-            "id": "38",
-            "show_in_product_status": "1"
-        },
-        {
-            "label": "Exclude Out of Stock",
-            "as400tagcode": "56",
-            "showonmobile": "yes",
-            "showondesktop": "yes",
-            "priority": "56",
-            "id": "56",
-            "show_in_product_status": "1"
-        }
-    ],
-    "alternative_item": null,
-    "klevu_search_keywords": "\u062a\u0644\u0641\u0632\u064a\u0648\u0646 \u0630\u0643\u064a, QA55S90DAUXSA ,Graphite Black ,\u0627\u0648 \u0627\u0644 \u0627\u064a \u062f\u064a ,4K OLED ,55 \u0628\u0648\u0635\u0629 \u062a\u0644\u0641\u0632\u064a\u0648\u0646 \u0630\u0643\u064a \u0633\u0627\u0645\u0633\u0648\u0646\u062c",
-    "price": 8999,
-    "special_price": 7399,
-    "weight": 44.22,
-    "max_sale_qty": 2,
-    "min_sale_qty": 1,
-    "qty_increments": 1,
-    "price_ex_tax": 7825.2174,
-    "final_price_ex_tax": 6433.913,
-    "jb_discount_percentage": 17,
-    "promotion_value": 1600,
-    "product_save": 1600,
-    "special_price_ex_vat": 6433.92,
-    "base_price_ex_vat": 7825.21,
-    "jarir_final_price": 7399,
-    "special_from_date": "2024-06-21 00:00:00",
-    "special_to_date": "2024-06-22 00:00:00",
-    "jb_product_update_at": "2024-06-21 00:32:56",
     "slug": "samsung-qa55s90dauxsa-smart-tv-632865",
     "url_path": "samsung-qa55s90dauxsa-smart-tv-632865.html",
     "category": [
@@ -285,8 +286,8 @@
         "image": "b/4/c/a/b4cad588bc79e450085462601d5b7a08766815ab_samsung.png",
         "label": "Samsung",
         "id": 2245,
-        "tsk": 1716183662,
-        "label_translation": "\u0633\u0627\u0645\u0633\u0648\u0646\u062c"
+        "tsk": 1719412505,
+        "label_translation": "سامسونج"
     },
     "starRatings": 5,
     "reviewCount": 1,

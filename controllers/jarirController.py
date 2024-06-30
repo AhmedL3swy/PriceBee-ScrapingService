@@ -21,7 +21,7 @@ async def scrape_Jarir_full(url):
     rating = None  
     
     images = ["https://ak-asset.jarir.com/akeneo-prod/asset/"+image["image"] for image in obj.get("media_gallery", []) if image.get("type") == "image"]
-    item_data = ProductDetailDTO(name_Global=name_global, price=PriceAfterDiscount,images=images,productlink1=url,description_Global=concatenated_specs,is_available=isAvailable,rating=rating)
+    item_data = ProductDetailDTO(name_Global=name_global, price=PriceAfterDiscount,images=images,productlink1=url,description_Global=concatenated_specs,is_available=isAvailable,rating=rating,domainId=1)
     return item_data
 
 
