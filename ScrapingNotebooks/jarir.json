@@ -1,7 +1,7 @@
 {
     "attribute_set_id": 433,
     "created_at": "2024-03-20 04:28:18",
-    "updated_at": "2024-06-29 06:42:35",
+    "updated_at": "2024-07-01 10:05:28",
     "type_id": "simple",
     "sku": "632865",
     "id": 700571,
@@ -25,7 +25,7 @@
             "pos": 2
         }
     ],
-    "tsk": 1719642062,
+    "tsk": 1719843602,
     "name": "Samsung 55\" Smart TV, 4K OLED, OLED, Graphite Black, QA55S90DAUXSA",
     "meta_title": "Samsung QA55S90DAUXSA 55\" 4K OLED OLED Smart TV - Jarir Bookstore KSA",
     "meta_description": "Buy Samsung QA55S90DAUXSA 55\" 4K OLED OLED Smart TV at Jarir Bookstore for best offers and price in Saudi Arabia KSA.",
@@ -37,13 +37,13 @@
     "fulfilment_type": "LIVE",
     "fulfilment_method": "NORMAL",
     "is_cashback": false,
-    "arabicname_field1": "‎‎سامسونج‎‎",
-    "arabicname_field2": "‎55 بوصة‎",
-    "arabicname_field3": "‎تلفزيون ذكي‎",
-    "arabicname_field4": "‎4‎K اوليد‎",
-    "arabicname_field5": "‎او ال اي دي‎",
-    "arabicname_field6": "‎أسود الجرافيت‎",
-    "arabicname_field7": "‎‎دي أيه يو اكس أس أيه ‎90‎‎ اس ‎55‎‎ كيو ايه‎‎",
+    "arabicname_field1": "\u200e\u200e\u0633\u0627\u0645\u0633\u0648\u0646\u062c\u200e\u200e",
+    "arabicname_field2": "\u200e55 \u0628\u0648\u0635\u0629\u200e",
+    "arabicname_field3": "\u200e\u062a\u0644\u0641\u0632\u064a\u0648\u0646 \u0630\u0643\u064a\u200e",
+    "arabicname_field4": "\u200e4\u200eK \u0627\u0648\u0644\u064a\u062f\u200e",
+    "arabicname_field5": "\u200e\u0627\u0648 \u0627\u0644 \u0627\u064a \u062f\u064a\u200e",
+    "arabicname_field6": "\u200e\u0623\u0633\u0648\u062f \u0627\u0644\u062c\u0631\u0627\u0641\u064a\u062a\u200e",
+    "arabicname_field7": "\u200e\u200e\u062f\u064a \u0623\u064a\u0647 \u064a\u0648 \u0627\u0643\u0633 \u0623\u0633 \u0623\u064a\u0647 \u200e90\u200e\u200e \u0627\u0633 \u200e55\u200e\u200e \u0643\u064a\u0648 \u0627\u064a\u0647\u200e\u200e",
     "asra": "4 Bezel-Less",
     "auvi": "HDMI/RF In/Optical Audio Out/RJ-45",
     "bar_code1": "8806095460598",
@@ -69,7 +69,7 @@
     "addtocart": "1",
     "discountable": "0",
     "jarir_master_tag": "99",
-    "jarir_tag_one": "55",
+    "jarir_tag_one": "55;38",
     "jarir_tag_three": null,
     "jarir_tag_two": "56",
     "jb_tax_class_code": "KSAVAT5",
@@ -98,35 +98,35 @@
         {
             "title": {
                 "en_US": "Smart TV Accessories",
-                "ar_SA": "ملحقات التلفزيونات الذكية"
+                "ar_SA": "\u0645\u0644\u062d\u0642\u0627\u062a \u0627\u0644\u062a\u0644\u0641\u0632\u064a\u0648\u0646\u0627\u062a \u0627\u0644\u0630\u0643\u064a\u0629"
             },
             "skus": "516911,516913,520723,528058,528061,535070,535071,535072,547234,547235"
         },
         {
             "title": {
                 "en_US": "Audio/Video Cables",
-                "ar_SA": "أسلاك صوت وصورة"
+                "ar_SA": "\u0623\u0633\u0644\u0627\u0643 \u0635\u0648\u062a \u0648\u0635\u0648\u0631\u0629"
             },
             "skus": "380857,381413,461749,467719,467720,485433,485435,498587,507960,527939"
         },
         {
             "title": {
                 "en_US": "Speaker",
-                "ar_SA": "مكبر صوت"
+                "ar_SA": "\u0645\u0643\u0628\u0631 \u0635\u0648\u062a"
             },
             "skus": "538481,545801,551352,551956,553062,560473,563741,579399,600752,606261"
         },
         {
             "title": {
                 "en_US": "Keyboard/Mouse Combo",
-                "ar_SA": "طقم لوحة مفاتيح وفأرة"
+                "ar_SA": "\u0637\u0642\u0645 \u0644\u0648\u062d\u0629 \u0645\u0641\u0627\u062a\u064a\u062d \u0648\u0641\u0623\u0631\u0629"
             },
             "skus": "416446,426775,447765,550578,555548,557960,566191,577053,590594,590616"
         },
         {
             "title": {
                 "en_US": "Cleaning Supplies",
-                "ar_SA": "مستلزمات طقم"
+                "ar_SA": "\u0645\u0633\u062a\u0644\u0632\u0645\u0627\u062a \u0637\u0642\u0645"
             },
             "skus": "365403,445178,445179,507657,507663,507667,507672"
         }
@@ -151,6 +151,14 @@
             "show_in_product_status": "1"
         },
         {
+            "label": "Best Deals",
+            "showonmobile": "no",
+            "showondesktop": "no",
+            "priority": "38",
+            "id": "38",
+            "show_in_product_status": "1"
+        },
+        {
             "label": "Exclude Out of Stock",
             "as400tagcode": "56",
             "showonmobile": "yes",
@@ -161,7 +169,7 @@
         }
     ],
     "alternative_item": null,
-    "klevu_search_keywords": "تلفزيون ذكي, QA55S90DAUXSA ,Graphite Black ,او ال اي دي ,4K OLED ,55 بوصة تلفزيون ذكي سامسونج",
+    "klevu_search_keywords": "\u062a\u0644\u0641\u0632\u064a\u0648\u0646 \u0630\u0643\u064a, QA55S90DAUXSA ,Graphite Black ,\u0627\u0648 \u0627\u0644 \u0627\u064a \u062f\u064a ,4K OLED ,55 \u0628\u0648\u0635\u0629 \u062a\u0644\u0641\u0632\u064a\u0648\u0646 \u0630\u0643\u064a \u0633\u0627\u0645\u0633\u0648\u0646\u062c",
     "price": 8999,
     "special_price": 7399,
     "weight": 44.22,
@@ -176,13 +184,13 @@
     "special_price_ex_vat": 6433.92,
     "base_price_ex_vat": 7825.21,
     "jarir_final_price": 7399,
-    "special_from_date": "2024-06-29 00:00:00",
-    "special_to_date": "2024-06-30 00:00:00",
-    "jb_product_update_at": "2024-06-29 00:40:01",
+    "special_from_date": "2024-07-01 00:00:00",
+    "special_to_date": "2024-07-02 00:00:00",
+    "jb_product_update_at": "2024-07-01 01:13:41",
     "status": 1,
     "visibility": 4,
     "tax_class_id": 0,
-    "priority": 100685,
+    "priority": 100640,
     "is_protection_service": true,
     "cashoncollection_enable": 0,
     "cod_enable": 0,
@@ -287,7 +295,7 @@
         "label": "Samsung",
         "id": 2245,
         "tsk": 1719412505,
-        "label_translation": "سامسونج"
+        "label_translation": "\u0633\u0627\u0645\u0633\u0648\u0646\u062c"
     },
     "starRatings": 5,
     "reviewCount": 1,
