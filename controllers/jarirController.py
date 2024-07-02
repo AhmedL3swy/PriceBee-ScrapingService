@@ -5,11 +5,13 @@ from models.Product import ProductDetailDTO
 import json
 import re
 
-async def scrape_Jarir_full(url):  
-    #Url Navigation if
-    # ar-sa replace to en-sa 
+async def scrape_Jarir_full(url): 
+     # ar-sa replace to en-sa 
     if "ar-sa" in url:
         url=url.replace("ar-sa", "en-sa")
+    #Url Navigation if
+    if "en-sa" not in url:
+        url=url.replace("jarir.com", "jarir.com/en-sa")
     # if sa-en not included add them after the domain
     if "sa-en" not in url:
         url=url.replace("jarir.com", "jarir.com/sa-en")
