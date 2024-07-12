@@ -1,7 +1,9 @@
 #Dependencies
+import json
 from bs4 import BeautifulSoup
 from requests_html import AsyncHTMLSession
 from models.Product import  ProductDetailDTO
+from utils import getStringBetweenTwoWords
 
 
 async def scrape_amazonSa_full(url):
@@ -25,7 +27,13 @@ async def scrape_amazonSa_full(url):
             rating = float(rating_element.get_text().strip()) if rating_element else 0.0
             description_element = soup.select_one('ul.a-spacing-mini')
             description = description_element.get_text().strip() if description_element else ""
-
+            scriptWithImages = soup.find_all('script', type='text/javascript', string=lambda text: text and 'ImageBlockATF' in text) 
+            data = getStringBetweenTwoWords(str(scriptWithImages[0]), "'colorImages':", "'colorToAsin'").replace("'", "\"").strip().rstrip(",")
+            data=json.loads(data)
+            unique_images = []
+            for obj in data['initial']:
+                main_images = obj['hiRes']
+                unique_images.append(main_images)
             # Get all data from table where selector table.a-spacing-micro
             table = soup.select_one('table.a-normal.a-spacing-micro')
             table_data = {}
@@ -85,7 +93,7 @@ async def scrape_amazonSa_full(url):
                 rating=rating,
                 description_Global=G_table_data_str,
                 description_Local=table_data_str,
-                images=images,
+                images=unique_images,
                 productlink1=url
             )
         except Exception as e:
