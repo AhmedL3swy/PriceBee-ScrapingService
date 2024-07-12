@@ -1,6 +1,8 @@
+import json
 from bs4 import BeautifulSoup
 from requests_html import AsyncHTMLSession
 from models.Product import ProductDetailDTO
+from utils import getStringBetweenTwoWords
 
 async def scrape_noon_full(url: str) -> dict:
     if "saudi-en" in url:
@@ -18,9 +20,9 @@ async def scrape_noon_full(url: str) -> dict:
     rating = float(soup.find('div', class_='sc-e7071e85-2').get_text().strip()) if soup.find('div', class_='sc-e7071e85-2') else 0.0
     description = soup.find('div', class_='sc-97eb4126-2').get_text().strip() if soup.find('div', class_='sc-97eb4126-2') else ""
     d_local = soup.find('div', class_='sc-966c8510-2').get_text().strip() if soup.find('div', class_='sc-966c8510-2') else ""
-
-    image_soup = soup.find_all('img')
-    img = [i['src'] for i in image_soup if "&width" in i['src']]
+    imageScriptTage = "\n".join([str(script) for script in soup.find_all('script') if '"image":[' in str(script)])
+    images = getStringBetweenTwoWords(imageScriptTage, '"image":', ']')+']'
+    images = json.loads(images)
 
     item_data = ProductDetailDTO(
         domainId=5,
@@ -29,7 +31,7 @@ async def scrape_noon_full(url: str) -> dict:
         price=price,
         rating=rating,
         description_Global=description,
-        images=img,
+        images=images,
         productlink1=url,
         description_Local=d_local
     )
