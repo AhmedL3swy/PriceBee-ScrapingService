@@ -9,6 +9,8 @@ async def scrape_amazon_full(url: str) -> dict:
     price = float(soup.select_one('span.a-offscreen').get_text().strip().replace('$',''))
     title = soup.select_one('span.a-size-large').get_text().strip()
     rating = soup.select_one('#averageCustomerReviews_feature_div span.a-color-base').get_text().strip()
+    rating = round(float(rating),1)
+
     discription = soup.select_one('.a-spacing-mini span.a-list-item').get_text().strip()
     soup_images = soup.select("#imageBlock img")
     images = []

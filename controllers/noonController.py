@@ -23,6 +23,7 @@ async def scrape_noon_full(url: str) -> dict:
     imageScriptTage = "\n".join([str(script) for script in soup.find_all('script') if '"image":[' in str(script)])
     images = getStringBetweenTwoWords(imageScriptTage, '"image":', ']')+']'
     images = json.loads(images)
+    rating = round(float(rating),1)
 
     item_data = ProductDetailDTO(
         domainId=5,

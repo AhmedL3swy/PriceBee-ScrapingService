@@ -41,6 +41,7 @@ async def scrape_extra_full(url):
             description = product_details.get('descriptionEn', 'N/A')
             description_local = product_details.get('summary', 'N/A')
             rating = product_details.get('rating', 'N/A')
+            rating = round(float(rating),1)
             p=url.split("/p/")[1].split("/")[0]
             images = [f"https://media.extra.com/i/aurora/{p}_100_0{i}" for i in range(1,6)]
             result = []

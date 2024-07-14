@@ -28,7 +28,8 @@ async def scrape_aliexpress_full(url: str) -> dict:
                     attr_values.append(attr_key+":"+attr_value)
         
         concatenated_description = ', '.join(attr_values)
-
+        #conver rating to float with only 1 decimal palce like 4.5 instead of 4.55555555555 by round
+        rating = round(float(rating),1)
     item_data = ProductDetailDTO(domainId=6,name_Global=title, price=price,images=ImageList,productlink1=url,description_Global=concatenated_description,is_available=is_available)
     return item_data
 

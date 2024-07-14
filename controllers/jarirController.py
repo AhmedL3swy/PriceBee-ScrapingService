@@ -40,7 +40,8 @@ async def scrape_Jarir_full(url):
     isAvailable = obj.get("check_availability_status", 0) == 1
     PriceAfterDiscount = obj.get("final_price_ex_tax", obj.get("price", None))
     rating = obj.get("starRatings", None)
-    
+    rating = round(float(rating),1)
+
     images = ["https://ak-asset.jarir.com/akeneo-prod/asset/"+image["image"] for image in obj.get("media_gallery", []) if image.get("type") == "image"]
 
     # Local Extraction..
@@ -58,7 +59,6 @@ async def scrape_Jarir_full(url):
     concatenated_specs = re.findall(r": '([^']*)'", concatenated_specs)
     concatenated_specs.insert(0, "1")  # Add the first value
     concatenated_specs = ', '.join(concatenated_specs)
-
     description_Local = concatenated_specs
     item_data = ProductDetailDTO(description_Local=description_Local,name_Global=name_global,name_Local=name_Local, price=PriceAfterDiscount,images=images,productlink1=url,description_Global=description,is_available=isAvailable,rating=rating)
     return item_data

@@ -25,6 +25,7 @@ async def scrape_amazonSa_full(url):
             title = title_element.get_text().strip() if title_element else ""
             rating_element = soup.select_one('#averageCustomerReviews_feature_div span.a-color-base')
             rating = float(rating_element.get_text().strip()) if rating_element else 0.0
+            rating = round(float(rating),1)
             description_element = soup.select_one('ul.a-spacing-mini')
             description = description_element.get_text().strip() if description_element else ""
             scriptWithImages = soup.find_all('script', type='text/javascript', string=lambda text: text and 'ImageBlockATF' in text) 
